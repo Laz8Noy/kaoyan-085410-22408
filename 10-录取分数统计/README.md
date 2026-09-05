@@ -1,0 +1,34 @@
+# 10 录取分数统计（来源：CodeBrick）
+
+> ⚠️ **数据来源声明**：本目录全部数据爬取自 [CodeBrick 考研录取数据](https://www.codebrick.tech/practice/school-admit)（2026-09-06，限速 0.25s/请求），为 AI 辅助整理，**版权归原作者/原站所有**。数据本身是原站基于各校公开复试/录取名单汇总的**聚合统计**（分位数/均值/人数），不含任何逐人原始记录。引用请注明出处；如有侵权请联系删除。
+
+## 有什么
+
+| 文件 | 内容 |
+|---|---|
+| `data/catalog_2024~2027.json` | 408 科目目录（4 个年份）：2026 年覆盖 **104 所学校 / 547 个项目**，含考试科目类型（11408/22408/408 等）、专业代码、改考来源、**研招网目录原文链接**（sourceLevel=official 为官方直证） |
+| `data/schools_index.json` | 96 所有录取统计数据的学校索引（含记录数、年份范围、CS 排名、985/211 标签） |
+| `data/schools/<id>.json` | 每校一个文件：**逐项目、逐年份**的分数统计——408/数学/英语/政治/总分的 min/p25/median/p75/max/mean、置信区间、记录数、国家线、复试淘汰率、同比（yoy）、分数带分布（bandGrids） |
+
+总规模：96 所学校、689 个项目条目、约 5.3 万条底层记录的聚合，5.3 MB。
+
+## 数据口径注意
+
+- `distPopulation=retest_pool` 表示统计总体是**复试池**（含最终未录取者），不是纯录取名单；`enrolledCount`/`retestCount` 为 0 时注意区分
+- 小样本（recordCount < 30）的分位数波动大，仅供参考
+- `exam408Type`：`11408`=英一数一408，`22408`=英二数二408，与本仓库主线（22408）口径不同的项目已在 catalog 标注
+- 年份覆盖不均：清北浙等头部校 2024-2026 三年全，部分学校仅 2026 一年
+- **2027 目录目前仅 1 所**（ early bird 数据），以研招网正式目录为准
+
+## 怎么用
+
+```python
+import json
+d = json.load(open('data/schools/1.json', encoding='utf-8'))  # 清华大学
+for p in d['programs']:
+    for y in p['stats']['years']:
+        s408 = next((s for s in y['subjects'] if s['key'] == 's408'), None)
+        print(p['programName'], y['year'], '408中位数:', s408 and s408['median'])
+```
+
+与本仓库其他数据的关系：`04-终极版择校` 的复试线是**院校线**口径；本目录是**分数分布**口径（能看到 408 单科中位数/四分位），两者互补。cross-check 时以官方源为准。
