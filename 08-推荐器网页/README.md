@@ -9,7 +9,7 @@
 - 筛选：层次（985/211/双一流/双非，按数据动态生成）、地区（7 大区多选）、数据源（仅三源核对 / 仅 N诺候选）、科目（仅 22408 英二数二 408）
 - 每行带学院/方向、复录比、AI 方向标签、王道考情文章直达链接、备注
 
-在线地址：<https://laz8noy.github.io/kaoyan-085410-22408/08-推荐器网页/kaoyan-recommender-full.html>
+在线地址：<https://laz8noy.github.io/kaoyan22408/08-推荐器网页/kaoyan-recommender-full.html>
 
 ## 🗂 历史原型（勿用，仅存档）
 
