@@ -8,9 +8,12 @@
 
 ## 🌐 在线访问（免下载）
 
-**终极版择校页已上线 GitHub Pages**（105 所院校：67 所 085410 双非 + 38 所 211/重点，含考情明细、三源交叉核对、总览筛选与智能推荐器）：  
+**终极版择校页已上线 GitHub Pages**（105+81 所院校：67 所 085410 双非 + 81 所 N诺候选 + 38 所 211/985 对照，含考情明细、三源交叉核对、2024 考情参考、总览筛选与智能推荐器）：  
 👉 [https://laz8noy.github.io/kaoyan-085410-22408/](https://laz8noy.github.io/kaoyan-085410-22408/)  
 （打开即自动进入，手机/电脑均可直接使用）
+
+**独立全量推荐器**（输入预估分 → 冲/稳/保自动分档）：  
+👉 [kaoyan-recommender-full.html](https://laz8noy.github.io/kaoyan-085410-22408/08-%E6%8E%A8%E8%8D%90%E5%99%A8%E7%BD%91%E9%A1%B5/kaoyan-recommender-full.html)
 
 ## 10 分钟上手
 
