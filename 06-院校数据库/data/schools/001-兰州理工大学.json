@@ -1,0 +1,74 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "兰州理工大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "甘肃",
+   "region": "西北",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "机器学习与计算机视觉",
+   "line2026": "254",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": "250",
+    "2026": "254"
+   },
+   "plan2026": "35",
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "48",
+   "heatComp": "30",
+   "nnRate": "100%",
+   "note": "B区国家线254；方向机器学习与计算机视觉",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "254",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "计算机与通信学院",
+   "nnSubjects": "英二数二408",
+   "wdCount": "4",
+   "wdYears": "23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/Ha7ZowkP_yvX9XvakCqKag",
+   "college": "计算机与人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666217104&idx=4&sn=dc365428e1cd6aad61fe755791cd3631&scene=21&poc_token=HD_MCmmjle0IWoGYZvQPGkGXkGnl03TU3i-z22bE",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666230389&idx=3&sn=62a05c6fb8b5bc62b3036db53d313878&scene=21&poc_token=HDzMCmmjr4FYUvxDm91PtupsZk4JB15urEb4_WPM",
+  "25考情分析": "https://mp.weixin.qq.com/s/LzM7aiyFsXB7nyC1cSo8VQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/Ha7ZowkP_yvX9XvakCqKag"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "兰州理工大学085410复试通知",
+   "url": "https://jizhi.lut.edu.cn/info/1302/12559.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

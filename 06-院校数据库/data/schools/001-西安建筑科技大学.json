@@ -1,0 +1,49 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "西安建筑科技大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "西安建筑科技大学",
+   "province": "陕西",
+   "college": "信息与控制工程学院",
+   "program": "电子信息-计算机 控制与通信",
+   "subjects": "推测408",
+   "line": null,
+   "retestCnt": "34",
+   "adjCnt": "151",
+   "avgTotal": "315",
+   "avg408": "127",
+   "avgPol": "60",
+   "avgEng": "52",
+   "avgMath": "76",
+   "admitCnt": "34",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666152363&idx=3&sn=45a89b269bb2a7f114577df242579f98&scene=21&poc_token=HLr6C2mjUuBLczbruBMHSO6ExVR6xLltsdnwa-ZE",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666156521&idx=3&sn=96df2931b11323be7843f35334dabb24&scene=21&poc_token=HLf6C2mjJMk6Ee1nyQZhgRqFOLqNyNjSDwGxfUHh",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666168540&idx=8&sn=7939b14c5f9f1d917b785eebd8976699&scene=21&poc_token=HKL6C2mjeaX3gOl9qF46L_ff2-v7U-OSFIsrv9lM",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186581&idx=7&sn=5f23f06cb8825871973d1a973ccd88de&scene=21&poc_token=HJ_6C2mjV7B2NQJjFiYXBH2XTaCwEo8URttjKNbC",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666213159&idx=6&sn=5d78ad178ce3def8012843457f464dc7&scene=21&poc_token=HIj6C2mjkfg4De6unoggOBMz3YSaoiuDaZyZ9CVh",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666230669&idx=6&sn=fb1f1131a1762f4973a8d9a27bc8506a&scene=21&poc_token=HIX6C2mjbVCvyXtzZW_dcQU8i5FAT4hj-gluXOJ6",
+  "25考情": "https://mp.weixin.qq.com/s/cDPKAo_U-_otgqoiqYyulA",
+  "26考情": "https://mp.weixin.qq.com/s/4le1h7DuecrsVP4SR9NDdQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

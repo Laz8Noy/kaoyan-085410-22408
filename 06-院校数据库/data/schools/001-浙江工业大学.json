@@ -1,0 +1,49 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "浙江工业大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "浙江工业大学",
+   "province": "浙江",
+   "college": "地理信息学院",
+   "program": "智能科学与技术",
+   "subjects": "英一数一408",
+   "line": "266",
+   "retestCnt": "5",
+   "adjCnt": "20",
+   "avgTotal": "306",
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "5",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "⚠️非22408(英一数一408)"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233540&idx=8&sn=eb9c870dc6eb21b429560df2bcbbe8ed&scene=21&poc_token=HCKgCmmjJf-FNMOZEe2bSKhICjmtP9tUejPl2jwp",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233540&idx=7&sn=35a0d507b5eeaa44f7d2dd099b5ccd74&scene=21&poc_token=HCCgCmmj9Sc30DLTVirIlpjHuAkVEm9hE7TxEO8g",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233540&idx=6&sn=7e7be5df76328a91d3d5da63f4ed8f5d&scene=21&poc_token=HG6gCmmjr2nHR5OLbTBeQnooDZDU9aTTG6I6LfAd",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233540&idx=5&sn=4a0cb3be7803d6fa5cdbe35f0cc26869&scene=21&poc_token=HBqgCmmjtIil6FQItCjRUGOLOsOVyzyX4XXIixQZ",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233540&idx=4&sn=9e7f052bc279070d4f251b9cc11cbad2&scene=21&poc_token=HBegCmmjR77km_zP348J7Zbb98wUcPJifkEg_U-0",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233540&idx=2&sn=1cd7967b0acfa60ebfae3f461e48b61c&scene=21&poc_token=HBWgCmmjhdgHH4BPZ_kqq4fmxaB0bbb7vW1nD-vv",
+  "25考情": "https://mp.weixin.qq.com/s/h0RWdd3xAh5GLmqReeggxg",
+  "26考情": "https://mp.weixin.qq.com/s/pFl2_6yJCs1IhLEFIGk0Cw"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

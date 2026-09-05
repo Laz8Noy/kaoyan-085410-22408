@@ -1,0 +1,52 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "南京大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "江苏",
+   "region": "华东",
+   "tier": "985",
+   "subjectClass": "待确认",
+   "heatComp": "56",
+   "heatNet": "95",
+   "aiTag": "✅真AI方向",
+   "note": "085410线待官方核实，作985对照",
+   "srcLabel": "网络热度",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "wdCount": "5",
+   "wdYears": "22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/vDkmDzQ9bmS-9f-BkwJQ2A",
+   "college": "人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236947&idx=3&sn=f60b925bcfa81afcf7c7f52bd9167d4f&scene=21&poc_token=HGJkDGmjeKEjkOWoU3yKNzvoHdrmCNyE4RoEhEV3",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236947&idx=2&sn=91dd57975596bdac2ca35cee6ddfba4f&scene=21&poc_token=HF9kDGmjMjWn98gyWTCw2BLMEaooaJ51r2E_KUKd",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236947&idx=1&sn=13412c17a9834369971e8e2a65c34960&scene=21&poc_token=HF1kDGmjYSePGkcPogFmeyle9COTQdCPesR_AD_Z",
+  "25考情": "https://mp.weixin.qq.com/s/X2gI-Z3rz9kf6Wx2Lmo5nA",
+  "26考情": "https://mp.weixin.qq.com/s/vDkmDzQ9bmS-9f-BkwJQ2A"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

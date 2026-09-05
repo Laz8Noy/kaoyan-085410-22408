@@ -1,0 +1,45 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "太原师范学院",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "太原师范学院",
+   "province": "山西",
+   "college": "计算机系",
+   "program": "电子信息-计算机",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "7",
+   "adjCnt": "136",
+   "avgTotal": "295",
+   "avg408": "78",
+   "avgPol": "58",
+   "avgEng": "71",
+   "avgMath": "89",
+   "admitCnt": "7",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666215580&idx=4&sn=0e707bfa330cee0480f82289f4da5066&scene=21&poc_token=HDT-C2mjxclUmaiLgZ1E7d_r41yBBzdGE07wT7rD",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235224&idx=5&sn=9063107b21b6f3c9d09278476756f487&scene=21&poc_token=HDn-C2mjbIZXqDWfUCY_-zjKClyhiuieT1ZWbqfV",
+  "25考情": "https://mp.weixin.qq.com/s/-Srtz75XGDMzdogMBsyC-A",
+  "26考情": "https://mp.weixin.qq.com/s/1LYi-3aJBeKn7X-uVjHZHA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

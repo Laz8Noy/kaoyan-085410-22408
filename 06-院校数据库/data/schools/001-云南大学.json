@@ -1,0 +1,59 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "云南大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "云南",
+   "region": "西南",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "339",
+   "lineDelta": "+85",
+   "heatComp": "66",
+   "heatNet": "76",
+   "aiTag": "✅真AI方向",
+   "note": "信息学院339、软件学院人工智能学院329（取高值）",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "lineUltimate2026": "339",
+   "wdCount": "7",
+   "wdYears": "19考情,20考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/_v-kQcecgxjtTcVqfIrjbg",
+   "college": "信息学院/软件学院（人工智能学院）"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236337&idx=5&sn=3d7410539b705b5cdcad232dfaf21d08&scene=21&poc_token=HPinCmmjRXiZe5S9u0nDXcIlwD0gLp47hHlhbrwd",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236337&idx=4&sn=a42d578acd0eb809cdee57d9d2dcef6d&scene=21&poc_token=HPWnCmmjIz7SiY1cs0E4BXG6wwWhs3501j0DbPvJ",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236337&idx=3&sn=748e68a2061bb42eca09ee807ee51e5d&scene=21&poc_token=HO-nCmmj0qQSlJnDP-foPLijj9yZFLpfGwlSNxwc",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236337&idx=2&sn=378efe308c5eed5377b94a9e3b655ab3&scene=21&poc_token=HOunCmmjimjsr01lwLtQm4UaAPeG3mDB6Bvd0VB6",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236337&idx=1&sn=2e8ec080480dd5339e06c9ecb72886f6&scene=21&poc_token=HOWnCmmjs9hyn7Ng-rar5MW7-6C6LqI5CQzKjbmN",
+  "25考情": "https://mp.weixin.qq.com/s/n9htU5DXSsJxuP-r0t-eiA",
+  "26考情": "https://mp.weixin.qq.com/s/_v-kQcecgxjtTcVqfIrjbg"
+ },
+ "updates2027": [],
+ "tutors": [
+  "杨云（人工智能、集成学习、时间序列数据挖掘、智慧医养、智慧安防）；张璇（知识工程、自然语言处理、软件工程、区块链、计算机视觉）；余程嵘（智能医学、医学图像分析、智能放疗）"
+ ],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

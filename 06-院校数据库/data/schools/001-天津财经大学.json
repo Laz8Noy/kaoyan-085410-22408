@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "天津财经大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "天津财经大学",
+   "province": "天津",
+   "college": "理工学院",
+   "program": "计算机科学与技术",
+   "subjects": "英一数一408",
+   "line": null,
+   "retestCnt": "1",
+   "adjCnt": "57",
+   "avgTotal": "306",
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "1",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "⚠️非22408(英一数一408)"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186920&idx=6&sn=ff11f29219e77b02a94e6d6fc2574910&scene=21&poc_token=HBm6Cmmjp9Mj8HQk2eQPx_Yc3cyWpXlAquepcrlz",
+  "23考情": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HAu6Cmmjx2jepsv9iSCWushuX8Wz-rW5YcixSsU0&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4OTE4MjIwMA%3D%3D%26mid%3D2666215580%26idx%3D5%26sn%3Dce07038de0defd0acdea37dc4ccc9dd3%26scene%3D21#wechat_redirect",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231199&idx=6&sn=bb086fd782a4924639b85ab200d27bae&scene=21&poc_token=HO25CmmjIMHxHoUQBn3SMDuHRyICmGiMck1KZxIg",
+  "25考情": "https://mp.weixin.qq.com/s/3iKVy_RmjK_pERirIR9gjg",
+  "26考情": "https://mp.weixin.qq.com/s/JZQ06bM71xUtaPtn_YYniw"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

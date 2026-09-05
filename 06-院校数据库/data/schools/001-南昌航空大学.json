@@ -1,0 +1,81 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "南昌航空大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "江西",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "调剂9+5",
+   "aiTag": "❓未注明",
+   "heatNet": "45",
+   "heatComp": "25",
+   "note": "两个学院合计约14个调剂名额",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/fUigtmH4_6IzeK8vcV2pAA",
+   "college": "仪器科学与光电工程学院等"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187022&idx=4&sn=6959f543df90cb0e7ff1e62d031bb3da&scene=21&poc_token=HOJbDGmjmexDopajDP7jBXdmFNG-F3guCasoDIeP",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187022&idx=3&sn=f09921a48b9c303bdc2f1d8587e30a33&scene=21&poc_token=HOBbDGmjqz44n6hT_kddLZECDvkvEwynM1UWdqHv",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187022&idx=2&sn=340a77d527affcb64e163ed8fca2bd99&scene=21&poc_token=HN1bDGmjM1bbzc1OjiyASuRUqIRqpUPZ9KgF3jyO",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187022&idx=1&sn=afa2015d3d750bf2a0eb7301b28957ef&scene=21&poc_token=HNtbDGmj6amZcLovMVGwQiQvq5n05WrL_SZ2eFfZ",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666212576&idx=6&sn=fa88323e3f37cb19959633d6f07a52b9&scene=21&poc_token=HMJbDGmjU73BHrQCkE-hcGkrpnv6Z-F332qSQaOs",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666230631&idx=4&sn=22d8e425b4f35f1f801d2ecae5b20d52&scene=21&poc_token=HL9bDGmjoreYuDkAJG4eubLCU0lEA1nj9NjNN6ym",
+  "25考情": "https://mp.weixin.qq.com/s/8BwL5s7uBduPNn2U0MgZiA",
+  "26考情": "https://mp.weixin.qq.com/s/fUigtmH4_6IzeK8vcV2pAA"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "22408",
+  "region": "华东",
+  "tier": "双非",
+  "line": "264",
+  "fill": "调剂9+5",
+  "aiTag": "❓未注明",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "南昌航空大学085410调剂",
+   "url": "https://cgxy.nchu.edu.cn/tzgg/content_189380"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

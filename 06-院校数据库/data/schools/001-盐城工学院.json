@@ -1,0 +1,64 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "盐城工学院",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "江苏",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "待确认",
+   "aiTag": "❓未注明",
+   "heatNet": "36",
+   "heatComp": "24",
+   "note": "2026改考408，执行A区国家线",
+   "srcLabel": "机构估算",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "4",
+   "wdYears": "23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/hOL4kpag5-SpsGFKQLkjCw",
+   "college": "信息工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666212264&idx=6&sn=f62ebf0f84616ad3a0cb32b45c79f170&scene=21&poc_token=HFlqDGmj54kg08IJW7qEqAqcg9AzxSLXK071MOg7",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234771&idx=6&sn=83970743a6e9511a2baa8a3a6a101d4d&scene=21&poc_token=HFZqDGmj3FeegZV6uRbgFfFHWONEaFjCnnwEzAxa",
+  "25考情": "https://mp.weixin.qq.com/s/Wt828VDsR-l12mrLdv0fmA",
+  "26考情": "https://mp.weixin.qq.com/s/hOL4kpag5-SpsGFKQLkjCw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

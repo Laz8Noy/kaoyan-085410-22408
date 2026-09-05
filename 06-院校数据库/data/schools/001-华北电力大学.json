@@ -1,0 +1,72 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "华北电力大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "北京",
+   "region": "华北",
+   "tier": "211",
+   "subjectClass": "非408",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "heatComp": "33",
+   "heatNet": "60",
+   "aiTag": "❓未注明",
+   "note": "2024年三个方向均273（国家线）；2026按A区国家线264；AI方向在控制与计算机工程学院，偏控制；085410仅非全，考842非408",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "264",
+   "kaoqingUrl": "https://www.kaoyana.com/s1090/085410/",
+   "scope": "⚠️085410仅非全日制55人，考842自控原理基础（非408）；保定自动化系085410非全考841；不符合全日制22408",
+   "college": "控制与计算机工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "控制与计算机工程学院",
+   "tier": "211",
+   "subjects": "非408",
+   "line2026": "264",
+   "plan": null,
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "⚠️085410仅非全日制55人，考842自控原理基础（非408）；保定自动化系085410非全考841；不符合全日制22408",
+   "verify": "机构🔍",
+   "url": "https://www.kaoyana.com/s1090/085410/"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {},
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "华北电力大学085410复试方案",
+   "url": "https://cce.ncepu.edu.cn/yjspy/zsxx1/067d122d9ba342eeb6ecc5e3a28ff1d1.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "西北工业大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "陕西",
+   "region": "西北",
+   "tier": "985",
+   "subjectClass": "待确认",
+   "line2026": "360",
+   "lineDelta": "+96",
+   "heatComp": "73",
+   "heatNet": "88",
+   "aiTag": "✅真AI方向",
+   "note": "官方复试方案：085410复试线360（另有310专业）",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "lineUltimate2026": "360",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/4FqP_ykWI4tbXC_93aDHjw",
+   "college": "光电与智能研究院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236311&idx=6&sn=61a7d59b7808649d037573f7853fa8b0&scene=21&poc_token=HOYYC2mjpl3iUbZAHzrEUcPSxXpe7Enr5kk4fMeh",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236311&idx=5&sn=72e8167cc132325569f79dc43e702b62&scene=21&poc_token=HOQYC2mjQr20FqTZQgbTxutxuWck42qrOPTQWsLO",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236311&idx=4&sn=ffd884588cbf6b7a15d677f034db9d8f&scene=21&poc_token=HOEYC2mj0jj-AwECQtDkW43XtPMcDm5OWdeY25rz",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236311&idx=3&sn=fad5810faa5d6bf002698fd8bf8d6fe6&scene=21&poc_token=HMcYC2mjBQavyo6NTwJr-9TB0i8pXkSf4lYZyjS4",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236311&idx=2&sn=771dc92c3afc26860b91d7fdc7d50840&scene=21&poc_token=HMMYC2mj6lAq3tFQQgpst5WYIcYLICekwKhjQU_n",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236311&idx=1&sn=a937a6fee340631af02d38c867305975&scene=21&poc_token=HLEYC2mjh6tY0n0ZkWZmnzjF_FSo202Cw5B4N3Zc",
+  "25考情": "https://mp.weixin.qq.com/s/xvZxB2WEu55GvBubS6L9HQ",
+  "26考情": "https://mp.weixin.qq.com/s/4FqP_ykWI4tbXC_93aDHjw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "西北工业大学085410复试方案",
+   "url": "https://iOPEN.nwpu.edu.cn/info/1028/8266.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

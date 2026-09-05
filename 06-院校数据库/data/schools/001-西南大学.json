@@ -1,0 +1,88 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "西南大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "重庆",
+   "region": "西南",
+   "tier": "211",
+   "subjectClass": "22408(2027)",
+   "heatComp": "50",
+   "heatNet": "76",
+   "aiTag": "✅真AI方向",
+   "note": "2027由自命题改408（官方公告2026-07）；英二数二；首年窗口，简章待出2026无085410（085400）；2027改设085410+408",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/vJjuJQnlOpcrqOL0V_q7LA",
+   "scope": "2026年无085410（085400）；2027年改设085410并考408，历史线无",
+   "college": "人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "人工智能学院",
+   "tier": "211",
+   "subjects": "22408(2027)",
+   "line2026": null,
+   "plan": null,
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "2026年无085410（085400）；2027年改设085410并考408，历史线无",
+   "verify": "官方✅(2027公告)",
+   "url": null
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236373&idx=6&sn=7a1276ac907e6efc10d70851236cb6a3&scene=21&poc_token=HBS2Cmmjl6mjUF4QRjgBZ7H0dLtM-uYDVGCf6C2l",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236373&idx=5&sn=df7795a46b72eaefe56a7ed69997deba&scene=21&poc_token=HBC2CmmjPBh41f5i3SRdjrGj74Qxjme5hik4aCVI",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236373&idx=4&sn=cdaa5c10c3ea73b0ac25644384cde0e6&scene=21&poc_token=HA22Cmmj6uFkkKwPE-mjifIvoN_mf9EQsfBc_m10",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236373&idx=3&sn=9cd1378925cc32dbd88dd6ccf7057d89&scene=21&poc_token=HAq2Cmmj-bN2ZTDG5eg1KjnMdvcaYuegfdwprF1O",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236373&idx=2&sn=cd26857e44b3609ee83e53caf4dfcddb&scene=21&poc_token=HAe2CmmjFYeejhTrEpN_7bDYndyX69guFPRVZhok",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236373&idx=1&sn=4c3065b7f619988fce0a951faf3a55d7&scene=21&poc_token=HAW2CmmjdyZgI7d_jUKF86RhFzbGkDdIuoojZCOI",
+  "25考情分析": "https://mp.weixin.qq.com/s/X3ZMtBASfFXlNNa-V73y5A",
+  "26考情分析": "https://mp.weixin.qq.com/s/vJjuJQnlOpcrqOL0V_q7LA"
+ },
+ "updates2027": [
+  {
+   "院校": "西南大学",
+   "层次": "211",
+   "专业/范围": "AI学院085410(原085400电子信息)",
+   "原科目": "自命题",
+   "新科目": "408",
+   "生效年份": "2027",
+   "来源": "官方公告2026-07",
+   "备注": "英二数二；首年窗口，简章待出"
+  }
+ ],
+ "tutors": [
+  "段书凯（类脑芯片、工业机器人、智能控制、仿生信息材料）；徐伟华（粒计算、不确定性人工智能、数据挖掘）；吴松（多模态深度学习、跨模态表示与感知决策）；闫嘉（机器嗅觉、模式识别、深度学习）"
+ ],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

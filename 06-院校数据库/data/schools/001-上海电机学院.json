@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "上海电机学院",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "上海电机学院",
+   "province": "上海",
+   "college": "电子信息学院",
+   "program": "电子信息-大类招生",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "5",
+   "adjCnt": "290",
+   "avgTotal": "307",
+   "avg408": "77",
+   "avgPol": "58",
+   "avgEng": "71",
+   "avgMath": "101",
+   "admitCnt": "4",
+   "admitAvg": "309",
+   "rate": "80%",
+   "ratioNN": "1.2",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186380&idx=5&sn=f8075890977198d3e5729e2acd0fadfc&scene=21&poc_token=HLkHC2mjEqKbGg6Om3biqGVVoUgp98Jf3l7R10ML",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666218230&idx=8&sn=7533610b9c887790c1fa74758fefdb8a&scene=21&poc_token=HKUHC2mjlFAl5cJAq17ztfBtyaEjviWRwm7xIj6X",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231380&idx=5&sn=d9dc0098d90f03d976752404baffece1&scene=21&poc_token=HJYHC2mjg-YTBZhSfR5zKQPqPsH1jh9bUZPbQfy5",
+  "25考情": "https://mp.weixin.qq.com/s/0arytTX_YV-qjJyMdEsaFQ",
+  "26考情": "https://mp.weixin.qq.com/s/OeHjb0AcWg9BzRv7KswS8Q"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

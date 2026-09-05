@@ -1,0 +1,43 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "浙江海洋大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "浙江海洋大学",
+   "province": "浙江",
+   "college": "信息工程学院",
+   "program": "085404 计算机技术",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "6",
+   "adjCnt": "46",
+   "avgTotal": "293",
+   "avg408": "72",
+   "avgPol": "62",
+   "avgEng": "64",
+   "avgMath": "95",
+   "admitCnt": "6",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容"
+  }
+ ],
+ "wangdaoLinks": {
+  "25考情": "https://mp.weixin.qq.com/s/2Hc9xPdTxwdGFMkA8X-gug",
+  "26考情": "https://mp.weixin.qq.com/s/rWqMvh9Hu2WBYMvfLGWetw"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

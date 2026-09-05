@@ -1,0 +1,91 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "河南大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "河南",
+   "region": "华中",
+   "tier": "双一流",
+   "subjectClass": "22408",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "heatComp": "29",
+   "heatNet": "62",
+   "aiTag": "✅真AI方向",
+   "note": "双一流建设高校；首批入驻郑州校区全建制学院；22408；执行A区国家线264；复录比≈1:1",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "264",
+   "nnProg": "电子信息-软件工程",
+   "nnCollege": "软件学院",
+   "nnSubjects": "推测408",
+   "nn408avg": "89",
+   "nnRate": "80%",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/3szPQOLj0d5o_iW_u3QnQw",
+   "remark": "N诺线差31",
+   "kaoqingUrl": "https://ai.henu.edu.cn/info/1085/16422.htm",
+   "scope": "拟招35、进复试35，复录比≈1:1，线264；复试含机试",
+   "college": "人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "人工智能学院",
+   "tier": "双一流",
+   "subjects": "22408",
+   "line2026": "264",
+   "plan": "35",
+   "retestCnt": "35",
+   "admitCnt": "35",
+   "ratioRetest": "1",
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "拟招35、进复试35，复录比≈1:1，线264；复试含机试",
+   "verify": "官方✅",
+   "url": "https://ai.henu.edu.cn/info/1085/16422.htm"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236060&idx=6&sn=88aabb197e55ab3b633fefee1f8ca4c9&scene=21&poc_token=HOH6C2mjNOFRwiC-ZqnY34Avdjh8BXk1Zx06OpVY",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236060&idx=5&sn=2e10dce96433ce010ab65c41cb296f0b&scene=21&poc_token=HN76C2mjEMYeFDnt7G5ewxmHSWsu0yW4KZcB2_GY",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236060&idx=4&sn=dfdbf868fcac9e4a7c81dd3c78689059&scene=21&poc_token=HNv6C2mj_rMVNiMlAbqutypcM5g2Wb92fxmoabBU",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236060&idx=3&sn=8afa716d244d00adf38e693821398dc4&scene=21&poc_token=HNj6C2mjAfOTYk4rvOaLUA0sgrvol_JYnXBF2GFY",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236060&idx=2&sn=4386712cb2b5eb7f26c7e9a2460e6665&scene=21&poc_token=HNb6C2mjHOJLq-L5K7fYMy8Na_dQd7aavKDWnOwW",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236060&idx=1&sn=b054841c8048738584a8a472246ea389&scene=21&poc_token=HNP6C2mjgT2cyHPD4hHdI0nv1WUFmZdjzRAJosvn",
+  "25考情分析": "https://mp.weixin.qq.com/s/DS7q4Usar7kDqBpB4ytDCg",
+  "26考情分析": "https://mp.weixin.qq.com/s/3szPQOLj0d5o_iW_u3QnQw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "河南大学AI学院2026复试细则",
+   "url": "https://ai.henu.edu.cn/info/1085/16422.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ },
+ "note": "双一流建设高校；首批入驻郑州校区全建制学院；22408；执行A区国家线264；拟考试招生35、进复试35，复录比≈1:1"
+}

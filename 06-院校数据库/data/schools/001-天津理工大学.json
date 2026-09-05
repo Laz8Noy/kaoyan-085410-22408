@@ -1,0 +1,113 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "天津理工大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "天津",
+   "region": "华北",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "315",
+   "lineDelta": "+51",
+   "linesByYear": {
+    "2023": null,
+    "2024": "286",
+    "2025": "260",
+    "2026": "315"
+   },
+   "plan2026": "42",
+   "fill": "一志愿为主",
+   "scope": "复试线315（官方），拟招42；复试名单/录取明细未单独核查",
+   "aiTag": "✅真AI方向",
+   "heatNet": "72",
+   "heatComp": "54",
+   "nn408avg": "87",
+   "nnRate": "80%",
+   "note": "复试线315，单科按A区国家线",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "315",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "计算机科学与工程学院",
+   "nnSubjects": "英二数二408",
+   "wdCount": "7",
+   "wdYears": "19考情,20考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/lWGYHTJzG11gYN2FwPKQrQ",
+   "college": "计算机科学与工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机科学与工程学院",
+   "tier": "双非",
+   "subjects": "22408",
+   "line2026": "315",
+   "plan": "42",
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "复试线315（官方），拟招42；复试名单/录取明细未单独核查",
+   "verify": "官方✅(线)",
+   "url": null
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666151599&idx=3&sn=b22a849764188a73a894c289332ebeab&scene=21&poc_token=HM2zCmmjMpWxlGpxfRvoswiHyYrPRYnehBovDRwS",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233562&idx=4&sn=b1967abdf19801357de4b8fe68d82513&scene=21&poc_token=HLKzCmmj3M6ZxcFLAvyJYU6w5GsPcOcceDSKPCUJ",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233562&idx=3&sn=471db3c73a18ae90038edd8dd6d3ca69&scene=21&poc_token=HK6zCmmjQ_CxGhQmfjIYejGMDMDXr9-Cs4z8swvN",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233562&idx=2&sn=872590133e171fc0b12b503509709dd2&scene=21&poc_token=HKGzCmmjtzscgCSzM8UJgibiStlPdcBa-PaVAXSd",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233562&idx=1&sn=89778063b0710056a802413b6a0a88ed&scene=21&poc_token=HJCzCmmjvoSeygZAR3d1xUetOnNYmnTVUMEobHBj",
+  "25考情": "https://mp.weixin.qq.com/s/gLtz8Q3RKSavQQrqmzMnvQ",
+  "26考情": "https://mp.weixin.qq.com/s/lWGYHTJzG11gYN2FwPKQrQ"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": {
+  "院校": "天津理工大学",
+  "省份": "天津",
+  "大区": "华北",
+  "层次": "双非",
+  "学院": "计算机科学与工程学院",
+  "初试科目": "22408",
+  "方向": "不区分研究方向",
+  "2026线": "315",
+  "拟招": "42",
+  "一志愿/调剂": "一志愿为主",
+  "AI方向": "✅真AI方向",
+  "来源": "官方",
+  "综合热度": "54",
+  "备注": "复试线315，单科按A区国家线"
+ },
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "天津理工大学2026复试细则",
+   "url": "https://cs.tjut.edu.cn/info/1062/2826.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

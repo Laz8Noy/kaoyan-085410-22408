@@ -1,0 +1,45 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "广西民族大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "广西民族大学",
+   "province": "广西",
+   "college": "人工智能学院",
+   "program": "计算机科学与技术",
+   "subjects": "英一数一408",
+   "line": null,
+   "retestCnt": "4",
+   "adjCnt": "0",
+   "avgTotal": "276",
+   "avg408": "89",
+   "avgPol": "52",
+   "avgEng": "56",
+   "avgMath": "80",
+   "admitCnt": "4",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "⚠️非22408(英一数一408)"
+  }
+ ],
+ "wangdaoLinks": {
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666214272&idx=4&sn=f520af81a90697a212aedb7c49a0d74e&scene=21&poc_token=HI0AC2mjUrtF3BkVCPwOidO9GIRTlUUdWFmnYK0I",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666230939&idx=7&sn=9b761ef31aced1fb7c266754536d4c33&scene=21&poc_token=HIsAC2mjQEpelcODD_gIv7qiNPGX5oyL88JVwWgC",
+  "25考情分析": "https://mp.weixin.qq.com/s/2_l-ypf9Kl8K5-nVR4lblQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/Hmqi_8rr7K3KuM-8lZj7mA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

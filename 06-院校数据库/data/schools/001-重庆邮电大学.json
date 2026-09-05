@@ -1,0 +1,110 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "重庆邮电大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "重庆",
+   "region": "西南",
+   "tier": "双非",
+   "subjectClass": "非408",
+   "direction": "不区分研究方向",
+   "line2026": "336",
+   "lineDelta": "+72",
+   "linesByYear": {
+    "2023": null,
+    "2024": "273",
+    "2025": "260",
+    "2026": "336"
+   },
+   "plan2026": "132待核",
+   "fill": "一志愿为主",
+   "ratioRetest": "1.35",
+   "scope": "⚠️085410考861自控原理（非408）不满足22408；336线为对照，复录比约1.35",
+   "aiTag": "✅真AI方向",
+   "heatNet": "90",
+   "heatComp": "64",
+   "note": "官方复试线336；计划/复试人数以官方为准",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "336",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/GwFPUs1s3qnhBHufI0squQ",
+   "college": "人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "人工智能学院",
+   "tier": "双非",
+   "subjects": "非408",
+   "line2026": "336",
+   "plan": "132待核",
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": "1.35",
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "⚠️085410考861自控原理（非408）不满足22408；336线为对照，复录比约1.35",
+   "verify": "官方✅",
+   "url": null
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235910&idx=6&sn=4f92cf8c3cabd750cc3c8c1933e22cd8&scene=21&poc_token=HH-3CmmjUC8lB5C9kYCVviUv7yy2j1qqTSHM1uyV",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235910&idx=5&sn=a0893c5ee3c828eef32ded1ab246a61d&scene=21&poc_token=HHm3CmmjmZ5mOqcd8670o4Chm7gSKtTIo-3Zifx2",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235910&idx=4&sn=67b635631b6879a67fa372904e6f2268&scene=21&poc_token=HHa3Cmmj4eOTO5QHKlHFM4JJuYecf_vC4IfrP4GI",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235910&idx=3&sn=0fc9b97eca48288d312983a625679810&scene=21&poc_token=HHO3CmmjHFGfvpNgvT8uCtIlZ1ZT7L9FCPQuKflC",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235910&idx=2&sn=9480e57520dd3a42a6de702f7844e7ea&scene=21&poc_token=HHG3CmmjNcTNV7ORgI0mqKPfRt0J0gjy6w43poLB",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235910&idx=1&sn=ab43280b75bde4fb078a29f3786d5032&scene=21&poc_token=HG63CmmjqEMfI0cBcFZan9HKs93_yUcDUcKPWibA",
+  "25考情分析": "https://mp.weixin.qq.com/s/DHBxZrp7xYsy64ynVlYrNQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/GwFPUs1s3qnhBHufI0squQ"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": {
+  "院校": "重庆邮电大学",
+  "省份": "重庆",
+  "大区": "西南",
+  "层次": "双非",
+  "学院": "人工智能学院",
+  "初试科目": "非408",
+  "方向": "不区分研究方向",
+  "2026线": "336",
+  "拟招": "132待核",
+  "一志愿/调剂": "一志愿为主",
+  "AI方向": "✅真AI方向",
+  "来源": "官方",
+  "综合热度": "64",
+  "备注": "官方复试线336；计划/复试人数以官方为准"
+ },
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "重庆邮电大学2026复试线",
+   "url": "https://m.chinakaoyan.com/info/article/id/668021.shtml"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

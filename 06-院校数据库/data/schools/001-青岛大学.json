@@ -1,0 +1,90 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "青岛大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "山东",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "plan2026": "35",
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "58",
+   "heatComp": "33",
+   "nn408avg": "82",
+   "nnRate": "100%",
+   "note": "2026新增招生专业；学院全部改考408",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "计算机科学与技术学院",
+   "nnSubjects": "推测408",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/p-2sL4EpGseIliTwHyV8Rw",
+   "college": "计算机科学技术学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233310&idx=6&sn=21eea5de6ab459c51f9021ffa413f597&scene=21&poc_token=HJEFDGmj3rrR5jLBvz7GYNcCUs1hMuPvfc6od_YB",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233310&idx=5&sn=5d39e6b3096e4e2b95081c3940033416&scene=21&poc_token=HI8FDGmjvx3Bqzngp8GFqIPAQqQLwu9EHoJ5eV0d",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233310&idx=4&sn=23d1ab8a511d1f967d3cb530cd615cad&scene=21&poc_token=HHkFDGmjh9_5faByzS-0m3QHCrPAVlw1zMgtNoN3",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233310&idx=3&sn=d0604e93023e61bff48efb869f6b3c8f&scene=21&poc_token=HHcFDGmjHn8Fg1e9LBo0d5cE2oxqePAJA6F0LgXE",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233310&idx=2&sn=58114a0c6241b927d87836a549d4899c&scene=21&poc_token=HGAFDGmjY2LTdIvnKAO_SOFSsHA6ZiU7aZtzC80q",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233310&idx=1&sn=19f387dca089f85e08267241a3421abc&scene=21&poc_token=HF4FDGmjEM15VTHT47bxapoUSIBAOFEG_XOnIHw0",
+  "25考情": "https://mp.weixin.qq.com/s/3am2WHX74H74tId5skoZOg",
+  "26考情": "https://mp.weixin.qq.com/s/p-2sL4EpGseIliTwHyV8Rw"
+ },
+ "updates2027": [
+  {
+   "院校": "青岛大学",
+   "层次": "双非",
+   "专业/范围": "085410人工智能(新增专业)",
+   "原科目": null,
+   "新科目": "408",
+   "生效年份": "2026",
+   "来源": "官方公告2025-07",
+   "备注": "计科院35人22408；执行国家线"
+  }
+ ],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "青岛大学085410招生",
+   "url": "https://www.kaoyana.com/s1135/085410/"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

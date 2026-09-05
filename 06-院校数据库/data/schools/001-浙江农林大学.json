@@ -1,0 +1,45 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "浙江农林大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "浙江农林大学",
+   "province": "浙江",
+   "college": "数学与计算机科学学院",
+   "program": "计算机科学与技术",
+   "subjects": "英一数一408",
+   "line": null,
+   "retestCnt": "0",
+   "adjCnt": "28",
+   "avgTotal": null,
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "0",
+   "admitAvg": null,
+   "rate": null,
+   "ratioNN": null,
+   "note": "⚠️非22408(英一数一408)"
+  }
+ ],
+ "wangdaoLinks": {
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666213328&idx=7&sn=fe23d81da79704616f59695086f4aa87&scene=21&poc_token=HIWmCmmjl_vAMoaYa3YWPrZmmJsiGTCiN_cGqQ4H",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233796&idx=4&sn=478710624218026dead8b0139993eff7&scene=21&poc_token=HIKmCmmjCkDWbS6uQqRM7XXcFH_n-yi3YhzbKFjW",
+  "25考情": "https://mp.weixin.qq.com/s/1WmaqRlGTPMmovIxK7OpeA",
+  "26考情": "https://mp.weixin.qq.com/s/SOiL2LSGpu_hg4K9hM8nBQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "上海海事大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "上海海事大学",
+   "province": "上海",
+   "college": "信息工程学院",
+   "program": "电子信息-人工智能",
+   "subjects": "英二数二408",
+   "line": "266",
+   "retestCnt": "28",
+   "adjCnt": "0",
+   "avgTotal": "305",
+   "avg408": "79",
+   "avgPol": "58",
+   "avgEng": "72",
+   "avgMath": "96",
+   "admitCnt": "27",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233066&idx=7&sn=e934fd370a5ff00723a7143b9b7d3ab3&scene=21&poc_token=HI0FC2mjioFDQ1hGuo9oPVpC_lnNLwyN48vqkqu6",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233066&idx=6&sn=5e745766c348fd457ea296dabe81d5bf&scene=21&poc_token=HIgFC2mjgzTTR_51VhqHWlf8qqxHtYLkGeo0LZmz",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233066&idx=5&sn=5f8a2eeb7d547c059ba53ba2367077d4&scene=21&poc_token=HGcFC2mjlWgPVge5iYs46H_FwVrGMqu5GjDVObz8",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233066&idx=4&sn=a5b01a86d7ac1000a14782349b9bebb8&scene=21&poc_token=HGUFC2mjzrzqrGdaQ_6UxHYDeNKzcLrRwdzRVSgL",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233066&idx=3&sn=e96c21093bd545f1172b58434d008f31&scene=21&poc_token=HEoFC2mjRjulED10GkktaBEfu9Ru2QL14FpPi7Su",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233066&idx=1&sn=bc948579c91071dec0cb08681bff6137&scene=21&poc_token=HEcFC2mjN42qSI2UO7pc3Bh5xYuCLlCr-kSDNv5O",
+  "25考情": "https://mp.weixin.qq.com/s/Udt3G-JRzZzFF1pS0nc5dw",
+  "26考情": "https://mp.weixin.qq.com/s/dMLTQdYDuCxIKkPopdJkjQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "湖北工业大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "湖北",
+   "region": "华中",
+   "tier": "双非",
+   "subjectClass": "待确认",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "调剂",
+   "aiTag": "❓未注明",
+   "heatNet": "48",
+   "heatComp": "26",
+   "note": "理学院调剂公告含085410；复试资格线按其他学科专业264",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "卓越工程师学院",
+   "nnSubjects": "英二数二408",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/yIRXW8HK84EGVV0rnCe4Hw",
+   "college": "计算机学院/理学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666151453&idx=3&sn=eb9671d072208a8e51148e4b981e9008&scene=21&poc_token=HA8TDGmjqOD_FD-WDWd_a17apmQo8ui6WIV4AIf8",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666155798&idx=4&sn=9e5ee988970f14591d96374ad11454da&scene=21&poc_token=HAwTDGmj44zCbxXQc6tvfhdjnH7O5Dy1l6tRw06j",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666172167&idx=7&sn=8c85d5a3009a8e3d5cfdf9964e51ebad&scene=21&poc_token=HAkTDGmjCwAeWG5w3h-v-u1IvPdDJSZ-ia8-u2q2",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185891&idx=7&sn=f2fc68670d6096cafd25e22e3e566c91&scene=21&poc_token=HAUTDGmjl-BqAN7rOm6u_yoniiWhyazkz35j0ubu",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666200324&idx=3&sn=b881d512ed2d22534e2ba9cb1fe89542&scene=21&poc_token=HAMTDGmjwmbIxChCypsZV5eEvEFTfzNaEtIkax22",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233000&idx=7&sn=23e0da7f0bd1d12c18fc80d505d1e957&scene=21&poc_token=HAATDGmjKlnDuR3FIIBDwJG4syL30E17Nrjy2xVP",
+  "25考情分析": "https://mp.weixin.qq.com/s/MCk3JA0nDTc62sVB1dyarQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/yIRXW8HK84EGVV0rnCe4Hw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "待确认",
+  "region": "华中",
+  "tier": "双非",
+  "line": "264",
+  "fill": "调剂",
+  "aiTag": "❓未注明",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "湖北工业大学理学院调剂公告",
+   "url": "https://lxy.hbut.edu.cn/info/1109/5860.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

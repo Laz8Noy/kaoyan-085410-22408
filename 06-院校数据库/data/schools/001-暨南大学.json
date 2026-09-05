@@ -1,0 +1,106 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "暨南大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "广东",
+   "region": "华南",
+   "tier": "211",
+   "subjectClass": "22408",
+   "heatComp": "52",
+   "heatNet": "82",
+   "aiTag": "✅真AI方向",
+   "note": "085410线待官方核实，作211对照",
+   "srcLabel": "网络热度",
+   "src": [
+    "区域榜"
+   ],
+   "college": "信息科学技术学院（相关）"
+  },
+  {
+   "category": "C-对照",
+   "province": "广东",
+   "region": "华南",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "331",
+   "lineDelta": "+67",
+   "heatComp": "67",
+   "heatNet": "84",
+   "aiTag": "✅真AI方向",
+   "note": "复试考C语言程序设计；复试比例1:2（复录比约2）刷人多；近三年线306→318→331逐年走高",
+   "srcLabel": "官方+机构",
+   "src": [
+    "区域榜"
+   ],
+   "college": "智能科学与工程学院"
+  }
+ ],
+ "crossRefs": [
+  {
+   "tier": "211",
+   "lineUltimate2026": null,
+   "nnProg": null,
+   "nnCollege": null,
+   "nnSubjects": null,
+   "nn408avg": null,
+   "nnRate": null,
+   "cyCode": null,
+   "cyRetest": null,
+   "cyAdmit": null,
+   "cyAvg": null,
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/kJaC8i1FsrgsMhxIG7KbSQ",
+   "remark": null
+  },
+  {
+   "tier": "211",
+   "lineUltimate2026": "331",
+   "nnProg": null,
+   "nnCollege": null,
+   "nnSubjects": null,
+   "nn408avg": null,
+   "nnRate": null,
+   "cyCode": null,
+   "cyRetest": null,
+   "cyAdmit": null,
+   "cyAvg": null,
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/kJaC8i1FsrgsMhxIG7KbSQ",
+   "remark": null
+  }
+ ],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233615&idx=8&sn=8632d734e0df5ebc93e1def5e269cfcf&scene=21&poc_token=HG_2CmmjiBdYNjH78qc_OgXG_FqW_Coz5Ng-WN2k",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233615&idx=7&sn=fee8655a972d94d8a15b1720b8dd94be&scene=21&poc_token=HG32CmmjcGt-VXKb3Oq7DT2A2ygtvWj6r1FAjbd1",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233615&idx=6&sn=2dcdcb4ba82aca0fb8c4787048cb0e99&scene=21&poc_token=HGr2CmmjUcQ_pFSOA6RtONSFmGkC_FHk5s4z1uGO",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233615&idx=5&sn=f720b06367d2aa86f4caae3038a36760&scene=21&poc_token=HGf2CmmjQQhRt2OL3LB7Vid7-n-w2tIfry5qLt5R",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233615&idx=4&sn=b25fe25e4d4c977389cdbe2802295c3a&scene=21&poc_token=HGX2CmmjvzJ5-F_przNBMj_ktAc8weF-ljdOQzjK",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233615&idx=3&sn=28abb3cfba609d061f43a4fc0fefaad9&scene=21&poc_token=HGH2CmmjKsx45yZeuL94i1NmwCBZF-qTJCF53A9x",
+  "25考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666253266&idx=5&sn=ee22e996280446f6db49be17714a595b&chksm=8aee8300b44392f5fc801c8e53d193516707d4f6b138e98ea817de51f97c640e9522ceb99389&scene=126&sessionid=1756890923&subscene=91&clicktime=1756890946&enterid=1756890946&key=daf9bdc5abc4e8d00227b7a10381f02df3d4326362ce2414f4b1b8a5642806b359d95eed75f0a3cef3999decb8112cd43585359db66f7b3ebee193d1e6d67ac6ba8a5ac9f67ab44bd0cb255aa2ee37ee0296baaa23160404d4116e8404a7175844656b967c7a4f9d94c9c0cc22203b0f08baba90edcdb6093bed3bb67eeffd58&ascene=0&uin=Mjc5MDEzMTU0MQ%3D%3D&devicetype=UnifiedPCWindows&version=f2541012&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQn5ICwDB9mv6FE3wghiW3UBLoAQIE97dBBAEAAAAAAF28IIHSAl4AAAAOpnltbLcz9gKNyK89dVj0wxvyrpv%2BKWOguqqBlCscrHO6GpsSTPNK0xcMZWBNa5lYtBC6RNKOkEeS8%2BOvUHVEIaPOmo0CJDbqOG3itlAo3ApeqsxYVsO5NpjKOQeF6XKzQVj5mmRO8ZFdo%2FsJWQen%2F3PE7VsTlokW88TSA%2FDscPjrcpUGJBdRAugtbMk3ZpF58AECo%2FNbbHiWAR5%2FQueT2g79ZkfllP6Q8KOQm0QbQF6gkIZ8xR7p0yVymuLgQEiUrKdDC19ZlHg3vThPdzuXVAM%3D&acctmode=0&pass_ticket=izUKQLrxbjwnysS7cWYZhk76hcCcX6KmFDwfIWr%2FeRVMLqNlNh0pkJRlj1gmQY3e&wx_header=0",
+  "26考情分析": "https://mp.weixin.qq.com/s/kJaC8i1FsrgsMhxIG7KbSQ"
+ },
+ "updates2027": [],
+ "tutors": [
+  "杨光华（智慧感知(自动驾驶/激光雷达/点云AI)、智能通信、AI应用）；李德平（智能视觉感知、三维位姿估计、点云处理、视觉大模型、SLAM）；赵阔（AIGC、区块链、大数据、网络空间安全、云计算）"
+ ],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

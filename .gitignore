@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.webarchive
+.env
+.env.*
+*.pem
+ark_key.txt
+.dsh/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+node_modules/

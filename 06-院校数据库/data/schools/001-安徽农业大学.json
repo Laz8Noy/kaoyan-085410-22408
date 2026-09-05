@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "安徽农业大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "安徽农业大学",
+   "province": "安徽",
+   "college": "信息与计算机学院",
+   "program": "电子信息-计算机",
+   "subjects": "推测408",
+   "line": null,
+   "retestCnt": "57",
+   "adjCnt": "62",
+   "avgTotal": "300",
+   "avg408": "77",
+   "avgPol": "60",
+   "avgEng": "66",
+   "avgMath": "97",
+   "admitCnt": "56",
+   "admitAvg": "300",
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666179393&idx=5&sn=003f534bca05e79521aa42b7b08cd2c6&scene=21&poc_token=HJipCWmj5ihHn_Oxwpi_Kg6cYVibBS1eeXYJsysf",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666208521&idx=5&sn=add4de79fc913a54a8f47a88cf198667&scene=21&poc_token=HJWpCWmjy9_bTHI41eDpI0RX-0NWP-lLz8rqlLnL",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233172&idx=5&sn=f261e1421bb74e3c80a8c3a81f27893c&scene=21&poc_token=HJOpCWmjWnDbwTE-MJ-1Z0kOuUDbYUCPK97WctvK",
+  "25考情分析": "https://mp.weixin.qq.com/s/sPR9SUHQF4Jy_CFmaTjk8g",
+  "26考情分析": "https://mp.weixin.qq.com/s/Vmmnoq7eV1eK6MCwT1A5lw"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

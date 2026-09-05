@@ -1,0 +1,81 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "新疆大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "新疆",
+   "region": "西北",
+   "tier": "211",
+   "subjectClass": "未单设",
+   "heatComp": "46",
+   "heatNet": "64",
+   "aiTag": "✅真AI方向",
+   "note": "2026电子信息[085400]（含人工智能方向）线254（B区国家线）；085410线待核未单设085410；085404计算机技术274人",
+   "srcLabel": "网络热度",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/DUooqynTgNUZZW8R7UQ7Pw",
+   "kaoqingUrl": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakyfsx/66985.html",
+   "scope": "未单设085410（AI方向在085400电子信息/085404计算机技术内）；085404拟录取274人、初试最低254（中公）",
+   "college": "计算机科学与技术学院（相关）"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机科学与技术学院（相关）",
+   "tier": "211",
+   "subjects": "未单设",
+   "line2026": null,
+   "plan": null,
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "未单设085410（AI方向在085400电子信息/085404计算机技术内）；085404拟录取274人、初试最低254（中公）",
+   "verify": "机构🔍",
+   "url": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakyfsx/66985.html"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233749&idx=7&sn=6bfc41db94ff3224466559b3ef299172&scene=21&poc_token=HK2uCmmjY4CGWBL1oyADktKadxQTb9tR-DKJgAJb",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233749&idx=6&sn=82f7ea94aa14e7661070744f915cd0ca&scene=21&poc_token=HKuuCmmjKCkhJCAViCUlYueV1ByboFEZa_axttuG",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233749&idx=5&sn=52950428cb3e2ab9bcf30994772db26e&scene=21&poc_token=HKeuCmmjbH9PrXwy-0UdWl0PIQY3BMLO16ZO-0kR",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233749&idx=4&sn=162013a393721264b6a23713ef318908&scene=21&poc_token=HKSuCmmjP7BBBL3NZNXLfeWL2u0vic6mqaFaWS24",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233749&idx=3&sn=2449d2fa057f7ff6cf20967ccf7a388d&scene=21&poc_token=HKGuCmmjrkIc-3h7uBXOu_nhKScyh93pGCHb9XiI",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233749&idx=2&sn=0cb6d89048a9ece666f4ee8c337cd748&scene=21&poc_token=HI6uCmmjLP7oXHhoUVgBT_hja6ZjZkcasjbP9JQg",
+  "25考情": "https://mp.weixin.qq.com/s/OhnDgcUqb9seQt1hNJnN7w",
+  "26考情": "https://mp.weixin.qq.com/s/DUooqynTgNUZZW8R7UQ7Pw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "新疆大学2026录取最低分(中公)",
+   "url": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakyfsx/66985.html"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

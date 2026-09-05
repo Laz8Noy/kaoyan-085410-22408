@@ -1,0 +1,81 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "新疆农业大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "新疆",
+   "region": "西北",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "254",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "254"
+   },
+   "fill": "一志愿为主",
+   "aiTag": "❓未注明",
+   "heatNet": "36",
+   "heatComp": "26",
+   "note": "2027由867数据结构改408（官方公告2026-07-09）；22408；B区线254，一志愿常需调剂",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "254",
+   "wdCount": "1",
+   "wdYears": "26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/nWcXsMHB62lAeBDph1Tmfw",
+   "college": "计算机与信息工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "26考情": "https://mp.weixin.qq.com/s/nWcXsMHB62lAeBDph1Tmfw"
+ },
+ "updates2027": [
+  {
+   "院校": "新疆农业大学",
+   "层次": "双非(B区)",
+   "专业/范围": "085410人工智能/085404等",
+   "原科目": "867数据结构",
+   "新科目": "408",
+   "生效年份": "2027",
+   "来源": "官方公告2026-07-09",
+   "备注": "计算机与信息工程学院；B区22408"
+  }
+ ],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "新疆农业大学2026复试线",
+   "url": "https://m-jixun.iqihang.com/zixun/fenshuxian/2026748489.html"
+  },
+  {
+   "label": "新疆农业大学2027改考408公告",
+   "url": "https://yjsc.xjau.edu.cn/2026/0709/c2155a117335/page.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

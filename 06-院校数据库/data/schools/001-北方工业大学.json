@@ -1,0 +1,78 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "北方工业大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "北京",
+   "region": "华北",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "plan2026": "26",
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "55",
+   "heatComp": "32",
+   "nn408avg": "83",
+   "nnRate": "100%",
+   "note": "执行A区国家线",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "信息学院",
+   "nnSubjects": "英二数二408",
+   "wdCount": "7",
+   "wdYears": "19考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/r8JoUHoTU3rdZ_SKjLkRYw",
+   "college": "人工智能与计算机学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235799&idx=5&sn=a0f13a09d5fd2f4a0c7b6220235e616c&scene=21&poc_token=HEWoCmmj1BqTxiHJJhpEgvM_0d6sq0RmuNelfQzm",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235799&idx=4&sn=21faa600a570be6c22a7dfcd30064e26&scene=21&poc_token=HEKoCmmjduMX7e7N3TlBviKsSfs249dECXl4D_LW",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235799&idx=3&sn=728f10ccfc089aae8ec207d050f393cb&scene=21&poc_token=HECoCmmj3Rbq99Be2NxbUOiK382NX9TzJnfCI_-M",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235799&idx=2&sn=5a71ad6d8ee5a475a47cc7a8d9c692b5&scene=21&poc_token=HD6oCmmjB9fS5YRy269A4XC68Wh-cRNAYKrdkoxF",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235799&idx=1&sn=6bd99a40bf03da7aa777a01fdbdaa63b&scene=21&poc_token=HDyoCmmj-8UUhGsfvzFFMPTe5LY6GJM8zTwRxUkI",
+  "25考情分析": "https://mp.weixin.qq.com/s/HiKtlps9mXJmTF2BGQtx3w",
+  "26考情分析": "https://mp.weixin.qq.com/s/r8JoUHoTU3rdZ_SKjLkRYw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "北方工业大学085410招生",
+   "url": "https://www.kaoyana.com/s1250/085410/"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "浙江理工大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "浙江",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "335",
+   "lineDelta": "+71",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": "290",
+    "2026": "335"
+   },
+   "plan2026": "22",
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "74",
+   "heatComp": "61",
+   "nn408avg": "97",
+   "nnRate": "70%",
+   "note": "官方复试线335，单科35/53",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "335",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "计算机科学与技术学院(人工智能学院)",
+   "nnSubjects": "推测408",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/y9NJE1wMngbAxGllkWhbMw",
+   "college": "计算机科学与技术学院（人工智能学院）"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233049&idx=7&sn=0f9e8208daa0af630cf6bd10a6dcc81a&scene=21&poc_token=HDSiCmmjha5IjuABY8kr1oKUo6xRDtL1lXZHARbg",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233049&idx=6&sn=4aec41e5d3bb89765b33d6efd4010910&scene=21&poc_token=HBOiCmmj-3q95VYR8he-cJdDAC-KqUvoGygP6SRX",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233049&idx=5&sn=0ee5a10506e1a8fe4134c1e2da12a1d2&scene=21&poc_token=HBCiCmmjhnaZ3KysucnkVI2QRgWdFxUfSZADnJ-6",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233049&idx=4&sn=b145a47366e5946e8114eae108bd72b6&scene=21&poc_token=HPihCmmjPIPO5vIZM9U960D5U2A_ODhNRlTIGYKA",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233049&idx=3&sn=9c65992dfc8e27adc23422c4e56f3b70&scene=21&poc_token=HPWhCmmj9OrYWqws2AYPdeBW6nj5FUywtNucZFCa",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233049&idx=2&sn=57d01066f7e3a11be4c6d46d3d3d6988&scene=21&poc_token=HOahCmmjiwu17L-5JW41eV6vZsQSUmhPBSw8N3PF",
+  "25考情": "https://mp.weixin.qq.com/s/7lRZpVU5YD7wKr-J9su-qw",
+  "26考情": "https://mp.weixin.qq.com/s/y9NJE1wMngbAxGllkWhbMw"
+ },
+ "updates2027": [],
+ "tutors": [
+  "侯健（深度强化学习、多智能体协同、联邦学习、无人机）"
+ ],
+ "inTJList": null,
+ "inKeyList": {
+  "院校": "浙江理工大学",
+  "省份": "浙江",
+  "大区": "华东",
+  "层次": "双非",
+  "学院": "计算机科学与技术学院（人工智能学院）",
+  "初试科目": "22408",
+  "方向": "不区分研究方向",
+  "2026线": "335",
+  "拟招": "22",
+  "一志愿/调剂": "一志愿为主",
+  "AI方向": "✅真AI方向",
+  "来源": "官方",
+  "综合热度": "61",
+  "备注": "官方复试线335，单科35/53"
+ },
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "浙江理工大学2026复试线",
+   "url": "https://gradschool.zstu.edu.cn/info/1135/8507.htm"
+  },
+  {
+   "label": "浙江理工大学2025复试线（官方）",
+   "url": "https://gradadmission.zstu.edu.cn/info/1011/3206.htm#1"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

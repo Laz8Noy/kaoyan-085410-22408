@@ -1,0 +1,49 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "湖北大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "湖北大学",
+   "province": "湖北",
+   "college": "计算机学院",
+   "program": "电子信息",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "97",
+   "adjCnt": "307",
+   "avgTotal": "302",
+   "avg408": "80",
+   "avgPol": "56",
+   "avgEng": "65",
+   "avgMath": "102",
+   "admitCnt": "96",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233138&idx=6&sn=b5987f3b03478052a117b7b228a1c8af&scene=21&poc_token=HGIQDGmjn6dIh6PWPwnSc4PzrQUDOAj0T6eA0uiX",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233138&idx=5&sn=db7d3b1ec3bbe901621a1d88c8000144&scene=21&poc_token=HF4QDGmjYRNlIj-vvEOT5Ct3rXifgMsIpjS5NZ0q",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233138&idx=4&sn=fecf2240f5832a927fa3cb8de364dfb7&scene=21&poc_token=HFsQDGmj_I6v_EvcAUAnu7IQmDchS7YXCkbEibdU",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233138&idx=3&sn=314157573a595d6b3cf1c5c72d3f9367&scene=21&poc_token=HFgQDGmjOVZ0Ea9lzvgwA32jZu_QH-AkPZq8MhbY",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233138&idx=2&sn=5e1e10922f0586cb64094a80420b54b4&scene=21&poc_token=HFYQDGmjv0ol-Hg9P9_dbhSJw2jAcmOitEeymp7x",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233138&idx=1&sn=a8d3a567ab56d23f51b52040e93af0cf&scene=21&poc_token=HFQQDGmjrno554XSG5-38kojGKvXUQ932m-PszvF",
+  "25考情分析": "https://mp.weixin.qq.com/s/iTHJknyvdkwzxt5GZxwcYQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/oTFhOtsCflH6ZZ6G9RCw1g"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

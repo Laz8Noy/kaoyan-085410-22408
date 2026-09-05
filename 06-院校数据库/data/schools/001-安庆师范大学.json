@@ -1,0 +1,86 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "安庆师范大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "安徽",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "plan2026": "7(2026口径)",
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "40",
+   "heatComp": "27",
+   "note": "2027科目四改408（官方公告2026-07-23）；085411大数据同步改408；拟招7人名额少但热度低",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "5",
+   "wdYears": "22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/uvojHP2JFWq0xOcLrHZT8A",
+   "college": "计算机与信息学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666184426&idx=4&sn=0b6dcf66e94d1d756dc1d72522ef2da5&scene=21&poc_token=HM2qCWmjU18hIqx9dr3LadVggp1Rqdy02C4OKRIW",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666210394&idx=7&sn=0bdb9b4d7a8036057addd66d38bd3cbf&scene=21&poc_token=HMiqCWmjVO1-N8nLWIQ0uTQxdPiTM_CggREOjxfp",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666230390&idx=4&sn=107a6104b738707efac12c65de976a7a&scene=21&poc_token=HMWqCWmjA86Ypixbp4rjS_iDrmv53EZj2hKVkeN2",
+  "25考情分析": "https://mp.weixin.qq.com/s/Sc9tD-0iFpF6PP5gH8_wOQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/uvojHP2JFWq0xOcLrHZT8A"
+ },
+ "updates2027": [
+  {
+   "院校": "安庆师范大学",
+   "层次": "双非",
+   "专业/范围": "085410人工智能/085411大数据",
+   "原科目": "自命题",
+   "新科目": "408",
+   "生效年份": "2027",
+   "来源": "官方公告2026-07-23",
+   "备注": "科目四改408；22408；拟招7人"
+  }
+ ],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "安庆师范大学085410复试细则",
+   "url": "https://grad.aqnu.edu.cn/info/1019/8544.htm"
+  },
+  {
+   "label": "安庆师范大学2027改考408公告",
+   "url": "https://grad.aqnu.edu.cn/info/1019/10084.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

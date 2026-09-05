@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "安徽理工大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "安徽理工大学",
+   "province": "安徽",
+   "college": "人工智能学院",
+   "program": "电子信息-人工智能",
+   "subjects": "推测408",
+   "line": "264",
+   "retestCnt": "34",
+   "adjCnt": "0",
+   "avgTotal": "337",
+   "avg408": "116",
+   "avgPol": "61",
+   "avgEng": "65",
+   "avgMath": "95",
+   "admitCnt": "34",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235779&idx=3&sn=72263da8913e11747c5b2f6e7fb6c662&scene=21&poc_token=HFipCWmjouVdVW5xR4SRo8Hl6wUWxC2qieRivMKB",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235779&idx=2&sn=a26c063c55b6b950c6bb01e56d795ba9&scene=21&poc_token=HFCpCWmjyxNzAmUn8tjnlxrJ16RtY7hc8rM0o6tJ",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235779&idx=1&sn=69a2e39b80ad0e8d084f3708eed2ee8d&scene=21&poc_token=HE2pCWmj_bMyBUGL2LmH8iKzFhgiQ7EcFylAiW3_",
+  "25考情分析": "https://mp.weixin.qq.com/s/cB3o0oNU93ya-0N0V_sIPg",
+  "26考情分析": "https://mp.weixin.qq.com/s/AbNlvAZEsODGeRUEUOsYsg"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

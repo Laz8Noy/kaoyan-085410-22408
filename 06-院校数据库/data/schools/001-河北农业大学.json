@@ -1,0 +1,74 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "河北农业大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "河北",
+   "region": "华北",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "plan2026": "26+2非全",
+   "fill": "大量调剂",
+   "aiTag": "❓未注明",
+   "heatNet": "38",
+   "heatComp": "23",
+   "note": "一志愿缺额26全日制+2非全，执行A区国家线",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "5",
+   "wdYears": "22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/OZ2JfES1DT6pB78K_Waihg",
+   "college": "信息科学与技术学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185121&idx=3&sn=5c27774dbb1f91dac78be171a803e305&scene=21&poc_token=HNQNC2mj7vEi9Nu0WPGu7JZAui51f7vbyhSQI1Lu",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666202987&idx=4&sn=553db80f4824bb6779096f7355a4156c&scene=21&poc_token=HNENC2mjQIew9XeVUcIsEw2-3Rsp0IYBbnPf76h5",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231412&idx=5&sn=1cecfea7180475d224e74ef026383610&scene=21&poc_token=HM8NC2mjVUHpTxXua3hoM7BwxWC-9bn36tQe6Vw3",
+  "25考情分析": "https://mp.weixin.qq.com/s/RHXhMvRFbK4B2LAiIhVNOg",
+  "26考情分析": "https://mp.weixin.qq.com/s/OZ2JfES1DT6pB78K_Waihg"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "22408",
+  "region": "华北",
+  "tier": "双非",
+  "line": "264",
+  "fill": "大量调剂",
+  "aiTag": "❓未注明",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

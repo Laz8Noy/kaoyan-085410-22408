@@ -1,0 +1,47 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "江苏师范大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "江苏师范大学",
+   "province": "江苏",
+   "college": "智慧教育学院（计算机科学与技术学院）",
+   "program": "电子信息-人工智能",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "14",
+   "adjCnt": "48",
+   "avgTotal": null,
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "12",
+   "admitAvg": null,
+   "rate": "90%",
+   "ratioNN": "1.2",
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235672&idx=4&sn=f5dc49743a054a55156139d6e4532ea7&scene=21&poc_token=HH5jDGmjwo4Nc8tUaLvnr3VBjHC_2eIuUnogUQMz",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235672&idx=3&sn=60f6d6b2fd7be2346922c49784482e27&scene=21&poc_token=HHxjDGmjO6xUtEbCWFqAXsO8U2i7wyUE0eKGCpmM",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235672&idx=2&sn=7e0134446a1a374413a3e34194f1eb5f&scene=21&poc_token=HHpjDGmjEUauQijoJfol0pO3kCPL52Hj3D_r5oEo",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235672&idx=1&sn=6939158358809cfc2d5b4bf61159eb80&scene=21&poc_token=HHZjDGmj3urIkv8dU7comWdtqxyK2wHw5bWel6Ii",
+  "25考情": "https://mp.weixin.qq.com/s/qTxQdhA3M_QlPTqBDfstgg",
+  "26考情": "https://mp.weixin.qq.com/s/oTzMmEz3R3M2ZXERuqcQVA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

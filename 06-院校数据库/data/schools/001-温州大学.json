@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "温州大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "温州大学",
+   "province": "浙江",
+   "college": "计算机与人工智能学院",
+   "program": "电子信息",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "47",
+   "adjCnt": "24",
+   "avgTotal": "303",
+   "avg408": "80",
+   "avgPol": "62",
+   "avgEng": "65",
+   "avgMath": "96",
+   "admitCnt": "40",
+   "admitAvg": null,
+   "rate": "90%",
+   "ratioNN": "1.2",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666184738&idx=6&sn=3894230089bfe3aca95ee21998f3692a&scene=21&poc_token=HCukCmmjZvPje7E3AWY7qodFAvYQ4MLzTlCOn5C0",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666217175&idx=4&sn=85d11be1ab3089b06ade779ffa12020d&scene=21&poc_token=HCikCmmjVTXpH5rF1tLTTGW6tnBEyGVFlrEJzvWN",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231678&idx=5&sn=28618cad8461f7d73e53b72ed3c27aa2&scene=21&poc_token=HCWkCmmjoswUSq9iufSXsc-_5-El3PhzfF1XcAEP",
+  "25考情": "https://mp.weixin.qq.com/s/gCSDyM48Yq8Ck8dT3wSKRw",
+  "26考情": "https://mp.weixin.qq.com/s/Dqw6NIdZrsZLnHYpbES24A"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

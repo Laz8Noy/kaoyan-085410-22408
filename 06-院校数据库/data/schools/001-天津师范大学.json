@@ -1,0 +1,48 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "天津师范大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "天津师范大学",
+   "province": "天津",
+   "college": "计算机与信息工程学院",
+   "program": "电子信息-软件工程",
+   "subjects": "英二数二408",
+   "line": "266",
+   "retestCnt": "27",
+   "adjCnt": "0",
+   "avgTotal": "304",
+   "avg408": "78",
+   "avgPol": "64",
+   "avgEng": "65",
+   "avgMath": "97",
+   "admitCnt": "26",
+   "admitAvg": "305",
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666151919&idx=3&sn=eb05fd2a3103d2c10e9b119b53c47f61&scene=21&poc_token=HHm7Cmmj8IdJhX8xSxcSwAM2T52CRqJAcevYS0s-",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666163819&idx=5&sn=c2b5002af3a24a80024cf6fa83445921&scene=21&poc_token=HE27CmmjUxK1hhpzvtKARZCVsNqf9jfgcrKg_01z",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186380&idx=8&sn=28d4baa495e1539d6a6167a64f55f2d9&scene=21&poc_token=HEq7CmmjttUHndK1mCiRAPBTPSeqJzc0UF1EF_fJ",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666217175&idx=5&sn=fc3448378976008445da279edbbb4fd1&scene=21&poc_token=HCu7Cmmj2fD4ckIeWnqes-i7VK9bH6IuYUNCQNzE",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232912&idx=6&sn=66931fe88ea79f76b01d44fab4db13bb&scene=21&poc_token=HCm7CmmjLsXP0AScQgqt8xCb2MX5I8I_QGXadm10",
+  "25考情": "https://mp.weixin.qq.com/s/IfyPFdAGiQZf-b0jbZAoag",
+  "26考情": "https://mp.weixin.qq.com/s/h4s5cj5QIMrDHAB1kMiVYA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

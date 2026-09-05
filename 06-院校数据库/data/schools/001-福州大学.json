@@ -1,0 +1,86 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "福州大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "福建",
+   "region": "华东",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "heatComp": "34",
+   "heatNet": "72",
+   "aiTag": "✅真AI方向",
+   "note": "2025一志愿62人复试录取51人，复录比约1.2；机试参考《程序设计导引及在线实践》《数据结构(C语言描述)》；2026院线待核；计划28",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/r0MuZvkW2_dz0eLZb5ruiQ",
+   "kaoqingUrl": "https://www.kaoyana.com/s1096/085410/",
+   "scope": "计划28（kaoyana），线264；复试结果附件在镜像站为付费文档，官网明细查无；复录比1.2为2025口径（62进51）",
+   "college": "计算机与大数据学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机与大数据学院",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": "264",
+   "plan": "28",
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": "1.2",
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "计划28（kaoyana），线264；复试结果附件在镜像站为付费文档，官网明细查无；复录比1.2为2025口径（62进51）",
+   "verify": "机构🔍",
+   "url": "https://www.kaoyana.com/s1096/085410/"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236863&idx=6&sn=b282684fbd57bc3ac30e834db5eb9cae&scene=21&poc_token=HJfHCmmjtKkbIWnAAfw5dBlYSu2b0JVfyYD8_o61",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236863&idx=5&sn=143ad7727a8c5613c7dcec7b90b028f3&scene=21&poc_token=HJXHCmmjRiC0G69pRb-aZm-0qHHKF5DInSgG6IpG",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236863&idx=4&sn=e9eaa4cd36a59e832251844d90bce866&scene=21&poc_token=HJLHCmmjFQTgZaTrtOs7-tdu1nEOrf77TEIeIbZ2",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236863&idx=3&sn=f23102f4fa085f4ff41b57caffbcc30d&scene=21&poc_token=HJDHCmmj_jb9kNMYh3BlENpBPlK0ixjuVT9tyCEC",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236863&idx=2&sn=fc2dc87f32a833ac5e18241b9c496d1e&scene=21&poc_token=HI7HCmmjE8banLaFqusGBxBwbjriJ3A6ADMz0xam",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236863&idx=1&sn=672edb68cecd8d8916375cc271bf1e17&scene=21&poc_token=HIvHCmmjYmHEdfx4T-aSkRfuL0wH_oPuW6BW23KJ",
+  "25考情分析": "https://mp.weixin.qq.com/s/wqmmkTJI9Zxe_oyaUtsOSA",
+  "26考情分析": "https://mp.weixin.qq.com/s/r0MuZvkW2_dz0eLZb5ruiQ"
+ },
+ "updates2027": [],
+ "tutors": [
+  "於志勇（普适计算、智能物联网、人机共融智能、群智感知、城市计算）；林羽钦（大语言模型、深度学习、智能语音、AI医疗健康）；程日（低层视觉、图像增强、语义分割、多模态学习、AI for Science）；张劲松（三维视觉、图像生成、数字人重建、具身智能）"
+ ],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "福州大学085410招生(kaoyana)",
+   "url": "https://www.kaoyana.com/s1096/085410/"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "哈尔滨理工大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "黑龙江",
+   "region": "东北",
+   "tier": "双非",
+   "subjectClass": "待确认",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "待确认",
+   "aiTag": "❓未注明",
+   "heatNet": "45",
+   "heatComp": "27",
+   "note": "2026复试线264；085410学院归属待核",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/t5Hf-OoVXEOMyvcZm1aiUg",
+   "college": "计算机科学与技术学院（相关）"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666150673&idx=5&sn=7fb7a1372ae689229382d7d3781477fc&scene=21&poc_token=HMMDDGmjZl449KOH7XBT6saa2oSwtbegI0inc0Cj",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666155476&idx=5&sn=3b2e0d358373b7a4ffbc947cbf04951d&scene=21&poc_token=HLwDDGmjth9fc_AonDdEutJDHG5aYhV8pA_usgu8",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666166983&idx=7&sn=55d7699ccd13e2366af2137d24aee952&scene=21&poc_token=HLoDDGmjG_xk-R7Cq9e0jjh7l2G5g3IGfQvRwtXR",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185578&idx=7&sn=03aa3079330e06df214bba4aaeb7ff8c&scene=21&poc_token=HLcDDGmjmKE_wuCIPShhvLzbhw6eb5kubaDQX_-q",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666206721&idx=8&sn=6c70b28527e86b6c6ab689a59433d82c&scene=21&poc_token=HLQDDGmjeSHKH7FT8eJRzke1dzB_hqU00O3hj_xX",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232913&idx=5&sn=a95653e5f491b7521f82782bf9a92b05&scene=21&poc_token=HLEDDGmj9vi-aXFo4Nc7AMo6V6TqkfiFMBzExlAJ",
+  "25考情分析": "https://mp.weixin.qq.com/s/9YTmYAegPFTG9blJzayMow",
+  "26考情分析": "https://mp.weixin.qq.com/s/t5Hf-OoVXEOMyvcZm1aiUg"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

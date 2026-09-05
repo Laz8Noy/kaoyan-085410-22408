@@ -1,0 +1,48 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "上海理工大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "上海理工大学",
+   "province": "上海",
+   "college": "光电信息与计算机工程学院",
+   "program": "电子信息-人工智能",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "21",
+   "adjCnt": "0",
+   "avgTotal": "306",
+   "avg408": "79",
+   "avgPol": "58",
+   "avgEng": "69",
+   "avgMath": "100",
+   "admitCnt": "19",
+   "admitAvg": "306",
+   "rate": "90%",
+   "ratioNN": "1.1",
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236068&idx=6&sn=05e1c6bcec45febc7d4c481c990be7d8&scene=21&poc_token=HAAGC2mj_k9-UDdiy-Un_7UyyRAFXnBVY-yhIubi",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236068&idx=4&sn=defc93f71290664b9990692103c3f6e8&scene=21&poc_token=HPsFC2mjc1b7_fbJ4wCqf52WmEZEm3yKFlNRUX-5",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236068&idx=3&sn=d3749a3b46879b19b34f53778fa8716b&scene=21&poc_token=HO0FC2mjdjIPI-a8GMj0Qpb03o83t_KFxnUb8fAr",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236068&idx=2&sn=a61c14f27c01cfb1685909356f38de91&scene=21&poc_token=HN8FC2mjfBnErOMZRgZ_ggrixo3bRPeuV1s9jeJD",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236068&idx=1&sn=9f30dcc8c17d124b85346d53bbf180ba&scene=21&poc_token=HNIFC2mjJJ3MfStxu6FYHcqFCffHY0EMtHoM4UMh",
+  "25考情": "https://mp.weixin.qq.com/s/rygzo2csNySVEqzGnSYvBA",
+  "26考情": "https://mp.weixin.qq.com/s/uBbozSPvuxqoSoTOZ2Rnug"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

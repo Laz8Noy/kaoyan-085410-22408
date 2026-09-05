@@ -1,0 +1,114 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "四川师范大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "四川",
+   "region": "西南",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "plan2026": "8",
+   "fill": "一志愿为主",
+   "admitCnt": "2",
+   "admitMax": "301",
+   "admitMin": "301",
+   "admitAvg": "301",
+   "scope": "中公录取数据：085410拟录取2人，初试最低301；复试线264（官方）",
+   "aiTag": "❓未注明",
+   "heatNet": "46",
+   "heatComp": "29",
+   "note": "拟招8，执行A区国家线；录取2人最低301",
+   "srcLabel": "机构估算",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "264",
+   "cyCode": "085404",
+   "cyRetest": "142",
+   "cyAdmit": "29",
+   "wdCount": "7",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/XipHjxC2uh7ENoKjl8Lbbg",
+   "remark": "川渝参考085404；录取人数差异",
+   "kaoqingUrl": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakylq/66939.html",
+   "college": "计算机科学学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机科学学院",
+   "tier": "双非",
+   "subjects": "22408",
+   "line2026": "264",
+   "plan": "8",
+   "retestCnt": null,
+   "admitCnt": "2",
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": "301",
+   "admitMin": "301",
+   "admitAvg": "301",
+   "scope": "中公录取数据：085410拟录取2人，初试最低301；复试线264（官方）",
+   "verify": "机构🔍",
+   "url": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakylq/66939.html"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666151599&idx=4&sn=3d86ccc0a19518241df0d1a477b27464&scene=21&poc_token=HATvCmmjZqyPZooZZsKBhhs5R_8YwynkgXTEDTwx",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666155489&idx=6&sn=57f517cba397c656398d40054cf62237&scene=21&poc_token=HALvCmmjX4J3DQy4lJQG2ZH-N6K-VUi4iFjko1p2",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666164537&idx=7&sn=d97dc70854150588de5958c69a732eac&scene=21&poc_token=HOfuCmmjspK6gnojR5ygiCPDPtPGyoRpi-gCHNju",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186365&idx=7&sn=b7098860a1a913f58f0abec8b95c69a2&scene=21&poc_token=HOTuCmmjUWn5cXeZF51nuvqFTHADE5_bLlzvxv35",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666215335&idx=8&sn=8e247462ab949957f6e937474ea869e4&scene=21&poc_token=HNbuCmmjKvBSNVRfXsoLWh8QvffhDqyfttkvLoOQ",
+  "25考情": "https://mp.weixin.qq.com/s/qCmJdWZHRweehW2CuINgvQ",
+  "26考情": "https://mp.weixin.qq.com/s/XipHjxC2uh7ENoKjl8Lbbg"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [
+  {
+   "field": "085410 vs 085404 录取人数口径",
+   "unit": "计算机科学学院",
+   "claims": [
+    {
+     "src": "中公(085410)",
+     "value": "085410 拟录取2人（初试最低301）"
+    },
+    {
+     "src": "川渝王道OCR(085404)",
+     "value": "085404 录取29人（含调剂；2026调剂计划28人）"
+    }
+   ],
+   "status": "差异-两专业不同口径，非冲突",
+   "action": "085410一志愿录取少(2人)主要靠调剂(计划16)；085404录取29人；区分专业代码勿混"
+  }
+ ],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "江苏海洋大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "江苏",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+   },
+   "plan2026": "待定",
+   "aiTag": "✅真AI方向",
+   "heatNet": "34",
+   "heatComp": "38",
+   "note": "2027新增085410人工智能专业（官方公告2026-07-30，研招网2026-08-03转载）；22408首年招生，无历史线可参考A区国家线264",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "wdCount": "5",
+   "wdYears": "22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/2HEGFXowViskL3cVhM_zVQ",
+   "college": "计算机工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666182660&idx=4&sn=997fd3580fc04e7d78aa1faa30ac32c3&scene=21&poc_token=HPhiDGmjUoygPLqnJsczR_lCeGe9d4UFRYMAOJNC",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666208790&idx=4&sn=e1c70e0842784f4b11b7e783ced78169&scene=21&poc_token=HOFiDGmjvry1GkMEnxtE448iv7STaxVXTmXuNugm",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232177&idx=7&sn=4d9e5e6d8ea2dcf2b94078b03cbf1bc0&scene=21&poc_token=HN5iDGmj8mRz1qVJrTsdq-fvs3lyT05JP8aw36x-",
+  "25考情": "https://mp.weixin.qq.com/s/NY3z8vmzqTyui6A24AqL5A",
+  "26考情": "https://mp.weixin.qq.com/s/2HEGFXowViskL3cVhM_zVQ"
+ },
+ "updates2027": [
+  {
+   "院校": "江苏海洋大学",
+   "层次": "双非",
+   "专业/范围": "085410人工智能(新增专业)",
+   "原科目": null,
+   "新科目": "408",
+   "生效年份": "2027",
+   "来源": "官方公告2026-07-30",
+   "备注": "计算机工程学院；22408首年招生"
+  }
+ ],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "江苏海洋大学2027新增085410公告",
+   "url": "https://yjsc.jou.edu.cn/info/1150/2800.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "北京联合大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "北京联合大学",
+   "province": "北京",
+   "college": "智慧城市学院",
+   "program": "电子信息",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "4",
+   "adjCnt": "41",
+   "avgTotal": "278",
+   "avg408": "71",
+   "avgPol": "52",
+   "avgEng": "69",
+   "avgMath": "85",
+   "admitCnt": "4",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232541&idx=3&sn=2cbf49a4b105faac1f271130234d157d&scene=21&poc_token=HI-oCmmj7xRNOykagfCYRgM2BDMdxa6uaAwBn_yh",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232541&idx=2&sn=5d20cf7639a6557163b74a7bc2aa6bb5&scene=21&poc_token=HI2oCmmjTZ4HnCcHnw62u85dccudfotP3Y2iHMrb",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232541&idx=1&sn=04b246bbecfa90891352f23923d4e5e7&scene=21&poc_token=HIqoCmmjfCS6F4zUuzQ9RPU8QBtOig1GU4FL48OL",
+  "25考情分析": "https://mp.weixin.qq.com/s/xTlfGpYSMla9ysy8Hbxw8A",
+  "26考情分析": "https://mp.weixin.qq.com/s/vla9wXB038WuytYsh4QBKA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "大连理工大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "辽宁",
+   "region": "东北",
+   "tier": "985",
+   "subjectClass": "11408",
+   "line2026": "300",
+   "lineDelta": "+36",
+   "heatComp": "50",
+   "heatNet": "86",
+   "aiTag": "✅真AI方向",
+   "note": "官方复试线300；01/03方向一起划线；085410为11408，不符合22408",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "300",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/nIDREYRfRscylx-mL66Okw",
+   "kaoqingUrl": "https://www.kaoyana.com/s1029/085410/",
+   "scope": "⚠️085410考英一数一(11408)，不符合22408；计算机学院统考14人",
+   "college": "计算机科学与技术学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机科学与技术学院",
+   "tier": "985",
+   "subjects": "11408",
+   "line2026": "300",
+   "plan": "30",
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": "1.6",
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "⚠️085410考英一数一(11408)，不符合22408；计算机学院统考14人",
+   "verify": "机构🔍",
+   "url": "https://www.kaoyana.com/s1029/085410/"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185801&idx=6&sn=e40f6d5db8fc239fab0ce41d9ab58607&scene=21&poc_token=HBQXDGmjTO2Y0WtGTL-hfX7JR4jzxI0SHMpAVGa8",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185801&idx=5&sn=3a1548e2ca6a83c5345f08aefff08559&scene=21&poc_token=HBEXDGmjML_mA8OeVTxeTuYy3z4m1ZaCIPFZePls",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185801&idx=3&sn=a28b466012612aee7db55adf1169d7eb&scene=21&poc_token=HA4XDGmjvcFp-K_loexK79qb1pxaifUcLt4DHDXM",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185801&idx=2&sn=33b008fde47a774a1c9e59a44c01036e&scene=21&poc_token=HPIWDGmjbNfAW9V3HNHw1Tn606qEl-KcgrAv6N09",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=Mzg5MTY5NDUwMQ==&mid=2247491459&idx=6&sn=f885cbff736222caab1c740fa7c18330&scene=21&poc_token=HO0WDGmjNLdpgzXI3voNF_RyDkAtZ6JzGTI0zXqW",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237055&idx=1&sn=a67d991c1ab48b4b51d05c94b05d163b&scene=21&poc_token=HM0WDGmj_uY6aRy2I_2VTOK9ssSrHFPxCugoCV63",
+  "25考情": "https://mp.weixin.qq.com/s/-MWHFXQ4weNVP0OsPvwy-Q",
+  "26考情": "https://mp.weixin.qq.com/s/nIDREYRfRscylx-mL66Okw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "大连理工大学085410复试数据",
+   "url": "https://www.51kywang.com/51kaoyanwang/vip_doc/30780466.html"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

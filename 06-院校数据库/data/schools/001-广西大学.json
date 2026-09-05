@@ -1,0 +1,89 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "广西大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "广西",
+   "region": "华南",
+   "tier": "211",
+   "subjectClass": "22408",
+   "heatComp": "44",
+   "heatNet": "56",
+   "aiTag": "✅真AI方向",
+   "note": "085410全日制67+非全30，408；线待核；2026全日制67+非全30均22408",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/U1M4U5VGX-Vqy8hYKCIp_w",
+   "kaoqingUrl": "https://scei.gxu.edu.cn/info/1005/4015.htm",
+   "scope": "全日制67(含推免35)+非全30，均22408(2026)；4/8调剂复试名单：全日制96人+非全44人；一志愿拟录取附件官网404，录取人数查无",
+   "college": "计算机与电子信息学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机与电子信息学院",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": null,
+   "plan": "67+30非全",
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "全日制67(含推免35)+非全30，均22408(2026)；4/8调剂复试名单：全日制96人+非全44人；一志愿拟录取附件官网404，录取人数查无",
+   "verify": "机构✅(科目)+官方(名单)",
+   "url": "https://scei.gxu.edu.cn/info/1005/4015.htm"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236266&idx=6&sn=ceda80a90e876b482528bd9160a7ad4a&scene=21&poc_token=HCL-CmmjFmCiEjfC1sI-EA8SdI5HX6zklc0HcC5P",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236266&idx=5&sn=0c9834c426dc8f5feebfdf6d58ce0336&scene=21&poc_token=HB_-CmmjRBo7nPRvUAYJUqIgpALk0TLTfw8qW_xr",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236266&idx=4&sn=3d49eb0528a4d78b950a3d172a846052&scene=21&poc_token=HBz-CmmjpuS9dsokPBT4t93gdxaCxAp2ZmSfWyoU",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236266&idx=3&sn=6345948dd2096817e1be22143d49b4be&scene=21&poc_token=HBn-Cmmjh6IZpfXY7-5baH45vJzrjjYQiFr4V_S0",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236266&idx=2&sn=c660a9925cf9ebb57e102a65ba795cfb&scene=21&poc_token=HBf-Cmmj8r7W9Kl8o6bUZ-vd6ahv4fp3ZYIkSZHA",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236266&idx=1&sn=c2564b2bd1ae4c3f88c7ac1fbd583c66&scene=21&poc_token=HBT-CmmjrPUudu4Quzq85ykvWbWPOI1wkbmckO_T",
+  "25考情分析": "https://mp.weixin.qq.com/s/oPirM92F8fDQBK9yhs9N5A",
+  "26考情分析": "https://mp.weixin.qq.com/s/U1M4U5VGX-Vqy8hYKCIp_w"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "广西大学085410招生",
+   "url": "https://www.kaoyana.com/s1108/085410/"
+  },
+  {
+   "label": "历年线·启航院校库（河北大学/常州大学/苏大/广西大学等）",
+   "url": "https://jixun.iqihang.com/"
+  },
+  {
+   "label": "广西大学2026调剂复试名单",
+   "url": "https://scei.gxu.edu.cn/info/1005/4015.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

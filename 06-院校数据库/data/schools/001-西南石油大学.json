@@ -1,0 +1,49 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "西南石油大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "西南石油大学",
+   "province": "四川",
+   "college": "计算机科学学院",
+   "program": "电子信息-计算机",
+   "subjects": "英二数二408",
+   "line": "264",
+   "retestCnt": "97",
+   "adjCnt": "2",
+   "avgTotal": "333",
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "63",
+   "admitAvg": "340",
+   "rate": "60%",
+   "ratioNN": "1.5",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666151597&idx=5&sn=fe1622324b2cb1edd2653505583d204f&scene=21&poc_token=HEzxCmmjXNbUsA8lZuyDI7928us59yOSpWQXeD9e",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666155673&idx=4&sn=f5ba49d2b5497b107464ba93120a1bd9&scene=21&poc_token=HDzxCmmj5osTj5RnQppfkLheJBoxCqR1dUPeSCpI",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666168601&idx=8&sn=efa219a082bbdcc79733b02058d14244&scene=21&poc_token=HCXxCmmj5v8gIlNJYkHlyjDBDha7lOAh9SkzRxBx",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186360&idx=5&sn=5278e0cff93b492470b0c0039e9bb44c&scene=21&poc_token=HCPxCmmj-gtK2VqKlTLjkOEtSHiZtKZb5RSuN1X9",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666210775&idx=8&sn=60bc0fdd7cc50764ae8c28fda5a0ed3c&scene=21&poc_token=HAzxCmmjKsVR8tfnWMC0CnnsfgOMUUBCASny96XG",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234501&idx=6&sn=89e28e2faa91a0553a991c2c7138440c&scene=21&poc_token=HArxCmmj1svZbcApjBuSR0xoYovKeHLrG-FK94xy",
+  "25考情": "https://mp.weixin.qq.com/s/Pr0GHYoDctxAfrYu1937oQ",
+  "26考情": "https://mp.weixin.qq.com/s/mNezxAKQ00Goq3pecAI9yQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

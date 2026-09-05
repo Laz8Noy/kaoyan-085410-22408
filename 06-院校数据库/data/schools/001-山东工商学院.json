@@ -1,0 +1,45 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "山东工商学院",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "山东工商学院",
+   "province": "山东",
+   "college": "计算机科学与技术学院",
+   "program": "电子信息-计算机",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "5",
+   "adjCnt": "122",
+   "avgTotal": "303",
+   "avg408": "84",
+   "avgPol": "52",
+   "avgEng": "65",
+   "avgMath": "102",
+   "admitCnt": "5",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666209091&idx=8&sn=94e38ce83e9c95a31e37d77a00b070b6&scene=21&poc_token=HHoJDGmjE3Njwe17qfTe8074sfTHtDmblIeNIOKj",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234622&idx=4&sn=97bbff92abde6e19b81e8d640c6ff675&scene=21&poc_token=HHgJDGmj4THmdnFE9J-7qRNrncD9v3wxz6-iDFJc",
+  "25考情": "https://mp.weixin.qq.com/s/9Q6q3CWty6YvW4R6fj9_eA",
+  "26考情": "https://mp.weixin.qq.com/s/kc6LGMMSOKP9DU9_7NAKuA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "广西师范大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "广西师范大学",
+   "province": "广西",
+   "college": "计算机科学与信息工程学院",
+   "program": "电子信息-软件工程",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "15",
+   "adjCnt": "0",
+   "avgTotal": "279",
+   "avg408": "73",
+   "avgPol": "55",
+   "avgEng": "63",
+   "avgMath": "88",
+   "admitCnt": "15",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666152231&idx=3&sn=fac57aabaee9b8c026231a60d89f2495&scene=21&poc_token=HIL_Cmmjx6KeZePSc9Fpzphr4XcFqP0WmopTYdGd",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187315&idx=2&sn=9f74ea93f1528a7030107be0d9e273cb&scene=21&poc_token=HH__CmmjEowCcxlK10LCYhVcvoOqWMDKjTnH_WDV",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187315&idx=1&sn=4c6ee24768bb42c06285cf55884e5dcd&scene=21&poc_token=HHv_CmmjbiQ44hJkiBFjxgJAYZ8hWQgcb9x4b1dF",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666214272&idx=5&sn=6fd674f10e55d5b3fa0a04f8d9d08d20&scene=21&poc_token=HHn_Cmmj7pRHj_GPPQZEfIetMW3RP7t3d-zQSYO2",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231652&idx=7&sn=a5c480ad1eb5e96ac312e219dd5f4c8a&scene=21&poc_token=HHb_Cmmj6wv06GH7hcLQVf2pvS_FO25-qg11pQRK",
+  "25考情分析": "https://mp.weixin.qq.com/s/K7EPQxAMs7e0lDtVVfkIrw",
+  "26考情分析": "https://mp.weixin.qq.com/s/pEdl9x1Pa7o7aJ9CvpWTWQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

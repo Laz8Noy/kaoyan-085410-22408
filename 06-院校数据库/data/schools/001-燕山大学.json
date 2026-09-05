@@ -1,0 +1,49 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "燕山大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "燕山大学",
+   "province": "河北",
+   "college": "人工智能学院（软件学院）",
+   "program": "电子信息-计算机",
+   "subjects": "推测408",
+   "line": "264",
+   "retestCnt": "46",
+   "adjCnt": "4",
+   "avgTotal": "295",
+   "avg408": "87",
+   "avgPol": "57",
+   "avgEng": "58",
+   "avgMath": "93",
+   "admitCnt": "46",
+   "admitAvg": "298",
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233707&idx=7&sn=cbf530749a67ccd52c2b16c879a454c8&scene=21&poc_token=HJQJC2mjJSXrMix1v-MwIluJdxOipcjBxlWdNDq_",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233707&idx=6&sn=56dc5d228a59ae3caeb31f7e385384df&scene=21&poc_token=HJIJC2mjEpu4anTh_78tmyAhQYzPWaEpO2EWwvle",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233707&idx=5&sn=dc1041921d738fd9026555aba4c9679b&scene=21&poc_token=HI8JC2mjw2bCYmIgTMsGc54LfPkeIO63oD6SbAC6",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233707&idx=4&sn=8107dc69715cbe5c4132dd8fced4a1c6&scene=21&poc_token=HIwJC2mjkgZrVXkqjEAxAVWG3xBNQQuRGNdVzKey",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233707&idx=3&sn=f4fdf291eaee8deac095e7360866e6ba&scene=21&poc_token=HIkJC2mjb5Y8wDerryDUOloFTQSemgB-F7OWm5Ln",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233707&idx=1&sn=543566baa3bd3d5b933ae826b8611291&scene=21&poc_token=HIcJC2mjbxMAda5fGqwfsCmAJhz8zYB2f9msficq",
+  "25考情分析": "https://mp.weixin.qq.com/s/fXIhBZPanH7cDZTvIHgylw",
+  "26考情分析": "https://mp.weixin.qq.com/s/UiVY6U7GYm-qNTAqDSugVw"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

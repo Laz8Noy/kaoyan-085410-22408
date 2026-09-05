@@ -1,0 +1,75 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "华北理工大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "河北",
+   "region": "华北",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "linesByYear": {
+    "2023": "273",
+    "2024": "273",
+    "2025": "260",
+    "2026": null
+   },
+   "plan2026": "14",
+   "fill": "待确认",
+   "aiTag": "✅真AI方向",
+   "heatNet": "42",
+   "heatComp": "40",
+   "nn408avg": "70",
+   "nnRate": "100%",
+   "note": "2026目录拟招14，408；复试线未单独查到",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "人工智能学院",
+   "nnSubjects": "英二数二408",
+   "wdCount": "7",
+   "wdYears": "19考情分析,20考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/_MMGZ99SzWhEBJ1S2f87mw",
+   "college": "人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666152574&idx=3&sn=a8ff687df5fe77fca9ffa9df9630e761&scene=21&poc_token=HPcLC2mj2eNLEt9l1CNrMvWfWu_0rXxtbjdAeCfp",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666155781&idx=6&sn=3d9e71b8a5516b407ee49eaa55be3335&scene=21&poc_token=HPULC2mjxXiHCV_O9d_lEwT_44i7AjJWzDVX9ucj",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187333&idx=6&sn=e5c642d28f92bcb6ac13d4188664cf5b&scene=21&poc_token=HPILC2mjPeOtvNGfSGj0mZO56qb3_I21spH30A0Q",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666212033&idx=8&sn=def1728a621960c2ce0c38b475dc4575&scene=21&poc_token=HO8LC2mjQvsTo_CIgeZTC7nJYX7lHkvX75HNOqYd",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232582&idx=7&sn=6a972dc543f1aa7d1440901c0450f408&scene=21&poc_token=HO4LC2mj9crJJGk_KmwUrFug99ZrooMXCNJPSJ8w",
+  "25考情分析": "https://mp.weixin.qq.com/s/6VHKyBCcvdRNPYKddQxATQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/_MMGZ99SzWhEBJ1S2f87mw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "华北理工大学2026专业目录",
+   "url": "https://kaoyan.koolearn.com/20251010/1883222.html"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

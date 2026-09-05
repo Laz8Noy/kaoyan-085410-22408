@@ -1,0 +1,48 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "武汉工程大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "武汉工程大学",
+   "province": "湖北",
+   "college": "计算机科学与工程学院（人工智能学院）",
+   "program": "电子信息-人工智能",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "3",
+   "adjCnt": "0",
+   "avgTotal": "285",
+   "avg408": "86",
+   "avgPol": "60",
+   "avgEng": "44",
+   "avgMath": "96",
+   "admitCnt": "3",
+   "admitAvg": "285",
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666152516&idx=3&sn=95111ff0865ca39f5eb64716bce400b2&scene=21&poc_token=HPgRDGmj7e8G93lkUPGbkDBDqM3YvynU13GGE3dS",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666156420&idx=4&sn=df4ba7e7e34c83bfa0620397a5ff8887&scene=21&poc_token=HPURDGmjIt0ev3Yrx8FBzyLCnxhS7tj3Mg9mSks4",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186365&idx=5&sn=a2824978d7bca72a14ddc765c85d9d0d&scene=21&poc_token=HPMRDGmjLW-ya5_G0C6JJO6Mwgi9j64OTUFBMf1r",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666217357&idx=7&sn=78c23aabf47da8cef96f6c03977e3f1f&scene=21&poc_token=HPARDGmj52mBLB231xSsdRMnCNccEdkq0f-EUITQ",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231094&idx=4&sn=062ed05ccc23c2f4e9cf7619fa8c420f&scene=21&poc_token=HO4RDGmjBv9BN35ljzoAq2EYw062KBBzKMEGYaSj",
+  "25考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666252329&idx=5&sn=4558df35299ae3d0da278131f9fa5f39&chksm=8a695754f64b4127878085b2b68ff6e7cd014d61167e6194f03112bbe71ea64ed42c9dfe972f&scene=126&sessionid=1756351423&subscene=91&clicktime=1756351452&enterid=1756351452&key=daf9bdc5abc4e8d078f7006b1f4fd67b9838625de92f366afbe3abb17b1a74b9e3f558db4117cc2ab4eb37818c2f37d4b9a4472a2feddbd3ae23e1137cce7cd05b5274b5e7cf993bd3e184fd23fee23403be78d3db5d39585a7881363273a93375c3d0717db8e92821241b71f4e092378cbd89dcd1ce46d481e3fffef3c75541&ascene=0&uin=Mjc5MDEzMTU0MQ%3D%3D&devicetype=UnifiedPCWindows&version=f2541012&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQ7zbDaaB8gXvqM%2F3cB5B7rBLlAQIE97dBBAEAAAAAAAb6KieJ924AAAAOpnltbLcz9gKNyK89dVj0y5ejtmjggfqQa8uAqnf2vkB5axgsCLVTvqGG51c3xJctKjor7CJniW9BaF9ZN6hWpAVUG0iJmXYgtp%2Bior6jX8bXvra9zO41qvunErgZK4DAiY3BCcmp2kUaBHwzTt%2Br5fNY7gk%2Fu0dnYTNkuqGpU1XWMaCN0vi8UeY%2BobQjdlXvq9tf98AfhdhdDF8miHipl%2FKulaFhOq1tBWqj8qzp5sALn7CbRZKZekwXyzyq9%2BaXM5OnTb9CTa2G5WXaB8s%3D&acctmode=0&pass_ticket=A8Fz%2FqOzCPrBHW3dAAEaMPYlunTsS4YfOe%2FHF1g6DFgL7hCZd2UlLAuPIcYO1t%2F9&wx_header=0",
+  "26考情分析": "https://mp.weixin.qq.com/s/T_hMdzpIGvoyPucaKQc-IQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

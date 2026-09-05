@@ -1,0 +1,77 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "河南科技学院",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "河南",
+   "region": "华中",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "调剂",
+   "aiTag": "✅真AI方向",
+   "heatNet": "38",
+   "heatComp": "23",
+   "note": "调剂细则要求初试含408",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "4",
+   "wdYears": "23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/ALCwNcb1hJvPD6GcOdkF9w",
+   "college": "人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666208790&idx=5&sn=8ca0af8e631f5312d0e43629bb917ca6&scene=21&poc_token=HEf9C2mjvrLQK4Q8pJe0XA09RDj2-pzh5nhynbzJ",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234374&idx=5&sn=973781a07965b26f801f6c4316a32405&scene=21&poc_token=HET9C2mjPVJnZsrPsb3Q0VPgdmGCyVWOYekTKZnN",
+  "25考情分析": "https://mp.weixin.qq.com/s/Q6HtatRH-xEVHh5K4NNwWQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/ALCwNcb1hJvPD6GcOdkF9w"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "22408",
+  "region": "华中",
+  "tier": "双非",
+  "line": "264",
+  "fill": "调剂",
+  "aiTag": "✅真AI方向",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "河南科技学院085410调剂细则",
+   "url": "https://ai.hist.edu.cn/info/1828/7799.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

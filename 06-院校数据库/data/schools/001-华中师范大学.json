@@ -1,0 +1,95 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "华中师范大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "湖北",
+   "region": "华中",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "heatComp": "38",
+   "heatNet": "74",
+   "aiTag": "✅真AI方向",
+   "note": "2027起AI教育学部+国家工程研究中心合并招生（官方公告2026-06-30）；22408；2026线=国家线264；085405软工同口径可备选；211性价比高；拟录取45人（含退役/定向）",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/qe5jp2LFKsz2E_FKesU5Hw",
+   "kaoqingUrl": "http://gs.ccnu.edu.cn/info/1028/6263.htm",
+   "scope": "拟录取名单公示(039学部)：085410共45人（含退役1人309、定向1人263）；统考普通43人最高388、最低331、均355.3",
+   "college": "人工智能教育学部"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "人工智能教育学部",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": "264",
+   "plan": "40(2026)/20(2027口径待核)",
+   "retestCnt": null,
+   "admitCnt": "45",
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": "388",
+   "admitMin": "331",
+   "admitAvg": "355.3",
+   "scope": "拟录取名单公示(039学部)：085410共45人（含退役1人309、定向1人263）；统考普通43人最高388、最低331、均355.3",
+   "verify": "官方✅",
+   "url": "http://gs.ccnu.edu.cn/info/1028/6263.htm"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236715&idx=6&sn=32822c9e78907d218d71f1ed151cf955&scene=21&poc_token=HHULDGmjiw0KC7wVavP3Vs5ETrkunMtDM9wwGXV8",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236715&idx=5&sn=91f911b88e4f5c60ce1ce7cd8b4b8c99&scene=21&poc_token=HHILDGmjZEI9ClZiCS15-DrPaW3eJRs-YMFrxB2Y",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236715&idx=4&sn=f64719ff2a3611ec0d9bc4e39252f3e3&scene=21&poc_token=HHALDGmj_qv5h1OopDoc3tnKbXKtM9my37R-iTOz",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236715&idx=3&sn=3b28a21407559d1ce65e78782560d333&scene=21&poc_token=HG4LDGmjH40_aYiGhYeI6tBKMXFRTlqJE8N32oTR",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236715&idx=2&sn=5539d232f49e605b8036d19eb44ee3c0&scene=21&poc_token=HGsLDGmjxEF9qhpU0qajMKxp2sKxS9boul6Dcxwj",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236715&idx=1&sn=97f7b6e27f04bcda9d19aee62af72d5e&scene=21&poc_token=HGkLDGmjHxwaIsEQUml4TDjKsjZRZpAQqOazSCkC",
+  "25考情分析": "https://mp.weixin.qq.com/s/EbqbexMXmrqd_WZJKRVZ5A",
+  "26考情分析": "https://mp.weixin.qq.com/s/qe5jp2LFKsz2E_FKesU5Hw"
+ },
+ "updates2027": [
+  {
+   "院校": "华中师范大学",
+   "层次": "211",
+   "专业/范围": "AI教育学部085410(2027起与国家工程研究中心合并招生)",
+   "原科目": "—(2026已考408)",
+   "新科目": "408",
+   "生效年份": "2027合并招生",
+   "来源": "官方公告2026-06-30",
+   "备注": "22408；2026线264/拟40人；教育AI特色，211性价比高"
+  }
+ ],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "华中师范大学2026-2027招生公告",
+   "url": "https://foaie.ccnu.edu.cn/info/1022/14193.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "长春理工大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "吉林",
+   "region": "东北",
+   "tier": "双非",
+   "subjectClass": "待确认",
+   "direction": "01计算机类方向",
+   "line2026": "290",
+   "lineDelta": "+26",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "290"
+   },
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "62",
+   "heatComp": "42",
+   "note": "085410 01计算机类方向复试线290(官方)、02自动化类方向264；2026实际拟录取42人(01方向38+02方向4)，01方向最高393/最低297；N诺322为错位(疑均分)",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "总览",
+    "区域榜",
+    "区域榜",
+    "招录比对比",
+    "招录比对比",
+    "三源核对",
+    "三源核对"
+   ],
+   "lineUltimate2026": "290",
+   "nnProg": "电子信息-计算机",
+   "nnCollege": "计算机科学与技术学院",
+   "nnSubjects": "英二数二408",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/Nl31egGpBF1tp9p20qctOw",
+   "college": "人工智能学院",
+   "remark": "已复核官方2026复试线：01计算机类290/02自动化类264；N诺322错位勿采信"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666152377&idx=3&sn=ddce184b5be667fddd1430741bfa2d2c&scene=21&poc_token=HE1uDGmj0WTJmidoJ5TMljgoEF92yFdQt6PQNcBT",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666155630&idx=5&sn=c9a64d86cd15ca16c4e8da63c2c7b95b&scene=21&poc_token=HEluDGmj5OVsfnTY8wmxMmSRUGHOnpfKnsa-WL7E",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666167362&idx=7&sn=6964a79f38da7e868fc8c6621b91cb4c&scene=21&poc_token=HEduDGmjhyGPA7g5Y_8NwGobHmPoxwMxAb9xuOrL",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185598&idx=6&sn=c7912e81f3e224acd1ef7a6f9395d411&scene=21&poc_token=HERuDGmjfR6C6mChpHVsamK0ew7Or_tyaN9QJuqd",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666213145&idx=6&sn=2dbb280c8954ccf0175f2c2c03b29b78&scene=21&poc_token=HEFuDGmjmUVr5Tm4fTdwwad_kOOwCfQ3yAsrqRsX",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231412&idx=6&sn=ab0b86c13fa92e65667c8bb3b8ce00cd&scene=21&poc_token=HD5uDGmjM9VlyvZ2jzqqBslwN4TjZD0eh5W1MvWm",
+  "25考情": "https://mp.weixin.qq.com/s/VWJLoHb2MuHxbW_fPg9GOA",
+  "26考情": "https://mp.weixin.qq.com/s/Nl31egGpBF1tp9p20qctOw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "长春理工大学2026复试线",
+   "url": "https://jixun.iqihang.com/schoolscore/20265090.html"
+  },
+  {
+   "label": "长春理工大学2026目录变更通知",
+   "url": "https://www.eol.cn/jilin/jlgd/202507/t20250729_2683589.shtml"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

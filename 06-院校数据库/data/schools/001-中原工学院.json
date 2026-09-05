@@ -1,0 +1,72 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "中原工学院",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "河南",
+   "region": "华中",
+   "tier": "双非",
+   "subjectClass": "非408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "调剂",
+   "aiTag": "❓未注明",
+   "heatNet": "40",
+   "heatComp": "23",
+   "note": "408调剂公告；复试线按国家线",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "4",
+   "wdYears": "23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/nzEAjfsyfpVbZGwyaQ5Uog",
+   "college": "计算机学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666213592&idx=7&sn=e3382b4b328d8c48da8b722dd77c2ff0&scene=21&poc_token=HEz_C2mjLaRTVYY5PV-SjIBReQMhsSo8GyjoHm1x",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232004&idx=5&sn=8a8e9d01c034bef35b124cb14af295c9&scene=21&poc_token=HEv_C2mjAQW-xmYmStFW5rFDVO50ZswpS7W5ZRyV",
+  "25考情分析": "https://mp.weixin.qq.com/s/VydZtocCUIBwnqYtPmH_Kw",
+  "26考情分析": "https://mp.weixin.qq.com/s/nzEAjfsyfpVbZGwyaQ5Uog"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "非408",
+  "region": "华中",
+  "tier": "双非",
+  "line": "264",
+  "fill": "调剂",
+  "aiTag": "❓未注明",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

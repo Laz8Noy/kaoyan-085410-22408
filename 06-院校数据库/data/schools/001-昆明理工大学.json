@@ -1,0 +1,78 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "昆明理工大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "云南",
+   "region": "西南",
+   "tier": "双非",
+   "subjectClass": "非408",
+   "direction": "不区分研究方向",
+   "line2026": "254",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "254"
+   },
+   "fill": "一志愿为主",
+   "aiTag": "❓未注明",
+   "heatNet": "46",
+   "heatComp": "29",
+   "nn408avg": "84",
+   "nnRate": "90%",
+   "note": "B区国家线254",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "254",
+   "nnProg": "电子信息-计算机",
+   "nnCollege": "信息工程与自动化学院",
+   "nnSubjects": "推测408",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/iXybBe02ReM2kiyDCHaLUw",
+   "college": "信息工程与自动化学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235934&idx=6&sn=700df12577cfb42e85271790f8765dc9&scene=21&poc_token=HKaoCmmjM10izeKQN1g7SnzkaHpAZjfdba9CdTBP",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235934&idx=5&sn=9d847183133ed88f7d7e827dcf906acc&scene=21&poc_token=HJioCmmjipMyYBXFThAGeIZLkPJqDV2MPU2WHcTD",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235934&idx=4&sn=aac77e41e42a8b8335a0c8815306abf8&scene=21&poc_token=HIioCmmjH8sb3StvZ1m2S60MNmqDRw-IO_V3IATa",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235934&idx=3&sn=06d7ee62c74a426185e2ff0dde8d7faa&scene=21&poc_token=HHqoCmmj6iTtgJIzWDXhWX2tBFikkC0epcNDpohS",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235934&idx=2&sn=1a0eebe16fedde974b87972a3f2d69dd&scene=21&poc_token=HGioCmmjdZutZvXRrMwdUeFIiuUPZGv6nkaXk3CX",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235934&idx=1&sn=4429b20b687594ce52cfe8f9b2deb5c7&scene=21&poc_token=HFioCmmj7yK5pz4W56Y66v4DL5T1YKdtVlgG-Ebz",
+  "25考情": "https://mp.weixin.qq.com/s/CltAsNYUTHUUYqlWqp_Ypw",
+  "26考情": "https://mp.weixin.qq.com/s/iXybBe02ReM2kiyDCHaLUw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "昆明理工大学085410专业介绍",
+   "url": "https://www.ludengkaoyan.com/school340/qrz/zsml/385927.html"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "武汉纺织大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "武汉纺织大学",
+   "province": "湖北",
+   "college": "计算机与人工智能学院",
+   "program": "电子信息-人工智能",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "20",
+   "adjCnt": "0",
+   "avgTotal": "297",
+   "avg408": "78",
+   "avgPol": "56",
+   "avgEng": "69",
+   "avgMath": "94",
+   "admitCnt": "20",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666177513&idx=4&sn=be421bc6999ff63574e905d3d774fd7e&scene=21&poc_token=HFkTDGmjn5eQ_nZTXX_3fQ1RAgCaQyatsHy9FeX4",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666217357&idx=6&sn=9c12d151c863247d96df6389d8895e61&scene=21&poc_token=HFUTDGmjYpaFJd7-G_mPPX-gcIsM6C66n6td4FJK",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233000&idx=5&sn=c101e4c2bf8790ca734e77d45873777a&scene=21&poc_token=HFMTDGmjn3CwD-NMTel0zZgDYbkV8y9Q2029wgOO",
+  "25考情分析": "https://mp.weixin.qq.com/s/OGtfni2gmLIv5frXF8WeIw",
+  "26考情分析": "https://mp.weixin.qq.com/s/mus-sC-CRo_P4KDwliGibA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

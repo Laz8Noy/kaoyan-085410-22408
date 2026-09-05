@@ -1,0 +1,112 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "西北民族大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "甘肃",
+   "region": "西北",
+   "tier": "双非",
+   "subjectClass": "非408",
+   "direction": "人工智能技术",
+   "line2026": "254",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "254"
+   },
+   "plan2026": "15",
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "38",
+   "heatComp": "27",
+   "note": "B区国家线；方向人工智能技术",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比"
+   ],
+   "college": "中国民族信息技术研究院"
+  },
+  {
+   "category": "S-主体",
+   "province": "甘肃",
+   "region": "西北",
+   "tier": "双非",
+   "subjectClass": "非408",
+   "direction": "不区分研究方向",
+   "line2026": "254",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "254"
+   },
+   "plan2026": "18",
+   "fill": "一志愿为主",
+   "aiTag": "⚠️偏传统",
+   "heatNet": "34",
+   "heatComp": "26",
+   "note": "电气工程学院085410拟招18",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比"
+   ],
+   "college": "电气工程学院"
+  }
+ ],
+ "crossRefs": [
+  {
+   "tier": "双非",
+   "lineUltimate2026": "254",
+   "nnProg": null,
+   "nnCollege": null,
+   "nnSubjects": null,
+   "nn408avg": null,
+   "nnRate": null,
+   "cyCode": null,
+   "cyRetest": null,
+   "cyAdmit": null,
+   "cyAvg": null,
+   "wdCount": "4",
+   "wdYears": "23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/XKR7-6qjS_c-_uUBoRca2A",
+   "remark": null
+  }
+ ],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666217129&idx=8&sn=667dfbd818036e520a3be7447f382e95&scene=21&poc_token=HGzLCmmjqBRbmy9s5uDlkfqMeYC7ckFy6SiMZC9A",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234773&idx=6&sn=f3778b6130645cfc1bc293ed3cf45bb7&scene=21&poc_token=HGrLCmmj0ApgSlJA4CSPs48Yt8Pg-XxIJVE7puoG",
+  "25考情分析": "https://mp.weixin.qq.com/s/HYHxai-CCd6AiQ-2_zKrJQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/XKR7-6qjS_c-_uUBoRca2A"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "西北民族大学085410复试细则",
+   "url": "https://www.xbmu.edu.cn/xxy/info/1531/7722.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

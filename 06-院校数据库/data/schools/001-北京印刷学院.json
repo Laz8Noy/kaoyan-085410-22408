@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "北京印刷学院",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "北京印刷学院",
+   "province": "北京",
+   "college": "信息工程学院",
+   "program": "电子信息",
+   "subjects": "英二数二408",
+   "line": "264",
+   "retestCnt": "5",
+   "adjCnt": "0",
+   "avgTotal": "303",
+   "avg408": "80",
+   "avgPol": "59",
+   "avgEng": "72",
+   "avgMath": "93",
+   "admitCnt": "5",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666179737&idx=4&sn=b048a82a7cf5726010105b176f1dcefd&scene=21&poc_token=HHmiCmmjeT_9d6plK7ZCYFlQ4GBJOwfOr2WhkQpz",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666212463&idx=5&sn=66a753687405bb0f0796365cee7b48bd&scene=21&poc_token=HHeiCmmjXZwYKBSi6-1AvFNA1WqRK-jsCPw7KWjb",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233172&idx=6&sn=f2eaa8c0aa6880cf93b53078071c8c4a&scene=21&poc_token=HHWiCmmjmwqNjoX_WS6AYfvzJf21ygWriOFJk6xO",
+  "25考情分析": "https://mp.weixin.qq.com/s/ydl72BDEnwaLRoYs0pmCyg",
+  "26考情分析": "https://mp.weixin.qq.com/s/F5Q5AQfCirnVNE5-U-Y5AQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

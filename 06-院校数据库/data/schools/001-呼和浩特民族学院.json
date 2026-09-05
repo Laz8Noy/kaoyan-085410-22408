@@ -1,0 +1,69 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "呼和浩特民族学院",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "内蒙古",
+   "region": "华北",
+   "tier": "双非",
+   "subjectClass": "混合",
+   "direction": "不区分研究方向",
+   "line2026": "254",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "254"
+   },
+   "fill": "大量调剂",
+   "aiTag": "❓未注明",
+   "heatNet": "34",
+   "heatComp": "21",
+   "note": "B区国家线；调剂细则要求业务课408",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "254",
+   "college": "计算机与信息技术学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {},
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "混合",
+  "region": "华北",
+  "tier": "双非",
+  "line": "254",
+  "fill": "大量调剂",
+  "aiTag": "❓未注明",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "呼和浩特民族学院085410调剂细则",
+   "url": "http://www.imnc.edu.cn/jsjx/info/1170/2994.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

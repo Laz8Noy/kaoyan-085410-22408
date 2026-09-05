@@ -1,0 +1,81 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "四川大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "四川",
+   "region": "西南",
+   "tier": "985",
+   "subjectClass": "无085410",
+   "heatComp": "55",
+   "heatNet": "92",
+   "aiTag": "✅真AI方向",
+   "note": "085410线待官方核实，作985对照全日制无085410；AI相关为140500学硕(英一数一408)/085400",
+   "srcLabel": "网络热度",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "cyCode": "085400",
+   "cyRetest": "167",
+   "cyAdmit": "103",
+   "cyAvg": "365",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/KCcb5Jq3HQB8aI06Uo8Yzg",
+   "remark": "川渝参考085400",
+   "kaoqingUrl": "https://www.kaoyana.com/s1015/140500/50900/",
+   "scope": "全日制未设085410（AI相关为140500学硕·英一数一408或085400电子信息）；2024仅航空航天学院非全085410，不符合22408",
+   "college": "计算机学院（相关）"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机学院（相关）",
+   "tier": "985",
+   "subjects": "无085410",
+   "line2026": null,
+   "plan": null,
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "全日制未设085410（AI相关为140500学硕·英一数一408或085400电子信息）；2024仅航空航天学院非全085410，不符合22408",
+   "verify": "机构🔍",
+   "url": "https://www.kaoyana.com/s1015/140500/50900/"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666147778&idx=1&sn=053722326ef41043f6e85e61240e2e69&scene=21&poc_token=HCnICmmjN5eARPl9AgbXoYbEV_jcPP-sIPH1ltvh",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237509&idx=5&sn=4ad0ab18f72bf2ca2bbe78ce9a566596&scene=21&poc_token=HC7ICmmjxfZ967PAkf3CGYgfNkpNJ3VzduRSU7kt",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237509&idx=4&sn=06f363eeca26a9f3b1a2b83e01458656&scene=21&poc_token=HAPICmmjmTv5zvYZgIAP_WHdolHM4XpoDPybfU0y",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237509&idx=3&sn=7511b53f3e7493b32c64ff32740ed688&scene=21&poc_token=HADICmmjYr6u4umi-h1TqguuDxn-bidbQ4P9zeoo",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237509&idx=2&sn=001651e60509e05dc07b003b31971660&scene=21&poc_token=HP3HCmmj-U54GX2a4ILNiw9j7GSN_tl_bInk-N2a",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237509&idx=1&sn=d161e0092683ba95cb45e7f2b4360576&scene=21&poc_token=HO3HCmmj3S1KvofrHUWY3ynPdbvMMJHop9hxzhuz",
+  "25考情": "https://mp.weixin.qq.com/s/1EPiDgqbPl4ZNDG0Ap0qbQ",
+  "26考情": "https://mp.weixin.qq.com/s/KCcb5Jq3HQB8aI06Uo8Yzg"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

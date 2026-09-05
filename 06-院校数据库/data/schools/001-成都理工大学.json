@@ -1,0 +1,119 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "成都理工大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "四川",
+   "region": "西南",
+   "tier": "双一流学科",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "308",
+   "lineDelta": "+44",
+   "linesByYear": {
+    "2023": null,
+    "2024": "299",
+    "2025": "301",
+    "2026": "308"
+   },
+   "fill": "一志愿为主",
+   "scope": "2026拟招23（不含推免，机构）；官网拟录取页反爬，复试/录取明细查无；复试有C语言机试斩杀线(VS2010)",
+   "aiTag": "✅真AI方向",
+   "heatNet": "68",
+   "heatComp": "50",
+   "nn408avg": "87",
+   "nnRate": "70%",
+   "note": "双一流(学科)主体校；复试线308；复试有C语言机试斩杀线；2026 计划26人(较2025的20人+30%)；2026 复试线308(官方)；计网学院",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "308",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "计算机与网络安全学院（示范性软件学院）",
+   "nnSubjects": "英二数二408",
+   "cyCode": "085410",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/myyKG1-jJx3RcIk5IYYG3w",
+   "kaoqingUrl": "https://cist.cdut.edu.cn/info/1145/7596.htm",
+   "college": "计算机与网络安全学院",
+   "plan2026": "26",
+   "remark": "官方2026复试线085410=308、085411=268；2026计划26人；2027目录未发布"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机与网络安全学院",
+   "tier": "双一流学科",
+   "subjects": "22408",
+   "line2026": "308",
+   "plan": null,
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "2026拟招23（不含推免，机构）；官网拟录取页反爬，复试/录取明细查无；复试有C语言机试斩杀线(VS2010)",
+   "verify": "机构🔍",
+   "url": "https://cist.cdut.edu.cn/info/1145/7596.htm"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233104&idx=7&sn=ded884ceed5b69e8ed13f515ca14fd3c&scene=21&poc_token=HEjLCmmjDVFxIK_BBchso6VUxaN1cbVNKdlaKlyg",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233104&idx=6&sn=efc08d65b3ddb6da19562c192449c237&scene=21&poc_token=HCbLCmmjlBGvnpNkuBCrkfWdxW1Pdus6tot_bH8j",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233104&idx=5&sn=e63a86ad04bc6fec88bb3127ec0fc61b&scene=21&poc_token=HCPLCmmjmvNIv3bE14qT9gSdxa_Jg3XDMH5HxfiJ",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233104&idx=4&sn=a7dd47abdf152b0c8e4e23ae96ea64de&scene=21&poc_token=HCDLCmmjbtN3PCjmMYH8Ulrme6TUcrcl8m_oYHOJ",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233104&idx=3&sn=2e121a1abd7ba57a0a5c75698c96964c&scene=21&poc_token=HBLLCmmjrB_wBZ_cBxStCKMOxZmPhg7NtdABR-Tf",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233104&idx=1&sn=6f1517e4fa185ea83037c9d90730a0c5&scene=21&poc_token=HPzKCmmj0zr0E5rM2skT6Dvyt5s3EooviW6guLEm",
+  "25考情": "https://mp.weixin.qq.com/s/PCdda9-4idMm4oItwraeIQ",
+  "26考情": "https://mp.weixin.qq.com/s/myyKG1-jJx3RcIk5IYYG3w"
+ },
+ "updates2027": [],
+ "tutors": [
+  "肖鹏（轻量化神经网络、医学图像分析、无人机视觉与智能控制）；胡亨琪（目标检测与跟踪、图像分割）"
+ ],
+ "inTJList": null,
+ "inKeyList": {
+  "院校": "成都理工大学",
+  "省份": "四川",
+  "大区": "西南",
+  "层次": "双一流学科",
+  "学院": "计算机与网络安全学院",
+  "初试科目": "22408",
+  "方向": "不区分研究方向",
+  "2026线": "308",
+  "拟招": null,
+  "一志愿/调剂": "一志愿为主",
+  "AI方向": "✅真AI方向",
+  "来源": "官方",
+  "综合热度": "50",
+  "备注": "双一流(学科)主体校；复试线308；复试有C语言机试斩杀线"
+ },
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "成都理工大学计算机学院（412反爬）",
+   "url": "https://cist.cdut.edu.cn/info/1145/7596.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

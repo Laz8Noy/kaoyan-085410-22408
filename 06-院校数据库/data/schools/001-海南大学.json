@@ -1,0 +1,87 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "海南大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "海南",
+   "region": "华南",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "254",
+   "lineDelta": "=国家线",
+   "heatComp": "29",
+   "heatNet": "56",
+   "aiTag": "✅真AI方向",
+   "note": "B区211双一流；2026起计算机相关专硕统一22408；085410计划37含推免3、统考34，120%差额进复试42人；2026线254(B区国家线)，2025=250；复试笔试考数据结构[1089]；复试42人/统考计划34",
+   "srcLabel": "官方(2026-03-23细则)",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "254",
+   "wdCount": "7",
+   "wdYears": "19考情分析,20考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/SYOST-HMGwEKoJsDF1ipOw",
+   "kaoqingUrl": "https://sice.hainanu.edu.cn/info/1026/9883.htm",
+   "scope": "计划37含推免3→统考34；进复试42人（含并列），线254，120%差额；复试笔试数据结构",
+   "college": "信息与通信工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "信息与通信工程学院",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": "254",
+   "plan": "34",
+   "retestCnt": "42",
+   "admitCnt": null,
+   "ratioRetest": "1.24",
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "计划37含推免3→统考34；进复试42人（含并列），线254，120%差额；复试笔试数据结构",
+   "verify": "官方✅",
+   "url": "https://sice.hainanu.edu.cn/info/1026/9883.htm"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236441&idx=5&sn=d836db1f90a20afd075acd43a73007a7&scene=21&poc_token=HIwCC2mjKAtmfZF0cDL0Hv8up7FsJA4OLntCDnLn",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236441&idx=4&sn=cb1e581210c2c2715e99fe091d1a5ad4&scene=21&poc_token=HIUCC2mjGt_BZIH5slgP8EW_p_w6AfsJwGXuxIk0",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236441&idx=3&sn=63734533c85c2169510f862f9116be96&scene=21&poc_token=HIICC2mjes1Xufex2lw9YWeuJAV9JagtjarVrC9F",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236441&idx=2&sn=d744dc18b958dccf700647b3faec0a08&scene=21&poc_token=HIACC2mjKeAxF7FW19je8VvzOs4BXsaeubeHM8Wn",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236441&idx=1&sn=b8eef4740edb429f7083bd0f2f90f821&scene=21&poc_token=HH0CC2mjxJINqzQy3cTqBJh1OrNbPNjddBhMP7jC",
+  "25考情分析": "https://mp.weixin.qq.com/s/IEjVG8F_RXPIOPKBxpiFUQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/SYOST-HMGwEKoJsDF1ipOw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "海南大学计算机考情（2026专硕22408）",
+   "url": "https://jixun.iqihang.com/zixun/changshi/2025701402.html"
+  },
+  {
+   "label": "海南大学2026复试细则",
+   "url": "https://sice.hainanu.edu.cn/info/1026/9883.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

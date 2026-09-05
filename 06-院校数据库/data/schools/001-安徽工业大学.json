@@ -1,0 +1,45 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "安徽工业大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "安徽工业大学",
+   "province": "安徽",
+   "college": "计算机科学与技术学院",
+   "program": "电子信息-计算机",
+   "subjects": "英二数二408",
+   "line": "294",
+   "retestCnt": "77",
+   "adjCnt": "1",
+   "avgTotal": "318",
+   "avg408": "85",
+   "avgPol": "62",
+   "avgEng": "69",
+   "avgMath": "102",
+   "admitCnt": "62",
+   "admitAvg": "322",
+   "rate": "80%",
+   "ratioNN": "1.2",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666209091&idx=6&sn=8cc210ffec6514737042de77ef3d53bc&scene=21&poc_token=HHWqCWmjPGIocInxUGh5db7aiNRd7pDkErvhdcYz",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666230710&idx=5&sn=fa84ee0bdf5e4311f8e6a0e893e1ad35&scene=21&poc_token=HHOqCWmjatc85psWbuUo0IA55tcwIG5-Hw0rCnII",
+  "25考情分析": "https://mp.weixin.qq.com/s/mg-NDBqnsnBqk0t4164mTQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/0x4cjNjXmg2p7yDQ8l5RVQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

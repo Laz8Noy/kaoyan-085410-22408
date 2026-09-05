@@ -1,0 +1,98 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "宁夏大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "宁夏",
+   "region": "西北",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "254",
+   "lineDelta": "=国家线",
+   "heatComp": "30",
+   "heatNet": "50",
+   "aiTag": "❓未注明",
+   "note": "B区254；2023/24/25均按B区国家线263/263/250，无院线；复试=计算机专业综合基础+数据库原理；计技085404自划线290，AI是洼地；拟录取12人（一志愿5+调剂7）",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "254",
+   "wdCount": "7",
+   "wdYears": "19考情,20考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/8lhBUf8JPiSTilJ1_dGtwg",
+   "kaoqingUrl": "https://graduate.nxu.edu.cn/info/1020/8544.htm",
+   "scope": "拟录取12人：一志愿5人(259/272/278/280/322)+调剂7人(370/370/373/374/376/381/391)，最高391、最低259、均337.2",
+   "college": "信息工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "信息工程学院",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": "254",
+   "plan": "8(不含推免)",
+   "retestCnt": null,
+   "admitCnt": "12",
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": "391",
+   "admitMin": "259",
+   "admitAvg": "337.2",
+   "scope": "拟录取12人：一志愿5人(259/272/278/280/322)+调剂7人(370/370/373/374/376/381/391)，最高391、最低259、均337.2",
+   "verify": "官方✅",
+   "url": "https://graduate.nxu.edu.cn/info/1020/8544.htm"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233280&idx=5&sn=0589c961e71ec094a429d7539dcd14f3&scene=21&poc_token=HCIQDGmjRL4VKbuhAY3ckTgN6dLUbWPNsgii7vbU",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233280&idx=4&sn=8d1aebbb10cd6fbecc0302840ad7d521&scene=21&poc_token=HP8PDGmjKdLZ1OSg8enKdpfP2bTXXbqDP67hefQ1",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233280&idx=3&sn=59193d1b1e999a716f7f7c1c22a9971a&scene=21&poc_token=HPwPDGmjoBP1MXKVgZLb1lzuxuCnjtC2zMLEfeRk",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233280&idx=2&sn=92e732c08221258223658d6f17afce3d&scene=21&poc_token=HOYPDGmjBeBkI9BxzTGksh2-hbKPfWXFfGk0o_Fc",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233280&idx=1&sn=01977386c53d5badcc7370c49a54d258&scene=21&poc_token=HOQPDGmj-hq1Q6kT1DmQT3fQ0vHARqNozsSEmaH_",
+  "25考情": "https://mp.weixin.qq.com/s/DllN67kPEXsWPn-1clKfrQ",
+  "26考情": "https://mp.weixin.qq.com/s/8lhBUf8JPiSTilJ1_dGtwg"
+ },
+ "updates2027": [
+  {
+   "院校": "宁夏大学",
+   "层次": "211(B区)",
+   "专业/范围": "085410人工智能",
+   "原科目": "自命题",
+   "新科目": "408",
+   "生效年份": "2026",
+   "来源": "官方+eduego",
+   "备注": "信息工程学院8人；B区线254；计技085404自划线290，AI是洼地"
+  }
+ ],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "宁夏大学085410复试信息",
+   "url": "https://www.eduego.com/school109/fsx/3592.html"
+  },
+  {
+   "label": "宁夏大学2026拟录取名单公示",
+   "url": "https://graduate.nxu.edu.cn/info/1020/8544.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

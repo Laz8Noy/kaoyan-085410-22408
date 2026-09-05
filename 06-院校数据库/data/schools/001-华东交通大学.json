@@ -1,0 +1,81 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "华东交通大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "江西",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "复杂网络与信息安全等",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "一志愿+调剂",
+   "aiTag": "❓未注明",
+   "heatNet": "46",
+   "heatComp": "25",
+   "note": "2026一志愿复试线≥264（国家线）",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/Y6kB81uw5JUJQGZEcDC1PQ",
+   "college": "理学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232934&idx=6&sn=4a4296d94ceed7e4e73c1e88ca69a6bb&scene=21&poc_token=HDdZDGmjr4DoCKi2xgXgEuTkiTXnVHzO3yZjmGYU",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232934&idx=5&sn=d3938b57cd6527627ab6b602365a82aa&scene=21&poc_token=HBZZDGmj3wIcc5B9Zkjv2MZkWecf_VJptCQExdzr",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232934&idx=4&sn=7d129385ba67c64c7f5cbc8eafedf97d&scene=21&poc_token=HBNZDGmjuYhDF8SzqsuNySJK5MFI9YfFDpGdOxE6",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232934&idx=3&sn=0308acc1c77724eb48700c45ce6992e7&scene=21&poc_token=HBFZDGmj_BfCxKkVlnm17VMOuKf5nj2z46EOSIr7",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232934&idx=2&sn=c8824700fe1002429dd4db5aa390a913&scene=21&poc_token=HPtYDGmjcg7TF1aQJY0Vlmw5fcktyzeGPgjck2y9",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232934&idx=1&sn=b2f9d55a6584eca3780e9da885674aa9&scene=21&poc_token=HPhYDGmj5I_wnDfyH5y5AjLUPS3HIwCSH6QtnHOC",
+  "25考情": "https://mp.weixin.qq.com/s/AHb4zI91rFJR6QTn-VzVeQ",
+  "26考情": "https://mp.weixin.qq.com/s/Y6kB81uw5JUJQGZEcDC1PQ"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "22408",
+  "region": "华东",
+  "tier": "双非",
+  "line": "264",
+  "fill": "一志愿+调剂",
+  "aiTag": "❓未注明",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "华东交通大学085410复试线",
+   "url": "http://lxy.ecjtu.edu.cn/info/1060/7012.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

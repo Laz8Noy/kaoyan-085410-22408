@@ -1,0 +1,49 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "长沙理工大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "长沙理工大学",
+   "province": "湖南",
+   "college": "计算机与通信工程学院",
+   "program": "电子信息-计算机",
+   "subjects": "英二数二408",
+   "line": "289",
+   "retestCnt": "167",
+   "adjCnt": "1",
+   "avgTotal": "324",
+   "avg408": "85",
+   "avgPol": "64",
+   "avgEng": "70",
+   "avgMath": "104",
+   "admitCnt": "128",
+   "admitAvg": "332",
+   "rate": "80%",
+   "ratioNN": "1.3",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235958&idx=6&sn=8a85bf0a9cf582295e9e3eca9731fb12&scene=21&poc_token=HN4YDGmjWTNtws2Z27rxnISXcwi5Ocd0Znyc2RT3",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235958&idx=5&sn=15fcc1b51a73ad26f923a5de319714ed&scene=21&poc_token=HNwYDGmjsHMjiPyubuLucjP7TuhxFc-KYMKBOrZk",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235958&idx=4&sn=497e135160e63831cdf586ae53b51928&scene=21&poc_token=HNkYDGmj1DlpjcfzRiZRddaS8Zf2Z4CCam_VJKBv",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666190815&idx=1&sn=4d139e02ceaa13fb58ba0fde59589e58&scene=21&poc_token=HNcYDGmj76RiRagGD9aQovLiC5MOycV4P8RL7hwq",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666223991&idx=1&sn=1e6ff3bc2b4f3d070e0155f3743cc869&scene=21&poc_token=HNQYDGmjWaD5Yu2i2Jl123ZMBM0vLE-2IKTrOitG",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235958&idx=1&sn=117d756ca340ab4a86fa5bf4b32cb8b0&scene=21&poc_token=HNIYDGmjuMWg2tVQTIZYE-yYPxCAIksryYAedvg6",
+  "25考情分析": "https://mp.weixin.qq.com/s/PaXR-ZeGTnpqlC-_Wzra3A",
+  "26考情分析": "https://mp.weixin.qq.com/s/PumI5z6tyIGZgvBXpjt_Hg"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

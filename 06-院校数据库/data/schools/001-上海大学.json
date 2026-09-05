@@ -1,0 +1,154 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "上海大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "上海",
+   "region": "华东",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "334",
+   "lineDelta": "+70",
+   "heatComp": "62",
+   "heatNet": "80",
+   "aiTag": "✅真AI方向",
+   "note": "两个学院合计统考约87人，22408中211名额最多；人数口径以研招网为准；计院录取7最低305 / 未来技术录取90最低334",
+   "srcLabel": "官方+kaoyana",
+   "src": [
+    "区域榜",
+    "考情明细"
+   ],
+   "kaoqingUrl": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakyfsx/67529.html",
+   "scope": "中公录取数据：拟录取90人；普通最低334（另有退役278）",
+   "college": "未来技术学院（人工智能研究院）"
+  },
+  {
+   "category": "C-对照",
+   "province": "上海",
+   "region": "华东",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "305",
+   "lineDelta": "+41",
+   "heatComp": "53",
+   "heatNet": "82",
+   "aiTag": "✅真AI方向",
+   "note": "统考9人；C++机考+笔试综合卷（数据库+离散数学）；与中船/银联/上汽共建；学制2.5年；计院录取7最低305 / 未来技术录取90最低334",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "考情明细"
+   ],
+   "kaoqingUrl": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakyfsx/67529.html",
+   "scope": "中公录取数据：拟录取7人，初试最低305",
+   "college": "计算机工程与科学学院"
+  }
+ ],
+ "crossRefs": [
+  {
+   "tier": "211",
+   "lineUltimate2026": "305",
+   "nnProg": null,
+   "nnCollege": null,
+   "nnSubjects": null,
+   "nn408avg": null,
+   "nnRate": null,
+   "cyCode": null,
+   "cyRetest": null,
+   "cyAdmit": null,
+   "cyAvg": null,
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/QDNeIVStq45bo6By69utXw",
+   "remark": null
+  },
+  {
+   "tier": "211",
+   "lineUltimate2026": "334",
+   "nnProg": null,
+   "nnCollege": null,
+   "nnSubjects": null,
+   "nn408avg": null,
+   "nnRate": null,
+   "cyCode": null,
+   "cyRetest": null,
+   "cyAdmit": null,
+   "cyAvg": null,
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/QDNeIVStq45bo6By69utXw",
+   "remark": null
+  }
+ ],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机工程与科学学院",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": "305",
+   "plan": "9",
+   "retestCnt": null,
+   "admitCnt": "7",
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": "305",
+   "admitAvg": null,
+   "scope": "中公录取数据：拟录取7人，初试最低305",
+   "verify": "机构🔍",
+   "url": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakyfsx/67529.html"
+  },
+  {
+   "college": "未来技术学院（人工智能研究院）",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": "334",
+   "plan": "78/47(口径不一)",
+   "retestCnt": null,
+   "admitCnt": "90",
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": "334",
+   "admitAvg": null,
+   "scope": "中公录取数据：拟录取90人；普通最低334（另有退役278）",
+   "verify": "机构🔍",
+   "url": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakyfsx/67529.html"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236908&idx=6&sn=f79ce31bd11170ba77a010c6b87e5310&scene=21&poc_token=HJYBC2mjihxcK1itfQT9xD6TPFfwXd6GlXRnKbDJ",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236908&idx=5&sn=d0f5a49c5ea4c19c541c491562b633c4&scene=21&poc_token=HHcBC2mjdgiN_bRaYB5pKJyXCjZdsWqjrxfmmX4Y",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236908&idx=4&sn=e02a8883218dae36992bfc85e4e6b603&scene=21&poc_token=HHQBC2mjRwxpzgZPQdSWgXeuGIPO877Q1oNlO_TI",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236908&idx=3&sn=f6ddcac6e40a69f59818a57940b24789&scene=21&poc_token=HHEBC2mjfNM3ZhgTq0EYoYOl2KDxrAqX28Uk5gdJ",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236908&idx=2&sn=5414c5b0813d50cb6ddbe5785ca1a757&scene=21&poc_token=HM0AC2mjCkayIVoybRjPoqCqi2mMHWufYv0gc0Pe",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236908&idx=1&sn=f7869442ffc40df55ea150f9c95f169d&scene=21&poc_token=HNIAC2mjpQboJPhvxaW-jfn6B1WWX4ErGire2toY",
+  "25考情": "https://mp.weixin.qq.com/s/Xusu3PIvFy0BtX3_PooPTA",
+  "26考情": "https://mp.weixin.qq.com/s/QDNeIVStq45bo6By69utXw"
+ },
+ "updates2027": [],
+ "tutors": [
+  "谢少荣/骆祥峰/李玉峰/许华虎/钱权（生成式人工智能（085410官方指导教师组））；余航（自主智能决策、机器学习、计算机视觉、自然语言处理）；崔阳光（分布式深度学习、联邦学习、边缘智能、多模态学习、大模型优化）"
+ ],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "上海大学2026录取最低分(中公)",
+   "url": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakyfsx/67529.html"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

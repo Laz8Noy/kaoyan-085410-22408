@@ -1,0 +1,95 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "河北大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "河北",
+   "region": "华北",
+   "tier": "双非",
+   "subjectClass": "11408",
+   "direction": "不区分研究方向",
+   "linesByYear": {
+    "2023": "273",
+    "2024": "273",
+    "2025": "260",
+    "2026": null
+   },
+   "plan2026": "25/50待核",
+   "fill": "接收调剂",
+   "aiTag": "❓未注明",
+   "heatNet": "52",
+   "heatComp": "41",
+   "note": "官方调剂公告含085410；调剂要求英一+数一+408",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "wdCount": "5",
+   "wdYears": "22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/bIsiqnBZtnUFds0f6cw_nQ",
+   "college": "网络空间安全与计算机学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666184827&idx=5&sn=c34d3f374e03ab439bb98034dfbb8daa&scene=21&poc_token=HJcLC2mjss97X2IHZgm35CD6GXpWkXtz3PEdSML2",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666208422&idx=7&sn=487908c82b78d0b6e064d7ef57d3229f&scene=21&poc_token=HJQLC2mjf-oKSMgUHK5BPVMzRuSAo2TJr9r8bh3k",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232296&idx=6&sn=defc266ceb6dddf0a6e1d3d8c114d4dd&scene=21&poc_token=HI8LC2mjLE3VLzamd3nk0ozxkzPXp-vNGapmL8aI",
+  "25考情分析": "https://mp.weixin.qq.com/s/3AyR-wZM4BwN95dFABFwOQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/bIsiqnBZtnUFds0f6cw_nQ"
+ },
+ "updates2027": [
+  {
+   "院校": "河北大学",
+   "层次": "双非",
+   "专业/范围": "0839网安/085412网信",
+   "原科目": "853计算机网络",
+   "新科目": "408",
+   "生效年份": "2027",
+   "来源": "官方公告2026-07",
+   "备注": "非085410"
+  }
+ ],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "11408",
+  "region": "华北",
+  "tier": "双非",
+  "line": null,
+  "fill": "接收调剂",
+  "aiTag": "❓未注明",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "河北大学085410调剂公告",
+   "url": "https://cs.hbu.cn/wzsy/yjsxx/details/3083"
+  },
+  {
+   "label": "历年线·启航院校库（河北大学/常州大学/苏大/广西大学等）",
+   "url": "https://jixun.iqihang.com/"
+  },
+  {
+   "label": "历年线·黑眼圈院校库（河北大学/苏大/华北理工）",
+   "url": "https://www.heiyanquan.fun/"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

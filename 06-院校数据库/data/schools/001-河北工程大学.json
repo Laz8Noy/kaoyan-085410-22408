@@ -1,0 +1,92 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "河北工程大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "河北",
+   "region": "华北",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": null
+   },
+   "aiTag": "✅真AI方向",
+   "heatNet": "58",
+   "heatComp": "45",
+   "note": "2027新增·2026-07官宣，初试科目全部统考",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "wdCount": "5",
+   "wdYears": "22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/AsZFPgN8AirmpAZ_VT56wA",
+   "college": "信息与电气工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187505&idx=5&sn=d9d775d48cd744616b848550f1f2fa74&scene=21&poc_token=HOD4C2mjbnL07jyQT9xmY_rq1gfeJjaJ1vUw3hA8",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666218158&idx=4&sn=eb8464ec7042b974a58e844f8474005a&scene=21&poc_token=HNz4C2mjO4wGCeEfoDgdzV3855CPM3WkW-MshM9M",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233982&idx=4&sn=57ccffd9286d38507a9b44e780493446&scene=21&poc_token=HNn4C2mjTiowjnEEtn4mk0Qq4RAHP4U50oopAd4g",
+  "25考情分析": "https://mp.weixin.qq.com/s/yKrfyebqNbF0U1apGhDMKA",
+  "26考情分析": "https://mp.weixin.qq.com/s/AsZFPgN8AirmpAZ_VT56wA"
+ },
+ "updates2027": [
+  {
+   "院校": "河北工程大学",
+   "层次": "双非",
+   "专业/范围": "085410人工智能(新增专业)",
+   "原科目": null,
+   "新科目": "408",
+   "生效年份": "2027",
+   "来源": "官方公告2026-07-07",
+   "备注": "信息与电气工程学院；22408首年招生"
+  }
+ ],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": {
+  "院校": "河北工程大学",
+  "省份": "河北",
+  "大区": "华北",
+  "层次": "双非",
+  "学院": "信息与电气工程学院",
+  "初试科目": "22408",
+  "方向": "不区分研究方向",
+  "2026线": null,
+  "拟招": null,
+  "一志愿/调剂": null,
+  "AI方向": "✅真AI方向",
+  "来源": "官方",
+  "综合热度": "45",
+  "备注": "2027新增·2026-07官宣，初试科目全部统考"
+ },
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "河北工程大学2027新增公告",
+   "url": "https://kaoyan.xdf.cn/202608/15316865.html"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "华南农业大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "广东",
+   "region": "华南",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "294",
+   "lineDelta": "+30",
+   "linesByYear": {
+    "2023": "273",
+    "2024": "273",
+    "2025": "260",
+    "2026": "294"
+   },
+   "plan2026": "80",
+   "fill": "一志愿为主",
+   "ratioRetest": "1.49",
+   "aiTag": "✅真AI方向",
+   "heatNet": "75",
+   "heatComp": "47",
+   "nn408avg": "84",
+   "nnRate": "70%",
+   "note": "拟招80，进复试119，最低录取294，均分约326",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "294",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "人工智能与低空技术学院",
+   "nnSubjects": "英二数二408",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/dOjUqCpRiu6STvjBmG7wkQ",
+   "college": "人工智能与低空技术学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236776&idx=6&sn=e5c1a7e811133b680ddda633381fa1d8&scene=21&poc_token=HGn3CmmjwcPU7e8bv2cbeOJHU22qDzH0VmNAMxUr",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236776&idx=5&sn=79a2eb8bd99a6854001e0feff797f2fc&scene=21&poc_token=HGL3Cmmj_04dPjXGrjHf8YmMoUIKA6__t15g7yw_",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236776&idx=4&sn=4c101fdd5d6c01d1a3b273a6cc83dfa3&scene=21&poc_token=HGD3CmmjjfHyaFTPpxe42-X_nY6SIlVyzg9KBMiS",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236776&idx=3&sn=72e6d0e204f85a90275d17bb755a69b1&scene=21&poc_token=HF33Cmmjntk8pw0Lu8MxwzzyqR5yPdmXQ-f5Q6RG",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236776&idx=2&sn=51f9c8e964f964a0cf9bf35bab76a29c&scene=21&poc_token=HFr3CmmjHbh-TwWXfyyLLAGpXwAwK3NOSEC-M3SM",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236776&idx=1&sn=0e67226c1c8dbca5d484a58365f73693&scene=21&poc_token=HFf3CmmjKigK7Ii63eg9e5YHopas8F91sSBBXzoy",
+  "25考情分析": "https://mp.weixin.qq.com/s/U-DMA-EkbNp10ebiwB0NqQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/dOjUqCpRiu6STvjBmG7wkQ"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": {
+  "院校": "华南农业大学",
+  "省份": "广东",
+  "大区": "华南",
+  "层次": "双非",
+  "学院": "人工智能与低空技术学院",
+  "初试科目": "22408",
+  "方向": "不区分研究方向",
+  "2026线": "294",
+  "拟招": "80",
+  "一志愿/调剂": "一志愿为主",
+  "AI方向": "✅真AI方向",
+  "来源": "官方",
+  "综合热度": "47",
+  "备注": "拟招80，进复试119，最低录取294，均分约326"
+ },
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "华南农业大学085410复试公示",
+   "url": "https://dzxy.scau.edu.cn/2026/0329/c9675a430436/page.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "黑龙江工程学院",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "黑龙江",
+   "region": "东北",
+   "tier": "双非",
+   "subjectClass": "非408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "一志愿+调剂",
+   "aiTag": "❓未注明",
+   "heatNet": "35",
+   "heatComp": "22",
+   "note": "085408/085410统一按A区国家线；初试807数字电子技术（非408）",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "1",
+   "wdYears": "26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/LjgNCXzPbdJa3YX-1PoV6g",
+   "college": "电气与信息工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "26考情分析": "https://mp.weixin.qq.com/s/LjgNCXzPbdJa3YX-1PoV6g"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "非408",
+  "region": "东北",
+  "tier": "双非",
+  "line": "264",
+  "fill": "一志愿+调剂",
+  "aiTag": "❓未注明",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "黑龙江工程学院085410复试说明",
+   "url": "https://www.hljit.edu.cn/dqxxgcxy/info/1016/6204.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

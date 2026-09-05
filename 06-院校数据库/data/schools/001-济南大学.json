@@ -1,0 +1,48 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "济南大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "济南大学",
+   "province": "山东",
+   "college": "人工智能研究院",
+   "program": "电子信息-人工智能",
+   "subjects": "推测408",
+   "line": null,
+   "retestCnt": "10",
+   "adjCnt": "0",
+   "avgTotal": "285",
+   "avg408": "81",
+   "avgPol": "52",
+   "avgEng": "66",
+   "avgMath": "87",
+   "admitCnt": "10",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233210&idx=5&sn=be1411db254b969065ec0476044614a4&scene=21&poc_token=HOUDDGmjH2iRkt8ARbw33jGCBCet_QybTzxNMp5w",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233210&idx=4&sn=c358c43906b597614d2e5b004f5ba857&scene=21&poc_token=HOIDDGmjm9JEQZXm0c4vaBhCq5B-KIF5m9Fw6gZP",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233210&idx=3&sn=0a02b2a4204877cfd3d3406aed60e0df&scene=21&poc_token=HN8DDGmjFeV5aAbFQ5ukQu6Wu_dPKpy_Ixtaw7cm",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233210&idx=2&sn=ae421ecb14c13b6764fa48377c5bbeb3&scene=21&poc_token=HMUDDGmjUvkXJBCs84nXQOQdpO4SdhPGsL8XudQs",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233210&idx=1&sn=92425e50c782c1e1015306e4fbcc7de0&scene=21&poc_token=HLkDDGmjyGjMkN-J5AyOP69QL5KdNUsqw-DXeeYF",
+  "25考情": "https://mp.weixin.qq.com/s/c-2SgsfaIvcCqqWCVkCNBQ",
+  "26考情": "https://mp.weixin.qq.com/s/4CoBUCKoj2qrK4OBCuCfXg"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

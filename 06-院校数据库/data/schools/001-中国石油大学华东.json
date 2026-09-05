@@ -1,0 +1,54 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "中国石油大学（华东）",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "山东",
+   "region": "华东",
+   "tier": "211",
+   "subjectClass": "22408",
+   "heatComp": "47",
+   "heatNet": "60",
+   "aiTag": "✅真AI方向",
+   "note": "2026起085410由859数据结构改408（官方公告2025-08）；海洋学院22-24线312/350/最低、软件学院336/320/327；⚠️控制学院085410考830信号与系统（非408）勿报",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "wdCount": "7",
+   "wdYears": "19考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/w91JoKzDORdRxYt_-8MTrA",
+   "college": "海洋与空间信息学院+青岛软件学院/计科院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666148759&idx=4&sn=d3771384d2dd3c744cd84737fd8c57bb&scene=21&poc_token=HIQNDGmjiYFxcnk4MseabO9TD3kLbTM_Kf806oQK",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236836&idx=7&sn=737c61637786d92c0a885ec98ac9d9ee&scene=21&poc_token=HIINDGmjVs4QjM4jGcwCUcRn68UJCWa55-aaipLK",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236836&idx=5&sn=1f01fa93ab22d429a0ef9c8bf4da9af5&scene=21&poc_token=HHINDGmjF-2rQ7H2WfeoNvrfG07F62FPMX2vFiaz",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236836&idx=3&sn=ebc15933c81fd6b3b12aef414ea4efb3&scene=21&poc_token=HFwNDGmj60agEyZMCFl1p4g1MskfT_skLdwXVwEM",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236836&idx=1&sn=03e925c96508291372711d34850c8c1e&scene=21&poc_token=HFkNDGmj9pd0eyJ96N6CMRt0M04s4_7YAoW6kgfW",
+  "25考情": "https://mp.weixin.qq.com/s/geovn_LB5W3nBnAo-8uEhw",
+  "26考情": "https://mp.weixin.qq.com/s/w91JoKzDORdRxYt_-8MTrA"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

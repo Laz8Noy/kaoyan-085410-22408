@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "山东建筑大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "山东建筑大学",
+   "province": "山东",
+   "college": "计算机科学与技术学院",
+   "program": "电子信息-计算机",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "18",
+   "adjCnt": "33",
+   "avgTotal": "295",
+   "avg408": "78",
+   "avgPol": "53",
+   "avgEng": "67",
+   "avgMath": "97",
+   "admitCnt": "17",
+   "admitAvg": null,
+   "rate": "90%",
+   "ratioNN": "1.1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186780&idx=7&sn=b7af5fa99333536ca8c875133c37b5e4&scene=21&poc_token=HK8JDGmjA1-MOuc4zyzcwL3YW24G8RZNRuTYEui5",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666209248&idx=3&sn=dd8776d933985a9e1a9709b02ed56a82&scene=21&poc_token=HKwJDGmjN0dyaRD0cJ1GRM8hqa55R9Y6R50-P55F",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231269&idx=4&sn=40e0dfe517f5978b07489e937dfced7c&scene=21&poc_token=HKoJDGmj0KvPX3slUBKedgXNNtfNF78rp83RYegM",
+  "25考情": "https://mp.weixin.qq.com/s/3x4LzCVYfzBgSyjqqrcVng",
+  "26考情": "https://mp.weixin.qq.com/s/oXspQ-KFpJOl880MksbljA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

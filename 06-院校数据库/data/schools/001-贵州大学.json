@@ -1,0 +1,88 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "贵州大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "贵州",
+   "region": "西南",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "303",
+   "lineDelta": "+49",
+   "heatComp": "52",
+   "heatNet": "70",
+   "aiTag": "✅真AI方向",
+   "note": "B区211；2024=330/2025=308/2026=303（启航）；拟招40，408；AI方向明确；2026改考408确认（085410=数二+408）",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "303",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/HR2Oa2HviWXnMk70v3fNhw",
+   "kaoqingUrl": "http://cs.gzu.edu.cn/_t2870/2026/0330/c16270a266766/page.htm",
+   "scope": "复试结果公示：085410一志愿60人进复试（2人缺考），初试最高395、最低303、均335.4；2026改考408(数二+408)；拟录取名单另公示",
+   "college": "计算机科学与技术学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机科学与技术学院",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": "303",
+   "plan": "40",
+   "retestCnt": "60",
+   "admitCnt": null,
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": "395",
+   "admitMin": "303",
+   "admitAvg": "335.4",
+   "scope": "复试结果公示：085410一志愿60人进复试（2人缺考），初试最高395、最低303、均335.4；2026改考408(数二+408)；拟录取名单另公示",
+   "verify": "官方✅",
+   "url": "http://cs.gzu.edu.cn/_t2870/2026/0330/c16270a266766/page.htm"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236399&idx=6&sn=8f1c4ab0a678fe596d0100fc91e7edd0&scene=21&poc_token=HA4BC2mjBlHsNy28-U2abTUtJIu6QsaPEuXFFLgr",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236399&idx=5&sn=b010c67123e6423fdbe117764915ddad&scene=21&poc_token=HAcBC2mj9lwUFF-NsrcW3AkYoQMpSZnbXf1OFa5R",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236399&idx=4&sn=70fe54751f175e6d36654a9d9f7a5b11&scene=21&poc_token=HAUBC2mjv96kAFvZ7Ud2l4Vd2FmehXVnzxDHF4rl",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236399&idx=3&sn=b74ca96750c42426e3cf2f750d1e3700&scene=21&poc_token=HAIBC2mj0lgCvuEJf-0VGP6nYC-N2vY-AFti7F1S",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236399&idx=2&sn=688412d4fcfac2a4b69f906cac725a92&scene=21&poc_token=HP8AC2mjxAHGg_JyYByY6ASQ3IAsKcSoa--W2LXN",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236399&idx=1&sn=a08eab3b19f20e6749216effcd7755db&scene=21&poc_token=HPwAC2mjAu6xmDVM3RabrNJbHFFAgtYXsCyYkBHN",
+  "25考情分析": "https://mp.weixin.qq.com/s/dk46UhvwP3iImbyNe4OCHQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/HR2Oa2HviWXnMk70v3fNhw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "贵州大学历年线（2024/25/26）",
+   "url": "https://m-jixun.iqihang.com/zixun/changshi/2025701407.html"
+  },
+  {
+   "label": "贵州大学2026复试结果公示",
+   "url": "http://cs.gzu.edu.cn/_t2870/2026/0330/c16270a266766/page.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

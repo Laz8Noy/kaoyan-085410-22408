@@ -1,0 +1,60 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "郑州大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "河南",
+   "region": "华中",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "335",
+   "lineDelta": "+71",
+   "heatComp": "60",
+   "heatNet": "80",
+   "aiTag": "✅真AI方向",
+   "note": "名额最多；复试=外语口语听力20%+数据库笔试25%+上机编程25%+面试30%；复试差额120%（复录比约1.2）",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "lineUltimate2026": "335",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/IB2CV2IJsyaQB5fPEL7h_A",
+   "college": "计算机与人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236429&idx=6&sn=e29146cf1a0b519e76a760d28647340b&scene=21&poc_token=HHX6C2mjFsSogKTA3qB0tvPy52w-imFDCYCYU_33",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236429&idx=5&sn=f6a0123e5ae4f5314312e24d056a9c65&scene=21&poc_token=HHH6C2mj6mDAZWCNtkXKmXc4OivA4hG8yFKwUrGE",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236429&idx=4&sn=eb6b9ba4ab058df6b3df6c84b540c2c2&scene=21&poc_token=HG36C2mjKFE9KVAoyqF47JcVFirz8owQRk-atKER",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236429&idx=3&sn=7aabf11fc550bebd392d11868f814cc6&scene=21&poc_token=HGr6C2mjHr9fA5YCoQgsba0vEK7ejis7Z6QqvAv1",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236429&idx=2&sn=9289e1f2eeb819b781602d92d936eea3&scene=21&poc_token=HGf6C2mjUPJg7jIDjIDqqEDEXHkRPFOK8qypnX0-",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236429&idx=1&sn=58cc67a0cd489a181301dc85f3cad8b3&scene=21&poc_token=HGT6C2mjYKmo7tNTQjfESuHOt-aq2tdKqqE9im6v",
+  "25考情分析": "https://mp.weixin.qq.com/s/9v1sICci8Hjmi2j7xTlbYA",
+  "26考情分析": "https://mp.weixin.qq.com/s/IB2CV2IJsyaQB5fPEL7h_A"
+ },
+ "updates2027": [],
+ "tutors": [
+  "高源（大模型推理加速与优化、多模态深度学习、知识图谱、边缘智能）；王晓康（人机物智能、大数据、工业智能、异构计算、AI加速架构）；周丽娟（具身智能、计算机视觉、多模态学习、机器人感知）；任楷（人工智能、模式识别、视觉语言跨模态对齐、目标跟踪与重识别） 等"
+ ],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

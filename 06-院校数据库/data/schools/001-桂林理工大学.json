@@ -1,0 +1,48 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "桂林理工大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "桂林理工大学",
+   "province": "广西",
+   "college": "计算机科学与工程学院",
+   "program": "电子信息-人工智能",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "3",
+   "adjCnt": "0",
+   "avgTotal": "268",
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "3",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666151710&idx=4&sn=7769ee80629fbe8f56e67772daa5e140&scene=21&poc_token=HOr_Cmmjm8H8lt-BGrs1Y-76Bz5sxGok5kXN7tUG",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666156451&idx=4&sn=a92b1fa016a6b773088093ff9792b19d&scene=21&poc_token=HOb_Cmmj3OvTlmd9e4WwkRyu59SKhANoA23Q0Hy8",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666184690&idx=5&sn=838c5c9dd4ba29ddd95f60b2396a94dc&scene=21&poc_token=HOP_CmmjE7Z8Y1MWpkqYU-i8U1OswlX3SlAkLwyu",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666214272&idx=7&sn=a8235e163ab0863e3bc65108f91817d2&scene=21&poc_token=HOD_Cmmjm_jcNReQ1ts7vNMkX0vto-zgQ88nLenC",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231093&idx=5&sn=8a6842302a12bf4470d8435521a9894f&scene=21&poc_token=HN3_Cmmjkj0dDDu0kiKOILeg7eFbh9l0YeXmvm5Q",
+  "25考情分析": "https://mp.weixin.qq.com/s/fcYKDsW0kiVnyApB3Jv8iA",
+  "26考情分析": "https://mp.weixin.qq.com/s/sqzjEmiDf3yprXbTKXngRQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

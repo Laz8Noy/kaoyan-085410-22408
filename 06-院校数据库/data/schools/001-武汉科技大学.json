@@ -1,0 +1,49 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "武汉科技大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "武汉科技大学",
+   "province": "湖北",
+   "college": "计算机科学与技术学院",
+   "program": "电子信息",
+   "subjects": "英二数二408",
+   "line": "312",
+   "retestCnt": "130",
+   "adjCnt": "0",
+   "avgTotal": "335",
+   "avg408": "91",
+   "avgPol": "58",
+   "avgEng": "69",
+   "avgMath": "118",
+   "admitCnt": "100",
+   "admitAvg": "339",
+   "rate": "80%",
+   "ratioNN": "1.3",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666151099&idx=4&sn=e51528502c2734b293580d97e925d154&scene=21&poc_token=HI4ODGmj6XYTE4lIiCqeK4v8Q0Li4c5qDZYKSpK1",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666155642&idx=5&sn=556a850120cb79fedb78b7abc6010224&scene=21&poc_token=HIoODGmjaFoOF_dsBzk21yw7sj_pd7b71KRTB45T",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666163478&idx=4&sn=3983c43ef3bbfb428b9c21b0bcd67095&scene=21&poc_token=HIcODGmjLC5FxQxN9NLwlW-XoJACitiij_q3VAFG",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186545&idx=1&sn=109d60d6b9e33d4775bc072d91dc55cc&scene=21&poc_token=HIUODGmj8qrl71h_M2WdwjqTaanCVrVEgQsXgyqJ",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666224010&idx=1&sn=4294b66ed2c06d3fbdbc918ea53fae02&scene=21&poc_token=HIEODGmjt2h2UcqmnjTA0i0EGZ4ulNmv3yqrsprg",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235980&idx=1&sn=b91ffac590393b81ae9ec4b9b855211e&scene=21&poc_token=HH4ODGmjHvjoRQ8-qRmhIx4hEre-x7eW1pnN_eUu",
+  "25考情分析": "https://mp.weixin.qq.com/s/DdkBdAZYnFmIKYIJuss5Vw",
+  "26考情分析": "https://mp.weixin.qq.com/s/R8qs_7y4dGYEXZyy859E9Q"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

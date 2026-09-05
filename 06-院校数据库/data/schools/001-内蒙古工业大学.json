@@ -1,0 +1,62 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "内蒙古工业大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "内蒙古",
+   "region": "华北",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "linesByYear": {
+    "2023": "270",
+    "2024": "296",
+    "2025": "296",
+    "2026": null
+   },
+   "plan2026": "24",
+   "fill": "待确认",
+   "aiTag": "❓未注明",
+   "heatNet": "40",
+   "heatComp": "39",
+   "note": "2026目录拟招24，408；复试线待核",
+   "srcLabel": "机构估算",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "wdCount": "4",
+   "wdYears": "23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/CRXpbHdUZnj0zcIOGI2T2A",
+   "college": "数据科学与应用学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666217699&idx=4&sn=d2da379307d710adc7039b75e83c8698&scene=21&poc_token=HNUTDGmj0cSzbsMJS2cVscqeqsLCWxcshFzO_pS9",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234274&idx=7&sn=63bfbe3a9e8d3f05f1166af6a914e5c1&scene=21&poc_token=HNITDGmj633maJAqCyRbOOiO406FcN1TubNti69v",
+  "25考情": "https://mp.weixin.qq.com/s/4b028TPbvJ0zL3Gb4XktgQ",
+  "26考情": "https://mp.weixin.qq.com/s/CRXpbHdUZnj0zcIOGI2T2A"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "kaoyan-school/v1",
+  "type": "object",
+  "required": ["schema", "name", "generated"],
+  "properties": {
+    "schema": { "const": "kaoyan-school/v1" },
+    "name": { "type": "string" },
+    "units": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "college": { "type": "string" },
+          "subjectClass": { "type": ["string", "null"] },
+          "line2026": { "type": ["number", "string", "null"] },
+          "plan2026": { "type": ["number", "string", "null"] },
+          "retestCnt": { "type": ["number", "string", "null"] },
+          "admitCnt": { "type": ["number", "string", "null"] }
+        }
+      }
+    },
+    "crossRefs": { "type": "array" },
+    "kaoqingDetail2026": { "type": "array" },
+    "wangdaoLinks": { "type": "object" },
+    "conflicts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["field", "claims", "status", "action"],
+        "properties": {
+          "field": { "type": "string" },
+          "unit": { "type": ["string", "null"] },
+          "claims": { "type": "array" },
+          "status": { "type": "string" },
+          "action": { "type": "string" }
+        }
+      }
+    },
+    "sources": { "type": "array" },
+    "generated": { "type": "object" }
+  }
+}

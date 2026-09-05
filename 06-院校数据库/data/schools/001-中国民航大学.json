@@ -1,0 +1,47 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "中国民航大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "中国民航大学",
+   "province": "天津",
+   "college": "电子信息与自动化学院",
+   "program": "电子信息-人工智能",
+   "subjects": "推测408",
+   "line": null,
+   "retestCnt": "19",
+   "adjCnt": "58",
+   "avgTotal": "294",
+   "avg408": "74",
+   "avgPol": "61",
+   "avgEng": "66",
+   "avgMath": "93",
+   "admitCnt": "19",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233600&idx=4&sn=308227e5337c92ee95696cd0cbee88d7&scene=21&poc_token=HDOzCmmjnKAT-hLe9N5YmaD606QXYq2-2dpYxHoh",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233600&idx=3&sn=380d2b0ec463a24e9d3faab89b1af85f&scene=21&poc_token=HFuzCmmjZ28fX9kDvIO4b0s1tjh1wTnleTZ-PXCL",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233600&idx=2&sn=1fd845bbce86fcff697ea2028e924082&scene=21&poc_token=HC6zCmmjkKYlE3w84PzyDr-Abiu0B45LBaLC1rr_",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233600&idx=1&sn=f61abd9bbbd71fba0d27b1d93fb7facb&scene=21&poc_token=HCuzCmmjOxgYi-MAe75Dncz8Zm4BN8aCp0NCOY2j",
+  "25考情": "https://mp.weixin.qq.com/s/mVBuIfQpHRJa2ag9rGtkwQ",
+  "26考情": "https://mp.weixin.qq.com/s/zZNnoclzF5c-VA99dLJjvA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

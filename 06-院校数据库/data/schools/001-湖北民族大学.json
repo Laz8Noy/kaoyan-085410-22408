@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "湖北民族大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "湖北民族大学",
+   "province": "湖北",
+   "college": "智能科学与工程学院",
+   "program": "电子信息-计算机",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "1",
+   "adjCnt": "18",
+   "avgTotal": "258",
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "1",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187286&idx=6&sn=cfd40a2a092adbefbfaeacf51130b7fa&scene=21&poc_token=HGMRDGmjGVfrguWItFRI11FLHOPhsPF-tu79FGxD",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666200748&idx=3&sn=188447c760662e6908a9682c29c5484c&scene=21&poc_token=HF8RDGmjRB-fHNSr5EQKVeRenKDgfJybV6Z2mkuZ",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232294&idx=4&sn=7e54a5e8e40f6366a3e5830dde78b44f&scene=21&poc_token=HE8RDGmjb1PHq98Ol4SlZNWDmzoFkotUVfHAL_K0",
+  "25考情分析": "https://mp.weixin.qq.com/s/UV7VBOTj9hfhimNGQ6-hKw",
+  "26考情分析": "https://mp.weixin.qq.com/s/RKddWA-BZNENXb1Z7emNtw"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

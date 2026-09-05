@@ -1,0 +1,103 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "中国民用航空飞行学院",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "四川",
+   "region": "西南",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "大量调剂",
+   "ratioRetest": "1",
+   "retestCnt": "1",
+   "admitCnt": "1",
+   "admitMax": "272",
+   "admitMin": "272",
+   "admitAvg": "272",
+   "scope": "一志愿复试仅1人（272分，过线即录）；拟录取公示见研招官网",
+   "aiTag": "❓未注明",
+   "heatNet": "40",
+   "heatComp": "18",
+   "note": "民航特色，2026一志愿不足有调剂；一志愿复试1人；2026 计划085410=7人(全日制统考)、085404计技13人、085412网安7人(官方/启航)",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "264",
+   "cyCode": "085404",
+   "cyAvg": "330",
+   "wdCount": "4",
+   "wdYears": "23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/K7nrHmvgXitiJuFDromKfA",
+   "remark": "2026 复试线264(国线)；2026 拟录取名单已公示(官方2026-05)；2027 目录未发布",
+   "kaoqingUrl": "https://grs.cafuc.edu.cn/info/1009/2922.htm",
+   "college": "计算机与人工智能学院",
+   "plan2026": "7"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机与人工智能学院",
+   "tier": "双非",
+   "subjects": "22408",
+   "line2026": "264",
+   "plan": null,
+   "retestCnt": "1",
+   "admitCnt": "1",
+   "ratioRetest": "1",
+   "ratioApply": null,
+   "admitMax": "272",
+   "admitMin": "272",
+   "admitAvg": "272",
+   "scope": "一志愿复试仅1人（272分，过线即录）；拟录取公示见研招官网",
+   "verify": "官方✅",
+   "url": "https://grs.cafuc.edu.cn/info/1009/2922.htm"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666214775&idx=8&sn=89b0f6e2123da54f063574143036dcae&scene=21&poc_token=HMnwCmmjtlbBi3CDE1q-hBeM9GSw7fqy7uG4gDAG",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231715&idx=7&sn=8195d31de651e88af25c7b00ea473120&scene=21&poc_token=HMbwCmmjuKedOofFkVWsYmHpMtsqoW9gsOvaENEL",
+  "25考情": "https://mp.weixin.qq.com/s/fWK-ul3Bfm9luH5comP_rw",
+  "26考情": "https://mp.weixin.qq.com/s/K7nrHmvgXitiJuFDromKfA"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "22408",
+  "region": "西南",
+  "tier": "双非",
+  "line": "264",
+  "fill": "大量调剂",
+  "aiTag": "❓未注明",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

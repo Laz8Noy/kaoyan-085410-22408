@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "长春师范大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "长春师范大学",
+   "province": "吉林",
+   "college": "计算机科学与技术学院",
+   "program": "软件工程",
+   "subjects": "推测408",
+   "line": null,
+   "retestCnt": "30",
+   "adjCnt": "5",
+   "avgTotal": "334",
+   "avg408": "128",
+   "avgPol": "62",
+   "avgEng": "60",
+   "avgMath": "85",
+   "admitCnt": "30",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185314&idx=6&sn=eb40f4ffd859e72b152f98c94bb62b52&scene=21&poc_token=HP5tDGmjiunflK9bd3-lAREvc3OPu9BzMuBSUzKy",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666213145&idx=7&sn=2178058f31504ed5b059cdf7b6fa19a0&scene=21&poc_token=HPxtDGmjIopOK_c7KJnFzT0tFdfRVNanAKf9r7aq",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231976&idx=5&sn=0b3716a6b53aa0af76b48b077e9ea3d0&scene=21&poc_token=HPBtDGmjsmmbmNE08NLKTGyXEJOODIXhY2-Gy7Wi",
+  "25考情": "https://mp.weixin.qq.com/s/Lftd62n33GaXCet-EnhTWg",
+  "26考情": "https://mp.weixin.qq.com/s/HJqUGVcVs0xQUAvP8TZPzA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "辽宁大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "辽宁",
+   "region": "东北",
+   "tier": "211",
+   "subjectClass": "待确认",
+   "line2026": "311",
+   "lineDelta": "+47",
+   "heatComp": "46",
+   "heatNet": "64",
+   "aiTag": "✅真AI方向",
+   "note": "官方复试线311，复试差额120%（复录比约1.2）",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "lineUltimate2026": "311",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/qAny4OWe6uikk1yIZR7CBw",
+   "college": "信息学部"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236347&idx=6&sn=456a0f0e68cf5069a3fdb3d3c055ad26&scene=21&poc_token=HH8XDGmj2Qcc-LzeN0XxPjHDt6rHGLgfSs1st1t8",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236347&idx=5&sn=f160c671cf5ae033683a48c75bac55c1&scene=21&poc_token=HHwXDGmjsYMsjshvmzvrbeB1IfmPEzaALJW_4PFH",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236347&idx=4&sn=4bb787f8b26988aa3d2a067666b337e2&scene=21&poc_token=HGkXDGmjNFTU9LPpBzWWxeo4z6NDKCAT3mO-baOk",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236347&idx=3&sn=ac4834949c37d4c6d7d1f6699ff469ed&scene=21&poc_token=HGYXDGmjTTUvKWriO11hnEUPWkYhUy2HOkBDnWgE",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236347&idx=2&sn=e31bb454c6afa9fabd210f4c4727d65b&scene=21&poc_token=HFIXDGmjSxppBChAdp-ZGzmf83zKUpFPFaIkjurk",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236347&idx=1&sn=2696fa5765025e04499712cf40710f25&scene=21&poc_token=HE0XDGmjS0dyLR0Ua49vVViSM7OdCqAgXQxsErFd",
+  "25考情": "https://mp.weixin.qq.com/s/L8qvclPuyfZeJajXw79LwQ",
+  "26考情": "https://mp.weixin.qq.com/s/qAny4OWe6uikk1yIZR7CBw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "辽宁大学085410复试细则",
+   "url": "https://sist.lnu.edu.cn/info/12675/2144.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

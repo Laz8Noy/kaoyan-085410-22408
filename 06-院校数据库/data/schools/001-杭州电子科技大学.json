@@ -1,0 +1,82 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "杭州电子科技大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "浙江",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "非408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "82",
+   "heatComp": "40",
+   "nn408avg": "102",
+   "nnRate": "70%",
+   "note": "085410官方线为国家线264；初试861自动控制原理（非408非22408）；杭电计算机整体热度高",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "nnProg": "电子信息-计算机",
+   "nnCollege": "计算机学院",
+   "nnSubjects": "英一数一408",
+   "wdCount": "7",
+   "wdYears": "19考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/uOXX3cQ4-azHPx4x9DWHIw",
+   "remark": "已复核：自动化学院(人工智能学院)085410=英一数一+861自动控制原理(非408)；N诺11408对应计算机学院085404等，勿套用",
+   "college": "人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232860&idx=6&sn=a2532794c24a157dbd27fa1f43cf6f9e&scene=21&poc_token=HJajCmmjLzNidjE0gdKSVxgPJWcqNz39amitB0D9",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232860&idx=5&sn=4a78b6a202b679961dcbed0ff9b93cb9&scene=21&poc_token=HISjCmmjGGyJsgcpwEiufkO6sSkwRQPPqHj29QJ9",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232860&idx=4&sn=81ccc1f8eff9fc76a0407c408d39827b&scene=21&poc_token=HHWjCmmjl8Esy0_2r2WlqKSvV_4GwEX-CfjRvEzX",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232860&idx=3&sn=0ef86f3be29b03874e8bf68ec0d32e17&scene=21&poc_token=HGijCmmjvqWnIXocdxk5Qae_WhcsAwhriwH4Hxq8",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232860&idx=1&sn=160c7d7bb9cb1971805226f6eadd784c&scene=21&poc_token=HFqjCmmj1bB_Zfwi1T4pV3e13ma8YsanreIOtmhl",
+  "25考情": "https://mp.weixin.qq.com/s/gfK7La0owblOCqdIwDeUKg",
+  "26考情": "https://mp.weixin.qq.com/s/uOXX3cQ4-azHPx4x9DWHIw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "杭州电子科技大学2026复试线",
+   "url": "http://grs.hdu.edu.cn/2026/0324/c13270a290580/page.htm"
+  },
+  {
+   "label": "杭州电子科技大学085410招生计划",
+   "url": "https://www.kaoyana.com/s1118/085410/32565/"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

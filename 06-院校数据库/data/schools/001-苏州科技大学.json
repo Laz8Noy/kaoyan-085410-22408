@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "苏州科技大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "苏州科技大学",
+   "province": "江苏",
+   "college": "电子与信息工程学院",
+   "program": "智能科学与技术",
+   "subjects": "推测408",
+   "line": null,
+   "retestCnt": "1",
+   "adjCnt": "22",
+   "avgTotal": "328",
+   "avg408": "132",
+   "avgPol": "48",
+   "avgEng": "52",
+   "avgMath": "96",
+   "admitCnt": "1",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容"
+  }
+ ],
+ "wangdaoLinks": {
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232726&idx=4&sn=5b26d6cd07c42e76307c2907256cfff6&scene=21&poc_token=HBlqDGmjdeQOviAgCiK6XSjQoEhuZoy_xWcTOVkh",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232726&idx=2&sn=23ac57f3afaa3effe1953b7d31a25931&scene=21&poc_token=HBdqDGmjMqmnGcMZsAlqwn6k6Y6yD4MQRKXEgCuY",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232726&idx=1&sn=8803494f66403e7e8c3af09ac42251ad&scene=21&poc_token=HBRqDGmjfTEqOB5dKAQPcbe3ieJaAVFejInK6HzD",
+  "25考情": "https://mp.weixin.qq.com/s/uw0Fwojacjj6OoSslx9hWg",
+  "26考情": "https://mp.weixin.qq.com/s/CJNYQ-rkfYN89-vked8OAQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

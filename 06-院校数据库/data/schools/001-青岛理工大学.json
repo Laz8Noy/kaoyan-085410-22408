@@ -1,0 +1,47 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "青岛理工大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "青岛理工大学",
+   "province": "山东",
+   "college": "信息与控制工程学院",
+   "program": "电子信息-计算机",
+   "subjects": "推测408",
+   "line": "264",
+   "retestCnt": "18",
+   "adjCnt": "34",
+   "avgTotal": "302",
+   "avg408": "85",
+   "avgPol": "51",
+   "avgEng": "65",
+   "avgMath": "101",
+   "admitCnt": "18",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235739&idx=4&sn=3e231fab4600c35e5d9f9fd7f3eff26e&scene=21&poc_token=HI4GDGmjvhnC0qmh99a_On7YUAMDYu0S6ebtZ7_Z",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235739&idx=3&sn=d3f1fad20cb077f8aeffd1a878243b13&scene=21&poc_token=HLIGDGmj5IAfujFSqIyz884UsEsn3BpRcGnTv4-8",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235739&idx=2&sn=429ab4194857d1d8744a89bf9121a4a1&scene=21&poc_token=HIoGDGmjIIxfAfMrQyzBkeNqClJctGVl8CoGfm4H",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235739&idx=1&sn=badcd48c35b8d7eb043e2f1e9ed20b93&scene=21&poc_token=HHkGDGmjx-W6UGWLJij4_4gymP0NWJOOgJ2MI3M5",
+  "25考情": "https://mp.weixin.qq.com/s/lbFo8f_tHBmJUd-q8Z7szg",
+  "26考情": "https://mp.weixin.qq.com/s/QttJXmNtJcTu_aDSUWYsBA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

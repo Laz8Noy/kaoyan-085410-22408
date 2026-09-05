@@ -1,0 +1,67 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "安徽工程大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "安徽",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "待确认",
+   "direction": "不区分研究方向",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": "260",
+    "2026": null
+   },
+   "fill": "待确认",
+   "aiTag": "❓未注明",
+   "heatNet": "42",
+   "heatComp": "40",
+   "note": "2026新增085410；复试线待核",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "wdCount": "5",
+   "wdYears": "22考情分析,23考情分析,24考情分析,25考情分析,26考研分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/BI1L4FTnC3sYU2-v4YGtXg",
+   "college": "计算机与信息学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666208891&idx=2&sn=92b3fbde6aaf425e206c5a1af9a2e5d1&scene=21&poc_token=HPeoCWmj7x61gWMbLLGgKC3DIlqd6VcZ-DpM4t7f",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232507&idx=2&sn=b025f3f93310ce13f53fecc2a07cb05e&scene=21&poc_token=HPSoCWmjb_M_h37X6L6xCTYrGtHBe0k8VBcxVwq7",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232507&idx=1&sn=2e077342cee828d515265684dc45877f&scene=21&poc_token=HPKoCWmjUAI2c3EnFmQzkWUSpEjv1kbHEBCnf8GX",
+  "25考情分析": "https://mp.weixin.qq.com/s/WpGjLCLb3DMEJ1B3t2gdkw",
+  "26考研分析": "https://mp.weixin.qq.com/s/BI1L4FTnC3sYU2-v4YGtXg"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "安徽工程大学2026招生简章",
+   "url": "https://grs.ahpu.edu.cn/_t44/2025/0930/c905a256235/page.psp"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

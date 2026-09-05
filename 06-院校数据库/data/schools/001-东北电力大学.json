@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "东北电力大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "东北电力大学",
+   "province": "吉林",
+   "college": "计算机学院",
+   "program": "电子信息-计算机",
+   "subjects": "推测408",
+   "line": null,
+   "retestCnt": "14",
+   "adjCnt": "59",
+   "avgTotal": "318",
+   "avg408": "93",
+   "avgPol": "64",
+   "avgEng": "63",
+   "avgMath": "98",
+   "admitCnt": "14",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666177420&idx=3&sn=193cb21f2def7825e26687b8c917134e&scene=21&poc_token=HDxtDGmjgqk9zmbB0SAx9Y2-XFDZsA8gKTaSqJxB",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666212732&idx=7&sn=b8badc889c9268b857272631e55ac5fe&scene=21&poc_token=HDptDGmjnroBi65Q4xhPX3Ekp6JjlNjmc04WIwXm",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234419&idx=6&sn=e0fd3a6196afa4df485ec4e7e4e35953&scene=21&poc_token=HDdtDGmj93fBnUeLyvufROoADAAqXD32goLp-CPO",
+  "25考情": "https://mp.weixin.qq.com/s/ztEsyLF2518xTke_OBzvQA",
+  "26考情": "https://mp.weixin.qq.com/s/ugabBumQO4rwowaK8FHD5A"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

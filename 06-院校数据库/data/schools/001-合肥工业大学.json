@@ -1,0 +1,60 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "合肥工业大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "安徽",
+   "region": "华中",
+   "tier": "211",
+   "subjectClass": "待确认",
+   "heatComp": "46",
+   "heatNet": "68",
+   "aiTag": "✅真AI方向",
+   "note": "官方调剂通知：085410初试须含408",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/DgetQSNfo8LhOUzjEeRAzQ",
+   "college": "人工智能创新学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236796&idx=6&sn=0c878c2594526e2ced842b8080d50767&scene=21&poc_token=HJynCWmj61IwfweIw353v4C7sqgsa_qvnB43lUYF",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236796&idx=5&sn=7ed93cd1e92f3d6db25c6f95a6b82a83&scene=21&poc_token=HJqnCWmjaoHXoDMDJIOKF0WmImWG0BeCqNs583cg",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236796&idx=4&sn=0e5ad34c0319f7d4d19bfa8ea3c10ae9&scene=21&poc_token=HJinCWmju0WRKwd4S1XcbtvHUi0r8LfHUFc6traQ",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236796&idx=3&sn=2d820d164ebe1e776f81d90cd709416e&scene=21&poc_token=HJWnCWmjXPQeuJLQy6WjegzdWOlc_0VP1zUIZ5tp",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236796&idx=2&sn=08a718f093f3156e339646a40bd240cf&scene=21&poc_token=HJOnCWmjeg6WZj-qrlR9tga8kDD5h3AhjvpJcBzr",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236796&idx=1&sn=32257b49baf52004b0e8a9e92c6ef99e&scene=21&poc_token=HJCnCWmj82Szi5OHBzuY3v7BkWEMS8Z_kXlMoU-9",
+  "25考情分析": "https://mp.weixin.qq.com/s/hgiMKivfptGbgwSY3P7DoA",
+  "26考情分析": "https://mp.weixin.qq.com/s/DgetQSNfo8LhOUzjEeRAzQ"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "合肥工业大学085410调剂通知",
+   "url": "https://iai.hfut.edu.cn/info/1029/1141.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

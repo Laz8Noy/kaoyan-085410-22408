@@ -1,0 +1,164 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "广州大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "广东",
+   "region": "华南",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "310",
+   "lineDelta": "+46",
+   "linesByYear": {
+    "2023": null,
+    "2024": "280",
+    "2025": "296",
+    "2026": "310"
+   },
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "66",
+   "heatComp": "50",
+   "nn408avg": "87",
+   "nnRate": "80%",
+   "note": "人工智能学院复试线310",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比"
+   ],
+   "college": "人工智能学院"
+  },
+  {
+   "category": "S-主体",
+   "province": "广东",
+   "region": "华南",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "300",
+   "lineDelta": "+36",
+   "linesByYear": {
+    "2023": null,
+    "2024": "280",
+    "2025": "296",
+    "2026": "300"
+   },
+   "plan2026": "62",
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "68",
+   "heatComp": "48",
+   "nn408avg": "87",
+   "nnRate": "80%",
+   "note": "网安学院085410拟录取62（含2推免）",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比"
+   ],
+   "college": "网络空间安全学院"
+  }
+ ],
+ "crossRefs": [
+  {
+   "tier": "双非",
+   "lineUltimate2026": "300",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "网络空间先进技术研究院",
+   "nnSubjects": "英二数二408",
+   "nn408avg": "87",
+   "nnRate": "80%",
+   "cyCode": null,
+   "cyRetest": null,
+   "cyAdmit": null,
+   "cyAvg": null,
+   "wdCount": "7",
+   "wdYears": "19考情分析,20考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/_EH_OkrCX8VrX02aCirFhg",
+   "remark": null
+  },
+  {
+   "tier": "双非",
+   "lineUltimate2026": "310",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "网络空间先进技术研究院",
+   "nnSubjects": "英二数二408",
+   "nn408avg": "87",
+   "nnRate": "80%",
+   "cyCode": null,
+   "cyRetest": null,
+   "cyAdmit": null,
+   "cyAvg": null,
+   "wdCount": "7",
+   "wdYears": "19考情分析,20考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/_EH_OkrCX8VrX02aCirFhg",
+   "remark": "N诺线差-10"
+  }
+ ],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235968&idx=5&sn=7cc060a7a9e9eb8a96570222f0e9db5b&scene=21&poc_token=HAz4CmmjTCDUw_atqCzjZwnDIv9EtuKyoGteORMM",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235968&idx=4&sn=25eeeaf47b0552a6805dcd24d89fcc0e&scene=21&poc_token=HAn4CmmjQi4iwhTn-yg-SWFU6a-hpm4P-DNUNaHZ",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235968&idx=3&sn=cbdc2bfdd0342113323e629f660e1e55&scene=21&poc_token=HAX4Cmmjveg1wsJ6wHmYDmeYUYutFnLTS5geGMR1",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235968&idx=2&sn=97f1c9ac114d9b37b5aa7f83d99ff209&scene=21&poc_token=HAL4CmmjXM_dbj9bqbYvn0x9lIevwjhCm6g3EdVx",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235968&idx=1&sn=f2440650b61cc10211dc0996bb799bc4&scene=21&poc_token=HP_3CmmjXk0NTSvQ7xw9qYl56-IpCZGm2EW7Zh5v",
+  "25考情分析": "https://mp.weixin.qq.com/s/zT4jzSYq8_0WWIiVN2AYTw",
+  "26考情分析": "https://mp.weixin.qq.com/s/_EH_OkrCX8VrX02aCirFhg"
+ },
+ "updates2027": [],
+ "tutors": [
+  "李进（人工智能与隐私计算、大模型应用）；董长宇（大数据安全隐私计算、安全多方计算、差分隐私、AI安全）；王宇（人工智能应用与大数据分析）；王唯佳（计算机视觉、三维点云处理、图像处理、深度学习）"
+ ],
+ "inTJList": null,
+ "inKeyList": {
+  "院校": "广州大学",
+  "省份": "广东",
+  "大区": "华南",
+  "层次": "双非",
+  "学院": "人工智能学院",
+  "初试科目": "22408",
+  "方向": "不区分研究方向",
+  "2026线": "310",
+  "拟招": null,
+  "一志愿/调剂": "一志愿为主",
+  "AI方向": "✅真AI方向",
+  "来源": "官方",
+  "综合热度": "50",
+  "备注": "网安学院085410拟录取62（含2推免）；人工智能学院复试线310"
+ },
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "广州大学网络空间安全学院复试细则",
+   "url": "https://wyy.gzhu.edu.cn/info/1108/4363.htm"
+  },
+  {
+   "label": "广州大学2026复试线通知",
+   "url": "http://yjsy.gzhu.edu.cn/info/1006/113911.htm"
+  },
+  {
+   "label": "广州大学人工智能学院2026招生目录",
+   "url": "https://ai.gzhu.edu.cn/info/1200/1852.htm"
+  },
+  {
+   "label": "天津理工/成都理工/广州大学/华南农大历年线",
+   "url": "https://m.dxsbb.com/news/45394.html"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

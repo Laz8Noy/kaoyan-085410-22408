@@ -1,0 +1,45 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "上海海洋大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "上海海洋大学",
+   "province": "上海",
+   "college": "信息学院",
+   "program": "电子信息-人工智能 非全",
+   "subjects": "英二数二408",
+   "line": "264",
+   "retestCnt": null,
+   "adjCnt": "0",
+   "avgTotal": null,
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "4",
+   "admitAvg": null,
+   "rate": null,
+   "ratioNN": null,
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666211743&idx=7&sn=8a0478091505fe91ca08a28c1a96f59d&scene=21&poc_token=HMkIC2mj68Tr1KHWc5NOloiGeLexjRHjtPmDwnuG",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231976&idx=6&sn=88d16b7fefc59d8f796b435920bf1b43&scene=21&poc_token=HLkIC2mjL_B7VqKeBuI4y9r-cfcjTLAb4RxveRG9",
+  "25考情": "https://mp.weixin.qq.com/s/zGPC6H0EHQyUaSJQMJsjBw",
+  "26考情": "https://mp.weixin.qq.com/s/FncU7OLH_WuKpVw_TzZYPA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "天津职业技术师范大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "天津职业技术师范大学",
+   "province": "天津",
+   "college": "信息技术工程学院",
+   "program": "电子信息-软件工程",
+   "subjects": "英二数二408",
+   "line": "281",
+   "retestCnt": "3",
+   "adjCnt": "0",
+   "avgTotal": "321",
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "3",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666217175&idx=8&sn=5aae4cbc5957f21c995c39753d6be124&scene=21&poc_token=HI-6CmmjlaAEyEWCX4h0O4dxlpJ--KpqX-FiOsON",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235224&idx=4&sn=9f8fd4f6edcac3faa7b54005cd1977a0&scene=21&poc_token=HIy6Cmmj-kJAYnrYwRFfFZ-H_klPc-Yb-tPO26BZ",
+  "25考情": "https://mp.weixin.qq.com/s/84nyIFGAIGm1tzAwphtZYg",
+  "26考情": "https://mp.weixin.qq.com/s/0IzSfuayR39OC1arA_JxyQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

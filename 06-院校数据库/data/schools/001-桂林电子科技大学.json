@@ -1,0 +1,86 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "桂林电子科技大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "广西",
+   "region": "华南",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "254",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": "250",
+    "2026": "254"
+   },
+   "plan2026": "16+16南宁研究院",
+   "fill": "一志愿19人，缺口大",
+   "aiTag": "✅真AI方向",
+   "heatNet": "50",
+   "heatComp": "26",
+   "nn408avg": "77",
+   "nnRate": "100%",
+   "note": "B区国家线254；一志愿上线19，调剂缺口较大",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "254",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "计算机与信息安全学院",
+   "nnSubjects": "英二数二408",
+   "wdCount": "7",
+   "wdYears": "19考情分析,20考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/bAF8rpEHwuMzKoFD3AJgpA",
+   "college": "人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235946&idx=5&sn=5bf6e082a75e3054d82d894897c7b346&scene=21&poc_token=HND-CmmjBd9vUiqOYK3VzLpZZJlGMXym-BiuzpyA",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235946&idx=4&sn=1a81b82b7a291652ed4f8686688193b4&scene=21&poc_token=HM3-CmmjBFiZt0D34gLnzNJ2Ev3SBxum9m52T8NE",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235946&idx=3&sn=385a7813d7bc8b1023639754fa24d07f&scene=21&poc_token=HMv-CmmjKwhEdBZ6Wzb3f9Pz-fnbqhVQcPc-XTsO",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235946&idx=2&sn=7242f9db91b652db531598fb6c0505ab&scene=21&poc_token=HMj-CmmjCfnUdFkf10mZPNfLCqOvFZw2NKGkf75J",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235946&idx=1&sn=97eadd45548c6b200481b27df7e53f5a&scene=21&poc_token=HMT-Cmmj2sA3pdUF2SWLHxE1G7h88ibZhlZWUbI0",
+  "25考情分析": "https://mp.weixin.qq.com/s/CM9qkhVpR3XO4VP9CpVFlg",
+  "26考情分析": "https://mp.weixin.qq.com/s/bAF8rpEHwuMzKoFD3AJgpA"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": {
+  "subjects": "22408",
+  "region": "华南",
+  "tier": "双非",
+  "line": "254",
+  "fill": "一志愿19人，缺口大",
+  "aiTag": "✅真AI方向",
+  "src": "官方"
+ },
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "桂林电子科技大学085410复试公告",
+   "url": "https://www.guet.edu.cn/yjszs/2026/0322/c4230a149911/page.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

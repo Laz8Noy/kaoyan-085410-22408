@@ -1,0 +1,69 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "常州大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "江苏",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "linesByYear": {
+    "2023": "273",
+    "2024": "315",
+    "2025": "278",
+    "2026": null
+   },
+   "fill": "待确认",
+   "aiTag": "✅真AI方向",
+   "heatNet": "48",
+   "heatComp": "42",
+   "note": "2026年858→408；复试线待核",
+   "srcLabel": "官方+机构",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "wdCount": "7",
+   "wdYears": "20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/4qzx3Sb793p5gKwpWZrWQw",
+   "college": "计算机科学与人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666156852&idx=4&sn=a6de7e0174ef7fba8091f21b6ca8a7cd&scene=21&poc_token=HBhgDGmjXL8BJ4ze3PeJU4naxUwSFBkC1BRFR6W9",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666165016&idx=5&sn=bc9c33534d658a6ffff8eaa1531dfd2a&scene=21&poc_token=HBZgDGmjoVkuujksKd2YRN19Xk6Sb6zJbQ4UrFNV",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186327&idx=1&sn=71874f91140318f7aa10757e6c0dd9a2&scene=21&poc_token=HBRgDGmjRDBMDgr3PiG6P-dp3xDBpJP7697-5Hl0",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666212463&idx=7&sn=c7b5dd7cb4556bd30195efeedf3c7ebc&scene=21&poc_token=HBFgDGmjWlSiQsGtmV_lospLmhca0-mN_jCYiZUX",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666230973&idx=7&sn=ebb031737bf85a8293a19281b8bec654&scene=21&poc_token=HA5gDGmj3wZ4EK5CVa-5BM0woOilhSIY4fmYWEJC",
+  "25考情": "https://mp.weixin.qq.com/s/6Imu372SRdMXT-MGzyJDzg",
+  "26考情": "https://mp.weixin.qq.com/s/4qzx3Sb793p5gKwpWZrWQw"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "历年线·启航院校库（河北大学/常州大学/苏大/广西大学等）",
+   "url": "https://jixun.iqihang.com/"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

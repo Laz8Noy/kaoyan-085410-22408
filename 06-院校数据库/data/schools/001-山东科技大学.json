@@ -1,0 +1,74 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "山东科技大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "山东",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "非408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "一志愿为主",
+   "aiTag": "❓未注明",
+   "heatNet": "55",
+   "heatComp": "32",
+   "nn408avg": "90",
+   "nnRate": "80%",
+   "note": "085410考英二数二+813电路（非408）；复试线264（国线）；另有计科/计技/软工自划线297-312",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "nnProg": "电子信息-计算机",
+   "nnCollege": "计算机科学与工程学院",
+   "nnSubjects": "英二数二+813电路",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/vR72cE0c94QLzeAdULR7jQ",
+   "remark": "已复核：官方2026目录 085410=英二数二+813电路（电气与自动化工程学院，6人+科教专项5人）；复试线264（不在自划线名单，执行A类国线）",
+   "college": "电气与自动化工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235861&idx=6&sn=61e95a7e53527947b9992f84b9ef839b&scene=21&poc_token=HBkKDGmjl3ITZ6-FSprvxsgLWZqMOICNFZEs6p42",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235861&idx=5&sn=91e54bf3876a629d24f50f0d889882bf&scene=21&poc_token=HBYKDGmjDGe_Lq3f22ulGZEfAn6V9P7Nzfn3A4nz",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235861&idx=4&sn=a8b10344f819e553127632941adc0b91&scene=21&poc_token=HAAKDGmjcNH2ostQ5Cq03ohowm-IDUSIDy0XjW_F",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235861&idx=3&sn=96e407aaf1a386442a82e3af5856aaa2&scene=21&poc_token=HP0JDGmj3RAS5yxwl91VE6yjrbGlymVxvV6Rs_kQ",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235861&idx=2&sn=7d6264e34f0aa54805c385b8740c3c5b&scene=21&poc_token=HOcJDGmjvvYHdG_7rmxxn-W3z6_zFA7Y2Lhst1ah",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235861&idx=1&sn=828d05d5546e67ce8a1d3f534edd71bf&scene=21&poc_token=HOUJDGmj57uOBV5J6dG-B-mgylXe8MZMr2mtKdSP",
+  "25考情": "https://mp.weixin.qq.com/s/eF6hLAU-Z86qYo61w8BymQ",
+  "26考情": "https://mp.weixin.qq.com/s/vR72cE0c94QLzeAdULR7jQ"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

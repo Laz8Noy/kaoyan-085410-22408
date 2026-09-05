@@ -1,0 +1,47 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "石家庄铁道大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "石家庄铁道大学",
+   "province": "河北",
+   "college": "信息科学与技术学院",
+   "program": "电子信息-计算机",
+   "subjects": "推测408",
+   "line": "281",
+   "retestCnt": "90",
+   "adjCnt": "0",
+   "avgTotal": "309",
+   "avg408": "81",
+   "avgPol": "57",
+   "avgEng": "69",
+   "avgMath": "101",
+   "admitCnt": "59",
+   "admitAvg": "319",
+   "rate": "70%",
+   "ratioNN": "1.5",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666152592&idx=3&sn=a6362eec789050563a7b0930769f527f&scene=21&poc_token=HFr5C2mjEXyleqZuKwa-iaXcjbyn2H0AIsNOe9DI",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187384&idx=4&sn=252247350d671c48606f6677b5e8ccab&scene=21&poc_token=HFf5C2mj91YFLKvP6x9bxg5sWAHUzLbtTl1qCwor",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666215085&idx=7&sn=7937ed584aacfcec78e9fe617a7d2698&scene=21&poc_token=HFX5C2mjN9PLlIZU1zQUi8yexTgkw6SoeNGZ2HsW",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231354&idx=4&sn=d2c4f94ef0681cdcbffd171a0bf58bb1&scene=21&poc_token=HFL5C2mjosgnVQtwtLKOwiIPd-Mi-hq9HAdfg_bL",
+  "25考情分析": "https://mp.weixin.qq.com/s/YcpQ2Xl8q_r3iTCx--xkyg",
+  "26考情分析": "https://mp.weixin.qq.com/s/-i3wNqCjzHSaLS-Tc2T-KA"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

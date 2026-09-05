@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "江西财经大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "江西财经大学",
+   "province": "江西",
+   "college": "计算机与人工智能学院+信息管理学院",
+   "program": "电子信息-计算机",
+   "subjects": "推测408",
+   "line": null,
+   "retestCnt": "205",
+   "adjCnt": "0",
+   "avgTotal": "307",
+   "avg408": "82",
+   "avgPol": "58",
+   "avgEng": "66",
+   "avgMath": "100",
+   "admitCnt": "168",
+   "admitAvg": null,
+   "rate": "80%",
+   "ratioNN": "1.2",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235787&idx=3&sn=1b9ed8434d6a06a39fde4d3abb3a8914&scene=21&poc_token=HJlZDGmj0_GMPJPr4FCm-0wnJR9ZZqv5MixcaPnM",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235787&idx=2&sn=81b396628d34886f622453d275b13e2f&scene=21&poc_token=HLRZDGmjD2FOblPkgbrdhi599TANTI9WaFxHp5Wj",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234109&idx=4&sn=a09d27d1738e633cc5b495dd27d29824&scene=21&poc_token=HJRZDGmjKzYuXPQHQaQbB6jQlwoJcePcfWH0DLF7",
+  "25考情": "https://mp.weixin.qq.com/s/QmZW2bOkUyi-1mFrTw3kTA",
+  "26考情": "https://mp.weixin.qq.com/s/zBAPEoVhGdVhG2WiBa7vuw"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

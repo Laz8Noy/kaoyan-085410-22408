@@ -1,0 +1,97 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "北京信息科技大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "北京",
+   "region": "华北",
+   "tier": "双非",
+   "subjectClass": "混合",
+   "direction": "自主智能控制",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "plan2026": "19",
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "62",
+   "heatComp": "34",
+   "nn408avg": "89",
+   "nnRate": "100%",
+   "note": "执行A区国家线；方向偏自主智能控制",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "计算机学院",
+   "nnSubjects": "英二数二408",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/w6vd5aAvqpv5N_kmHam-Og",
+   "remark": "N诺线差16",
+   "college": "自动化学院（人工智能学院）"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233018&idx=6&sn=a1740d901f99f16b2d2f30fa5d58e790&scene=21&poc_token=HOGnCmmjm8S7oSQvwKWDy_eXuRFSwJxQREhq5g-Z",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233018&idx=5&sn=09ad0d08233ca8e9f2d653362b97cf2a&scene=21&poc_token=HN-nCmmj30Z7cMdQ-uLwLh1JENQTK3ujcuB9TlVo",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233018&idx=4&sn=f1f57df463d4f29bb1a794a40278494d&scene=21&poc_token=HNynCmmj5Z1L2yP6SEmH_hVEIdXDgi3KecSnV0vN",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233018&idx=3&sn=d54fc9c8474ddf9b9616f65866110851&scene=21&poc_token=HNqnCmmjdbxEFjE93ehT-nDS9dxxQ1o4sCwcKYfS",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233018&idx=2&sn=f4e6f97ab223ee843ffc16858afdd15e&scene=21&poc_token=HNenCmmjGJGJ3bZumlCg5AOtNMfSbzNE0xnfttyC",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233018&idx=1&sn=1bab216d9f3432b2878609e0944e8518&scene=21&poc_token=HNWnCmmjhIUWHG3Pymu8JvbdmwrE2sAIH628Kfwk",
+  "25考情分析": "https://mp.weixin.qq.com/s/bKVJt8tHHr24DJMaJwL9Wg",
+  "26考情分析": "https://mp.weixin.qq.com/s/w6vd5aAvqpv5N_kmHam-Og"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [
+  {
+   "field": "2026 线口径（学院/方向不同）",
+   "unit": "计算机学院(人工智能-智能计算) vs N诺(电子信息-人工智能)",
+   "claims": [
+    {
+     "src": "官方(2026复试细则)",
+     "value": "计算机学院 人工智能-智能计算=2026 A类国家线264"
+    },
+    {
+     "src": "N诺2026表",
+     "value": "电子信息-人工智能 280"
+    }
+   ],
+   "status": "待核-学院/方向口径不同",
+   "action": "以官方计算机学院复试细则为准(264)；N诺280疑指其他招生单位，报考前核对具体方向"
+  }
+ ],
+ "sources": [
+  {
+   "label": "北京信息科技大学2026复试线",
+   "url": "https://m.shunyoutech.com/school387/fsx/3905.html"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

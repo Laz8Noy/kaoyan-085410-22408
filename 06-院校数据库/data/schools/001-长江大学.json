@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "长江大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "长江大学",
+   "province": "湖北",
+   "college": "计算机科学学院",
+   "program": "电子信息-计算机",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "22",
+   "adjCnt": "0",
+   "avgTotal": "299",
+   "avg408": "78",
+   "avgPol": "56",
+   "avgEng": "66",
+   "avgMath": "99",
+   "admitCnt": "21",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666187384&idx=7&sn=7e9ac744cfd6a64b5c2dd72fbfbaaac7&scene=21&poc_token=HDwSDGmjDtsHr3xs449qy8PhvhWH5xQ9rrOKGAo8",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666213146&idx=8&sn=98b8b93a4d8aa6551270bcf996232c9e&scene=21&poc_token=HDkSDGmjkNPNQdVTatT3SK739rxAw-VeYcbWB95b",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666230247&idx=4&sn=c51b63f9ec562e1e7588edc677bfd68c&scene=21&poc_token=HDcSDGmjicjF8BpifylDZIjKrE7FhOzGpkcmv0i3",
+  "25考情分析": "https://mp.weixin.qq.com/s/IlZ2Kkid14PUqhe5tLNoGg",
+  "26考情分析": "https://mp.weixin.qq.com/s/EiKLdBt0WVNvcDF65xgajg"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

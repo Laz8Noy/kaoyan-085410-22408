@@ -1,0 +1,79 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "陕西师范大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "陕西",
+   "region": "西北",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "heatComp": "34",
+   "heatNet": "62",
+   "aiTag": "✅真AI方向",
+   "note": "官方复试线264，拟招6；拟录取9人（含退役1）",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/_Rz1sAEc73kyTe1h94VLNQ",
+   "kaoqingUrl": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakyfsx/67721.html",
+   "scope": "中公录取数据：拟录取9人（含退役1人318）；普通全日制8人初试361/325/361/361/314/310/289/276，最高361、最低276、均324.6",
+   "college": "人工智能与计算机学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "人工智能与计算机学院",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": "264",
+   "plan": "6",
+   "retestCnt": null,
+   "admitCnt": "9",
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": "361",
+   "admitMin": "276",
+   "admitAvg": "324.6",
+   "scope": "中公录取数据：拟录取9人（含退役1人318）；普通全日制8人初试361/325/361/361/314/310/289/276，最高361、最低276、均324.6",
+   "verify": "机构🔍",
+   "url": "http://sa.kaoyan365.cn/yanzhaoxinxi/sakyfsx/67721.html"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233224&idx=6&sn=133428054d6b3fb138e8dda13260e72c&scene=21&poc_token=HGweC2mjQ1ZWcy3NrVFFiAztZwYJML8I0qUBwDfL",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233224&idx=5&sn=15a43567b404577b9ec7062e3b04e733&scene=21&poc_token=HGkeC2mj1AaNWlEKvthQnNSATOQrc8bXk6hkgFjk",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233224&idx=4&sn=c566f46e5f0a956b493b27c3515e4bd5&scene=21&poc_token=HEkeC2mj2co-CTY88poa2PbJwoJvSCTHlnRHblHO",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233224&idx=3&sn=a0e152ae914a8a8a2e2e9e8077718608&scene=21&poc_token=HEYeC2mjQpRwrRnoRFOUi4RyVx-wNd7vjnX7Gupq",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233224&idx=2&sn=b6cefef1c3a4c8b7a8d0f41ef70851c0&scene=21&poc_token=HEMeC2mjlE4-vS0ffGgL2ZMJevBPvsD66dcFc_SZ",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233224&idx=1&sn=d72e7c18694d23144487c96995c5db54&scene=21&poc_token=HDIeC2mjcDNrSLXEAA3mhaxElEPA3nmYPv603dJk",
+  "25考情": "https://mp.weixin.qq.com/s/3F8xWbPg2-RlSI_n_DDkww",
+  "26考情": "https://mp.weixin.qq.com/s/_Rz1sAEc73kyTe1h94VLNQ"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

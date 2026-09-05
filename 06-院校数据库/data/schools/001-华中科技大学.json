@@ -1,0 +1,55 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "华中科技大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "湖北",
+   "region": "华中",
+   "tier": "985",
+   "subjectClass": "待确认",
+   "heatComp": "55",
+   "heatNet": "92",
+   "aiTag": "✅真AI方向",
+   "note": "085410线待官方核实，作985对照",
+   "srcLabel": "网络热度",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/BVENOfJojz_txpR4V-lpVA",
+   "college": "人工智能与自动化学院（相关）"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666147405&idx=1&sn=67f2afcc767daba10558d3ff9bcbcd32&scene=21&poc_token=HIQJDGmji0WpXYitVhjVPTSv2vml3Ua5ZGmkLujd",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237549&idx=5&sn=c6192f6406b80196a81aa796289724a9&scene=21&poc_token=HIIJDGmjkPcPNqcn-rRtuLy5QtO9dxCF0cPSCqMO",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237549&idx=4&sn=cfdf6f6e7510530a45650bddcaf2ff7a&scene=21&poc_token=HH8JDGmjJ5tGoVRAYVd_tyXaUrfU8Z-r7GH6R1id",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237549&idx=3&sn=376c2df73b2dc288a8373f016cc9429d&scene=21&poc_token=HH0JDGmjdN5UsjYY--hs96luR8yoJB-DjjlEOGgg",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237549&idx=2&sn=7b39888e2fef0cdf206e3589938923b6&scene=21&poc_token=HHoJDGmjUN_nsB8H_tT2MK_JnHNlc_MkV-o7Ox6i",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237549&idx=1&sn=3eeae39dca2cc42186efe37ae6cb7e84&scene=21&poc_token=HHYJDGmjDkmzamlv4OiHC-WnagDet-dHBOuhOZDj",
+  "25考情分析": "https://mp.weixin.qq.com/s/Ino_CfMjoBwLGydwpcFPxg",
+  "26考情分析": "https://mp.weixin.qq.com/s/BVENOfJojz_txpR4V-lpVA"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

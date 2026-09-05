@@ -1,0 +1,81 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "西南交通大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "四川",
+   "region": "西南",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "310",
+   "lineDelta": "+46",
+   "heatComp": "54",
+   "heatNet": "78",
+   "aiTag": "✅真AI方向",
+   "note": "川渝版已核实：085410复试线310，408首年；2026计算机与AI学院30+信息学院18，均22408",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "310",
+   "cyCode": "085404",
+   "cyAvg": "316",
+   "wdCount": "7",
+   "wdYears": "20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/Z6__6iULK8pJSX5wk9zvew",
+   "remark": "川渝参考085404",
+   "kaoqingUrl": "https://www.kaoyana.com/s1071/085410/",
+   "scope": "计算机与AI学院30人+信息学院18人，均22408（kaoyana）；复试线310（官方）；复试名单PDF下载受限，明细查无",
+   "college": "计算机与人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机与人工智能学院",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": "310",
+   "plan": null,
+   "retestCnt": null,
+   "admitCnt": null,
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": null,
+   "admitMin": null,
+   "admitAvg": null,
+   "scope": "计算机与AI学院30人+信息学院18人，均22408（kaoyana）；复试线310（官方）；复试名单PDF下载受限，明细查无",
+   "verify": "机构🔍(科目)+官方(线)",
+   "url": "https://www.kaoyana.com/s1071/085410/"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236323&idx=5&sn=5f3f19ebcf9ec9e1346ee86e6ff2e71c&scene=21&poc_token=HGbKCmmjrt-87K_ohcvycjBPdeNvrs0dFBagfOJr",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236323&idx=4&sn=e6fdfef9ab13635ea216a48334e16596&scene=21&poc_token=HF7KCmmjDSnWpKLHueVsrdqoCipNKa-pBUqn-IUx",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236323&idx=3&sn=2548c34efcc4806f18fdc50e3178308d&scene=21&poc_token=HFvKCmmj8rTXTuOwVuDCxtBUJaiLxNRHIHso2bc1",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236323&idx=2&sn=537be2c0345350154c2fbd85ae541654&scene=21&poc_token=HFnKCmmjMhiRDz3yJVRMs9WjtLv6Z2f8xI3WdQrE",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236323&idx=1&sn=74bb2a8f62ce98cb7f6d58a3b9770239&scene=21&poc_token=HFXKCmmjz-lns5Vx5K9J4JOYs2dGa_GFQ3sLggR-",
+  "25考情": "https://mp.weixin.qq.com/s/ELcM2saN4NzM0AQ9JEtNjg",
+  "26考情": "https://mp.weixin.qq.com/s/Z6__6iULK8pJSX5wk9zvew"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

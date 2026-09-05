@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "上海科技大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "上海科技大学",
+   "province": "上海",
+   "college": "信息科学与技术学院",
+   "program": "电子信息",
+   "subjects": "英一数一408",
+   "line": "264",
+   "retestCnt": null,
+   "adjCnt": "0",
+   "avgTotal": null,
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": null,
+   "admitAvg": null,
+   "rate": null,
+   "ratioNN": null,
+   "note": "⚠️非22408(英一数一408)；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666150746&idx=4&sn=3392cf360eb9e1d9035be9530f94c14d&scene=21&poc_token=HBMIC2mjIQuQPiUgqvDBYtQmk4S6IBtBhB6j9aOL",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666218158&idx=6&sn=3d083f938f2534c2375736438bce4466&scene=21&poc_token=HP0HC2mjuq4UZv7v_mfDQPDXnRQ8q5VQ-jhnNalJ",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232004&idx=4&sn=dd6cfb3152b516aae046ff271fe33df6&scene=21&poc_token=HPQHC2mjOt9hEiKJ8JPvQakfEtqUgBlXGFndsfri",
+  "25考情": "https://mp.weixin.qq.com/s/Os6ojzflbEN3EXXYs0TgoA",
+  "26考情": "https://mp.weixin.qq.com/s/nkhre9e8jFr9L4J5xSAQTQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

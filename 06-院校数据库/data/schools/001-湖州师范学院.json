@@ -1,0 +1,44 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "湖州师范学院",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "湖州师范学院",
+   "province": "浙江",
+   "college": "信息工程学院",
+   "program": "电子信息-人工智能",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "0",
+   "adjCnt": "145",
+   "avgTotal": null,
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "0",
+   "admitAvg": null,
+   "rate": null,
+   "ratioNN": null,
+   "note": "✅22408兼容；含AI"
+  }
+ ],
+ "wangdaoLinks": {
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234771&idx=4&sn=f1a48c181636c5ebcc008f4708fc8fe8&scene=21&poc_token=HFOlCmmjZYFTzSqDjQ94XS1GxvFya31clT8AULSw",
+  "25考情": "https://mp.weixin.qq.com/s/FL9wVbX93DfGv7SQ3qTUcA",
+  "26考情": "https://mp.weixin.qq.com/s/7ccG5ldmRlTEejRZsxgjIg"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

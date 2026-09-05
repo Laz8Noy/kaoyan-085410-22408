@@ -1,0 +1,75 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "沈阳航空航天大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "辽宁",
+   "region": "东北",
+   "tier": "双非",
+   "subjectClass": "非408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "一志愿为主",
+   "ratioRetest": "1.2",
+   "aiTag": "❓未注明",
+   "heatNet": "55",
+   "heatComp": "28",
+   "note": "2026初试834程序设计基础（非408），国家线，复录比约1.2:1",
+   "srcLabel": "机构估算",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "5",
+   "wdYears": "19考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/gi-6MZkko6EveczgRW1D9Q",
+   "college": "计算机学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666152467&idx=3&sn=b02fa70f335900b33c4a55dab0ad8842&scene=21&poc_token=HKg6DGmjiGkG6go8rzZglt9NU24Bn9eGYsAFxMYM",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666217129&idx=4&sn=e5ce1d3a289511471e40be63b89e7a94&scene=21&poc_token=HKY6DGmjQi3RGv9cqO7vuQlsKU_JXHeWXMetN0Fo",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666230710&idx=6&sn=462dbb1de6301ab4500fe5b1d190c019&scene=21&poc_token=HKM6DGmjm77OnEkfxci5h2pvMWYzBDgLYGiQOZ_C",
+  "25考情": "https://mp.weixin.qq.com/s/MMfGQcKP6IpVfsrLCH1t5A",
+  "26考情": "https://mp.weixin.qq.com/s/gi-6MZkko6EveczgRW1D9Q"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "沈阳航空航天大学408考情",
+   "url": "https://mtoutiao.xdf.cn/kaoyan/202607/15283195.html"
+  },
+  {
+   "label": "沈阳航空航天大学085410招生计划",
+   "url": "https://www.kaoyana.com/s1272/085410/43428/"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

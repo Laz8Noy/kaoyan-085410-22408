@@ -1,0 +1,69 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "北京交通大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "北京",
+   "region": "华北",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "326",
+   "lineDelta": "+62",
+   "heatComp": "61",
+   "heatNet": "85",
+   "aiTag": "✅真AI方向",
+   "note": "电信学院22408（线326/20人）；自动化与智能学院2027改408（2026线285/22人，公共课英二数二已确认）；⚠️计算机学院085410为11408勿报；在职中心非全264",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "lineUltimate2026": "326",
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/XIwz79c1lNlN6d2EUrcj3w",
+   "college": "电子信息工程学院+自动化与智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237329&idx=6&sn=d3f4a055344efff1edbf661bc9487387&scene=21&poc_token=HKjTCWmjfNOwdfwFzg8Po8ngbdHPSES5GRXyo7LB",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237329&idx=5&sn=c5643acd442f3d580742b3d20c3fe6dc&scene=21&poc_token=HKbTCWmjS_uu03z0rNYs1YRUIzw7Dqk9Gs1I95Cm",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237329&idx=4&sn=251a39ed4a878fde351851a119c8816c&scene=21&poc_token=HKTTCWmj0EWZqmcuDkY4LNoWgjSsaA7bnCMcdja_",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237329&idx=3&sn=6f95352550c38f350c34cb050e0f8782&scene=21&poc_token=HKLTCWmj_UvfHqauhO9EpEZfMo7L7aixOXU3GL3k",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237329&idx=2&sn=2dbcff8c20a0500248311635e8fa8d41&scene=21&poc_token=HJ_TCWmjepK43FeWWYUa5JWHxNy4puQuBhzZU56n",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237329&idx=1&sn=959c2dfecec194e5cfa6017e05ab2334&scene=21&poc_token=HJ3TCWmj3ETuf0aIJkGNu0qszEcNZ1hrB6xKXgKm",
+  "25考情分析": "https://mp.weixin.qq.com/s/swTbt9CoKwl29GPgsqGqkg",
+  "26考情分析": "https://mp.weixin.qq.com/s/XIwz79c1lNlN6d2EUrcj3w"
+ },
+ "updates2027": [
+  {
+   "院校": "北京交通大学",
+   "层次": "211",
+   "专业/范围": "自动化与智能学院085410",
+   "原科目": "801自动控制综合",
+   "新科目": "408",
+   "生效年份": "2027",
+   "来源": "官方公告2026-06-04",
+   "备注": "公共课已确认英二数二(2026年就是22408)；2026线285/22人"
+  }
+ ],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

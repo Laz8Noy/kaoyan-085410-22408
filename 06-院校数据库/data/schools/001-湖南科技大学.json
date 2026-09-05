@@ -1,0 +1,111 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "湖南科技大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "湖南",
+   "region": "华中",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "338",
+   "lineDelta": "+74",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": "273",
+    "2026": "338"
+   },
+   "plan2026": "55(口径待核)",
+   "fill": "一志愿为主",
+   "ratioApply": "7.5",
+   "aiTag": "✅真AI方向",
+   "heatNet": "70",
+   "heatComp": "69",
+   "nn408avg": "78",
+   "nnRate": "100%",
+   "note": "报录比约7.5:1，复试线338（单科43/65）；2027信息与电气工程学院初试科目调整公告涉085410（官方2026-08-17），以9月简章为准",
+   "srcLabel": "官方+机构",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "338",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "计算机科学与工程学院",
+   "nnSubjects": "英二数二408",
+   "wdCount": "7",
+   "wdYears": "19考情分析,20考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/5xodbt-Q34vMnigdw8R88A",
+   "college": "信息与电气工程学院/计算机科学与工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666152078&idx=4&sn=52353516274895c71b0499eab2dfaad2&scene=21&poc_token=HO8cDGmjUD0odtVVR9NpoHZlWNerW8SrooJesMBW",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666155194&idx=3&sn=a0b938af58e3915ac137fa398237879f&scene=21&poc_token=HOscDGmjVf8l_seozS4z_23k-oq9A3FtEkLZd2GV",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185121&idx=5&sn=725b5ab96c5fb65f2880be4fce47fe8c&scene=21&poc_token=HOkcDGmj4ICD_-KkT2FXiZD2U1rzYZlo3axUrlnM",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666209383&idx=4&sn=bf83e0c70a458ecc9f627f6e70eabbf3&scene=21&poc_token=HOccDGmjEbT2MaouCO7AkNF4kfmcKgDYituJaX2W",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233982&idx=5&sn=afeec8498976fed176d1ee6580b54887&scene=21&poc_token=HOUcDGmj1t75D1XY-ivFwLxP96wZxSOBjBPSV4QA",
+  "25考情分析": "https://mp.weixin.qq.com/s/ILMO_a_3MU2QgZ2nHFJyag",
+  "26考情分析": "https://mp.weixin.qq.com/s/5xodbt-Q34vMnigdw8R88A"
+ },
+ "updates2027": [
+  {
+   "院校": "湖南科技大学",
+   "层次": "双非",
+   "专业/范围": "信息与电气工程学院085410等",
+   "原科目": "待核",
+   "新科目": "待核",
+   "生效年份": "2027",
+   "来源": "官方公告2026-08-17",
+   "备注": "公告涉081100/085406/085410；以9月简章为准"
+  }
+ ],
+ "tutors": [
+  "谭超（深度学习、图像处理、光通信交叉）；潘昌忠（无人系统(海洋机器人/无人机)智能控制、机器人技术）"
+ ],
+ "inTJList": null,
+ "inKeyList": {
+  "院校": "湖南科技大学",
+  "省份": "湖南",
+  "大区": "华中",
+  "层次": "双非",
+  "学院": "信息与电气工程学院/计算机科学与工程学院",
+  "初试科目": "22408",
+  "方向": "不区分研究方向",
+  "2026线": "338",
+  "拟招": "55(口径待核)",
+  "一志愿/调剂": "一志愿为主",
+  "AI方向": "✅真AI方向",
+  "来源": "官方+机构",
+  "综合热度": "69",
+  "备注": "报录比约7.5:1，复试线338（单科43/65）；2027信息与电气工程学院初试科目调整公告涉085410（官方2026-08-17），以9月简章为准"
+ },
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "湖南科技大学085410考情",
+   "url": "https://kaoyan.koolearn.com/20260504/1944414.html"
+  },
+  {
+   "label": "湖南科技大学2027初试科目调整公告",
+   "url": "https://graduate.hnust.edu.cn/zsgz/sszs/7268060002814a4cbfad82bc695441e6.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

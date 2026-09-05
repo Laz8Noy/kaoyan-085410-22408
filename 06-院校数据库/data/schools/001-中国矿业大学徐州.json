@@ -1,0 +1,55 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "中国矿业大学（徐州）",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "江苏",
+   "region": "华东",
+   "tier": "211",
+   "subjectClass": "22408",
+   "heatComp": "49",
+   "heatNet": "66",
+   "aiTag": "✅真AI方向",
+   "note": "2026新增085410并考408（研招网公告2025-08）；复试人工智能专业综合；⚠️信息与控制工程学院085410考868自动控制原理（非408）勿报；学硕11408/专硕22408",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/X5JC2oPLnRK0zP5ZyZMTKg",
+   "college": "计算机学院/人工智能学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666176635&idx=8&sn=f007136d4c827f4d42daf834b32e30a4&scene=21&poc_token=HEJrDGmjFqD5Q5wuMHbPm-pWpNIF-u9gn4dGYo2e",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666208196&idx=7&sn=a213b603b4775b97a1cbda6861c14d9d&scene=21&poc_token=HBxrDGmjV5ErsOCvCZz4BFN3YvC4pVAV6A-5xUCG",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236199&idx=8&sn=688fa725a2fd95e76376bf099e385792&scene=21&poc_token=HBlrDGmj3wAqIeRva05h09-zHTBJp2k3-QvRQlFU",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236199&idx=6&sn=a93e92663173cfe6e7be1c2ff3925fa0&scene=21&poc_token=HCFrDGmjRjKRPhjzuHFKHLwGR7zo7AdCsTZRMXlb",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666236199&idx=4&sn=208d7bc819bd16eb3e15a1d3a53eb6b2&scene=21&poc_token=HABrDGmjiqcIybl4HpvmqJDHoZN1mZoJJwOdYAWr",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666229818&idx=6&sn=383da0dbff1e864aa89d80c1ac9ab3d0&scene=21&poc_token=HP5qDGmjmA6KqUZkZLavUhUBj6LmPAIiqikBU5Cw",
+  "25考情": "https://mp.weixin.qq.com/s/iheU5g9SQcY4AWYzJkB89Q",
+  "26考情": "https://mp.weixin.qq.com/s/X5JC2oPLnRK0zP5ZyZMTKg"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

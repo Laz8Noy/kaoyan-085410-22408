@@ -1,0 +1,66 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "北京邮电大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "北京",
+   "region": "华北",
+   "tier": "211",
+   "subjectClass": "待确认",
+   "heatComp": "54",
+   "heatNet": "90",
+   "aiTag": "✅真AI方向",
+   "note": "085410线待官方核实，作211对照",
+   "srcLabel": "网络热度",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "wdCount": "8",
+   "wdYears": "19考情分析,20考情分析,21考情分析,22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/-_QD3BTY7kAGXnYU_mPO1Q",
+   "college": "人工智能学院（相关）"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237655&idx=6&sn=cabca7f145534820a32d1356793d2e01&scene=21&poc_token=HGnUCWmjm2Mw5VC1tW72YIj0FtCTQ2R-v0weI2Tn",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237655&idx=5&sn=023414f06c4e29bacfa7259d48660fbd&scene=21&poc_token=HGbUCWmj5AznhzHGSn03hjwp9rorgtWmz1Jh-obY",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237655&idx=4&sn=d518efcce36df16c6b1cb834bcbbde7d&scene=21&poc_token=HGPUCWmjDhLFBUplfsYk5MQX9dPVrGnsS_nhnpF8",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237655&idx=3&sn=fa4aa64e9737c76e773a69bb19ed8c1f&scene=21&poc_token=HGDUCWmjBpvvHU9baoW-PpXA9JxbVT6axLN5Uhns",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237655&idx=2&sn=aba08562490a1fab580e61b4388422fa&scene=21&poc_token=HF3UCWmjI9jZoJcKwBhlOFX09rBwiD47X2Zbz0dl",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237655&idx=1&sn=0d2fe13d8d68ed07a65c5f2584df9acf&scene=21&poc_token=HFvUCWmj08_odI6cPpzmg7LMs-iBZ6UPCFYPOuXH",
+  "25考情分析": "https://mp.weixin.qq.com/s/UaazySEV6bR16MLyDLQEVw",
+  "26考情分析": "https://mp.weixin.qq.com/s/-_QD3BTY7kAGXnYU_mPO1Q"
+ },
+ "updates2027": [
+  {
+   "院校": "北京邮电大学",
+   "层次": "211",
+   "专业/范围": "AI学院085410/140500/0810Z1",
+   "原科目": "809数据结构等",
+   "新科目": "408",
+   "生效年份": "2027",
+   "来源": "官方公告2026-07",
+   "备注": "⚠️公共课英一数一，非22408"
+  }
+ ],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

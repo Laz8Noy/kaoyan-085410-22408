@@ -1,0 +1,48 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "浙江师范大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "浙江师范大学",
+   "province": "浙江",
+   "college": "数学与计算机科学学院",
+   "program": "电子信息",
+   "subjects": "英二数二408",
+   "line": "306",
+   "retestCnt": "151",
+   "adjCnt": "1",
+   "avgTotal": "332",
+   "avg408": "89",
+   "avgPol": "62",
+   "avgEng": "70",
+   "avgMath": "111",
+   "admitCnt": "125",
+   "admitAvg": "336",
+   "rate": "80%",
+   "ratioNN": "1.2",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233198&idx=5&sn=8b4a36977193cc7e04c90211fd61033b&scene=21&poc_token=HLOiCmmjglEPdIMg_l0U4Uf2KyMb-telxdX5LsBZ",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233198&idx=4&sn=ff017c0cf888dc7e5a40adb60569ed42&scene=21&poc_token=HI2iCmmjVt7yZKXdF02CNtgSx4lPNO9UEwTKql1H",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233198&idx=3&sn=4cdf33276bcdc3f482f684bf36b56187&scene=21&poc_token=HIuiCmmjlXZ4lVWBG7fdL3Qmeg9nfWeWpnhb6MX7",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233198&idx=2&sn=318f46453ddccd2553c88b33298d3c9e&scene=21&poc_token=HGKiCmmjPJucUO-xcLbeskZrOYloRGyx2OelvEcK",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233198&idx=1&sn=7ad729a860a4c977cf1f02653982a1b0&scene=21&poc_token=HHyiCmmjV9cwcXfA4ZZexV8QmVubRzOJLUaJpgKW",
+  "25考情": "https://mp.weixin.qq.com/s/oWIwAl2yyRSF43NbtgtxsQ",
+  "26考情": "https://mp.weixin.qq.com/s/_gAQpITdn4lu7rV8kyUCyg"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

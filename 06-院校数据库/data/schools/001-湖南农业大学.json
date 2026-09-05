@@ -1,0 +1,49 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "湖南农业大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "湖南农业大学",
+   "province": "湖南",
+   "college": "信息科学技术学院",
+   "program": "计算机科学与技术",
+   "subjects": "英一数一408",
+   "line": "264",
+   "retestCnt": "5",
+   "adjCnt": "0",
+   "avgTotal": "293",
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "5",
+   "admitAvg": null,
+   "rate": "100%",
+   "ratioNN": "1",
+   "note": "⚠️非22408(英一数一408)"
+  }
+ ],
+ "wangdaoLinks": {
+  "19考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666152144&idx=5&sn=4ab6c7ed0a1d303f5fff328557f60634&scene=21&poc_token=HKYbDGmjwBvNXBQWqHSoOBojwVLhYOEBy3J0fc-Z",
+  "20考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666155809&idx=5&sn=ea33999842a448d2ffc65853416e5688&scene=21&poc_token=HKQbDGmj3CROTc5tlltqc8lI7baWJf9YAu_stFRc",
+  "21考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666172255&idx=7&sn=409c1b6f176f1b885216a7d806555e44&scene=21&poc_token=HKEbDGmjumwk5Af-NY7DPKi536YcaYV-hhlevRCN",
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666185891&idx=6&sn=379fe91a922b8f3fc9c963ab9e9d94b2&scene=21&poc_token=HJ4bDGmje3yJDNN6ZJ8XsawIv8JQa0NZFmtCfuP9",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666209383&idx=6&sn=2760a32b7f67ea106c50c13037cca226&scene=21&poc_token=HJwbDGmjJWTr5YJGOa6BA1aeLigD_6wlf5oGBKQH",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666232294&idx=6&sn=11dda249d9c6e7032e542b09aad166a7&scene=21&poc_token=HJgbDGmjYTiyauJya6tqGjuVc13XWStq42U3Ol6W",
+  "25考情分析": "https://mp.weixin.qq.com/s/wSPJ945k5-5W5qh7EybaSQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/9eFjv98E0U0Yax4xfGeEtQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

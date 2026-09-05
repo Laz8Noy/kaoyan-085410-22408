@@ -1,0 +1,79 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "河南工业大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "河南",
+   "region": "华中",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "不区分研究方向",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "plan2026": "35",
+   "fill": "一志愿复试17人",
+   "ratioApply": "4.3",
+   "aiTag": "✅真AI方向",
+   "heatNet": "62",
+   "heatComp": "35",
+   "nn408avg": "76",
+   "nnRate": "80%",
+   "note": "复试考察C++；2026拟招35",
+   "srcLabel": "官方+机构",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "nnProg": "电子信息-人工智能",
+   "nnCollege": "人工智能与大数据学院",
+   "nnSubjects": "推测408",
+   "wdCount": "5",
+   "wdYears": "22考情分析,23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/9EPRYdO4rXFTKkXywN1gXQ",
+   "college": "人工智能与大数据学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "22考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186780&idx=5&sn=d5111f2a660f8f2230182b1fad8302c0&scene=21&poc_token=HM77C2mjSVfyv5qfj508KatIEfmmJmmqBRe4A78b",
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666201790&idx=3&sn=faae869e3ec2e3fc0318ed493dc048a7&scene=21&poc_token=HMv7C2mjJFxsc6DQ-yxTCeS5Dqiw0fZq0GbhcXIQ",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666231199&idx=5&sn=7d7b9461245ab5605b8576c5eabfd8c3&scene=21&poc_token=HMn7C2mj3Py2yDTABaaukwRJhVmX_O7b8GVHGl3x",
+  "25考情分析": "https://mp.weixin.qq.com/s/HnDok_xsR1WiBjX1ftoBVg",
+  "26考情分析": "https://mp.weixin.qq.com/s/9EPRYdO4rXFTKkXywN1gXQ"
+ },
+ "updates2027": [],
+ "tutors": [
+  "樊超（信息与信号处理、光电信息检测、图像处理）；朱春华（智能通信、语义信息论、可解释机器学习）；母亚双（分布式机器学习、大数据分析与处理）；吴炳林（强化学习、智能优化计算、可信人工智能、智能交通）"
+ ],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "河南工业大学085410复试细则",
+   "url": "https://aidata.haut.edu.cn/info/1208/11368.htm"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

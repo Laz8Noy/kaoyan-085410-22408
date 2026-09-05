@@ -1,0 +1,63 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "北京建筑大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "北京",
+   "region": "华北",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "机器学习/视觉/NLP",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": null,
+    "2026": "264"
+   },
+   "fill": "一志愿为主",
+   "aiTag": "✅真AI方向",
+   "heatNet": "50",
+   "heatComp": "30",
+   "note": "执行A区国家线；学院简介明确AI方向",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "3",
+   "wdYears": "24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/txjmn7zFI6jXyeJ4yb5xGA",
+   "college": "智能科学与技术学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233708&idx=5&sn=9d8d0af89f0732d46bf404cd241d0c5e&scene=21&poc_token=HOGhCmmjKEf85Lgg0mu4Ies0TVGIn6-uguwSQNcS",
+  "25考情分析": "https://mp.weixin.qq.com/s/s9wUG9KkBio-36G7gUYF0Q",
+  "26考情分析": "https://mp.weixin.qq.com/s/txjmn7zFI6jXyeJ4yb5xGA"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

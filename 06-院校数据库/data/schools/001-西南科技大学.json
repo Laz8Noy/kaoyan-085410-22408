@@ -1,0 +1,46 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "西南科技大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "西南科技大学",
+   "province": "四川",
+   "college": "计算机科学与技术学院",
+   "program": "电子信息-软件方向",
+   "subjects": "英二数二408",
+   "line": null,
+   "retestCnt": "75",
+   "adjCnt": "0",
+   "avgTotal": "295",
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "70",
+   "admitAvg": "298",
+   "rate": "90%",
+   "ratioNN": "1.1",
+   "note": "✅22408兼容；含电子信息"
+  }
+ ],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666186581&idx=6&sn=affbd46db38b9a17979a66d0e7749acf&scene=21&poc_token=HKDxCmmjG7YqTi8SkmXEFPwcD_4QP1ER4G5EUi2G",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666211105&idx=8&sn=621ba16df0a021e22662a724e7e5659f&scene=21&poc_token=HIHxCmmja2wLqziN6PS1I988mHQXLyrZKsWXLCUt",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234274&idx=6&sn=eb2d1f337a45dbdfb52fe058bbd169fa&scene=21&poc_token=HIfxCmmjq7Gk9LatcdlADcP4tmNzr-CwZGfnBsTf",
+  "25考情": "https://mp.weixin.qq.com/s/5Q_7JU4vhASayEqUmTvcQg",
+  "26考情": "https://mp.weixin.qq.com/s/2nz9omqzeWRX1S_NpTbBtQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}

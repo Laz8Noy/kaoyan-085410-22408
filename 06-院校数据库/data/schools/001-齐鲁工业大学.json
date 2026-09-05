@@ -1,0 +1,72 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "齐鲁工业大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "山东",
+   "region": "华东",
+   "tier": "双非",
+   "subjectClass": "非408",
+   "direction": "计算机视觉",
+   "line2026": "264",
+   "lineDelta": "=国家线",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": "260",
+    "2026": "264"
+   },
+   "plan2026": "28",
+   "fill": "一志愿为主",
+   "ratioRetest": "1.21",
+   "aiTag": "✅真AI方向",
+   "heatNet": "52",
+   "heatComp": "28",
+   "note": "复试51人/录取42人；方向为计算机视觉",
+   "srcLabel": "官方",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "264",
+   "wdCount": "5",
+   "wdYears": "22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/K4BvL8Gwj-T3GRwCnFkTtg",
+   "college": "数学与人工智能学部"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235752&idx=3&sn=02eb84339836f31ccecc3f7a3135527e&scene=21&poc_token=HDUFDGmj1KAQRkf9jTnyJred_7qsyGtSo0XGLwCG",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235752&idx=2&sn=d49405e92cd15a8ca6fb1c9b83e0f8c4&scene=21&poc_token=HBwFDGmj23wKqm9vk5vN6e3FdMRUUhsS3-U1KReN",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235752&idx=1&sn=965f568e56a4efea4286b2b74fde5efb&scene=21&poc_token=HBkFDGmjoYz2gMJBepJsneRVJ2BD_i_6MnibJhMQ",
+  "25考情": "https://mp.weixin.qq.com/s/W-XbQQlgHDZE0leTdAIjfA",
+  "26考情": "https://mp.weixin.qq.com/s/K4BvL8Gwj-T3GRwCnFkTtg"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "齐鲁工业大学085410专业介绍",
+   "url": "https://www.yanshuoshi.com/professional/list-143-2.html"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

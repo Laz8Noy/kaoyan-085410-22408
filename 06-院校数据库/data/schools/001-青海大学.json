@@ -1,0 +1,88 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "青海大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "青海",
+   "region": "西北",
+   "tier": "211",
+   "subjectClass": "22408",
+   "line2026": "254",
+   "lineDelta": "=国家线",
+   "heatComp": "30",
+   "heatNet": "48",
+   "aiTag": "✅真AI方向",
+   "note": "B区211双一流；22408(英二数二408)；2023=263/2025=250/2026=254均按B区国家线未设院线；一志愿21/25调剂0；复试考程序设计；一志愿复试44人",
+   "srcLabel": "官方+启航",
+   "src": [
+    "区域榜",
+    "三源核对",
+    "考情明细"
+   ],
+   "lineUltimate2026": "254",
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/Os8HhG8qbxS6NPRNl6QNpA",
+   "kaoqingUrl": "https://cs.qhu.edu.cn/docs//2026-03/5044754f48e142f1a58bae040c554215.pdf",
+   "scope": "一志愿复试成绩公示44人，初试最高354、最低284、均308.2；拟录取名单见研招网公示；计划25/32（口径不一）",
+   "college": "计算机技术与应用学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [
+  {
+   "college": "计算机技术与应用学院",
+   "tier": "211",
+   "subjects": "22408",
+   "line2026": "254",
+   "plan": "25",
+   "retestCnt": "44",
+   "admitCnt": null,
+   "ratioRetest": null,
+   "ratioApply": null,
+   "admitMax": "354",
+   "admitMin": "284",
+   "admitAvg": "308.2",
+   "scope": "一志愿复试成绩公示44人，初试最高354、最低284、均308.2；拟录取名单见研招网公示；计划25/32（口径不一）",
+   "verify": "官方✅",
+   "url": "https://cs.qhu.edu.cn/docs//2026-03/5044754f48e142f1a58bae040c554215.pdf"
+  }
+ ],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233252&idx=6&sn=65facdff9fc28f3992acd622a78d11b2&scene=21&poc_token=HLsODGmj7idiiTd5k-_-NQaPgp887Fx3yrPYFP2_",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233252&idx=5&sn=b9fea680dfcd74ae801581b1f7fa3dae&scene=21&poc_token=HLgODGmj5HbSC2EnCFSBjl_LISk6XEGl3A4mOM6I",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233252&idx=4&sn=4da8945d768ee49d9e5213a095cabc3e&scene=21&poc_token=HLYODGmjOTUmmcNV3nzMnns8tAyRF_QIcqY1dq17",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233252&idx=3&sn=c36adf61e226f39c99f24775f9b59b88&scene=21&poc_token=HKgODGmjmE3OGuYFZ-l7VhAwPNGQ70E2SK1Pobfj",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233252&idx=2&sn=351f790780bdff7e5322e0eab202c275&scene=21&poc_token=HIsODGmjqdJ6Hy1DPQS7hSRtOd6PVKHv7J1yqeWb",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666233252&idx=1&sn=3f4b44b5cf2a63f4a82cb4790f4b2150&scene=21&poc_token=HIgODGmjUW2wbiJwqCYUFsb2ClZuDC8FgmjGMIY0",
+  "25考情": "https://mp.weixin.qq.com/s/kFju1yz5qoN9ZtSAONIAPw",
+  "26考情": "https://mp.weixin.qq.com/s/Os8HhG8qbxS6NPRNl6QNpA"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "青海大学085410考情（B区211低分）",
+   "url": "https://m-jixun.iqihang.com/zixun/fenshuxian/2026714871.html#1"
+  },
+  {
+   "label": "青海大学2026一志愿成绩公示PDF",
+   "url": "https://cs.qhu.edu.cn/docs//2026-03/5044754f48e142f1a58bae040c554215.pdf"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

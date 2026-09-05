@@ -1,0 +1,57 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "苏州大学",
+ "units": [
+  {
+   "category": "C-对照",
+   "province": "江苏",
+   "region": "华东",
+   "tier": "211",
+   "subjectClass": "22408",
+   "heatComp": "53",
+   "heatNet": "78",
+   "aiTag": "✅真AI方向",
+   "note": "计科院2025线351（2026待核）；未来学院2025线343、复试Python程序设计；复试=程序设计60%+DS20%+算法20%",
+   "srcLabel": "官方",
+   "src": [
+    "区域榜",
+    "三源核对"
+   ],
+   "wdCount": "8",
+   "wdYears": "19考情,20考情,21考情,22考情,23考情,24考情,25考情,26考情",
+   "wdUrl26": "https://mp.weixin.qq.com/s/PsdOHtvKt1kR_QphQHSWXw",
+   "college": "计算机科学与技术学院+未来科学与工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "19考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237460&idx=6&sn=46ad3654ba1089afd73e6aad14a93c07&scene=21&poc_token=HJFpDGmj5U70szdfqBEUx2RVmbFWkyCfm4LrnmQs",
+  "20考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237460&idx=5&sn=364fba5917d3e0123077c6ad87f95835&scene=21&poc_token=HI9pDGmjreYWP86U8JqxBr8_GNX2cj2rJECA9acU",
+  "21考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237460&idx=4&sn=15514d5b9c0d759bd890605b33785c7b&scene=21&poc_token=HJlpDGmj5hRWJcFqxfksgXjoBy-ZGt9n5LnWS8vv",
+  "22考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237460&idx=3&sn=4a88167299487dfc01ea2287197a2164&scene=21&poc_token=HGtpDGmjsG03wx4eyqh-3lVBnmQEAfXkHSE2Fq51",
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237460&idx=2&sn=a4e7c83874f6fec1433fa0effd0ce340&scene=21&poc_token=HGhpDGmjHD144VFJyQNqqjH4odoq8Xe_lvohK5k8",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666237460&idx=1&sn=a046a7e2bc9272bda37472d8c97be94c&scene=21&poc_token=HGZpDGmjvNHxbo1JJoYuKWNoil8esuela3BPgx9Z",
+  "25考情": "https://mp.weixin.qq.com/s/iPKiCNApk0_j1WQcHoXWcg",
+  "26考情": "https://mp.weixin.qq.com/s/PsdOHtvKt1kR_QphQHSWXw"
+ },
+ "updates2027": [],
+ "tutors": [
+  "朱巧明（自然语言处理、知识图谱、人工智能）；王伟行（计算机视觉、深度学习、视觉与多模态大模型）；何红亮（视觉/多模态大模型、智能医学影像分析、计算病理）；费子成（085410人工智能招生导师(邮箱feizicheng@suda.edu.cn)） 等"
+ ],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

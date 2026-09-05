@@ -1,0 +1,75 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "东北石油大学",
+ "units": [
+  {
+   "category": "S-主体",
+   "province": "黑龙江",
+   "region": "东北",
+   "tier": "双非",
+   "subjectClass": "22408",
+   "direction": "人工智能方向",
+   "line2026": "302",
+   "lineDelta": "+38",
+   "linesByYear": {
+    "2023": null,
+    "2024": null,
+    "2025": "260",
+    "2026": "302"
+   },
+   "plan2026": "7",
+   "fill": "一志愿为主",
+   "ratioRetest": "1.2",
+   "aiTag": "⚠️偏传统",
+   "heatNet": "55",
+   "heatComp": "41",
+   "note": "2026由835电路改考408；复试线A区+38",
+   "srcLabel": "官方+机构",
+   "src": [
+    "总览",
+    "区域榜",
+    "招录比对比",
+    "三源核对"
+   ],
+   "lineUltimate2026": "302",
+   "wdCount": "4",
+   "wdYears": "23考情分析,24考情分析,25考情分析,26考情分析",
+   "wdUrl26": "https://mp.weixin.qq.com/s/0YZIKR31rQG0IPRkgVtg0Q",
+   "college": "电气信息工程学院"
+  }
+ ],
+ "crossRefs": [],
+ "kaoqingDetail2026": [],
+ "nnCandidates": [],
+ "wangdaoLinks": {
+  "23考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666212732&idx=8&sn=6321163c77796b4136dfa3add4948309&scene=21&poc_token=HEgFDGmjs7rHTt_vRbyh3wTjcnISr-kf43Ra9eh7",
+  "24考情分析": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666234059&idx=6&sn=3872c9a0ceacbb83971d0251c07e5ada&scene=21&poc_token=HEUFDGmjVcP-NTxFS4_OQ1yyAp-eXr1rub0w4EqM",
+  "25考情分析": "https://mp.weixin.qq.com/s/hmJFasmbExcHOE0nC-kZUQ",
+  "26考情分析": "https://mp.weixin.qq.com/s/0YZIKR31rQG0IPRkgVtg0Q"
+ },
+ "updates2027": [],
+ "tutors": [],
+ "inTJList": null,
+ "inKeyList": null,
+ "conflicts": [],
+ "sources": [
+  {
+   "label": "东北石油大学085410考情",
+   "url": "https://kaoyan.koolearn.com/20260601/1948366.html"
+  },
+  {
+   "label": "东北石油大学官方访谈（835→408）",
+   "url": "https://yz.chsi.com.cn/kyzx/kyft/zxft/202511/20251103/2293440531.html"
+  }
+ ],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx",
+   "王道考情链接总表_20260825.xlsx",
+   "kaoqing_20260821.json"
+  ],
+  "caution": "机器自动整合，主体行口径=085410 相关招生；数字为资料时点(2026)汇总，正式报考以当年官方简章/研招网为准。"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "schema": "kaoyan-school/v1",
+ "name": "天津城建大学",
+ "units": [],
+ "categoryGuess": "N诺新增候选(未入终极版S/C)",
+ "nnCandidates": [
+  {
+   "school": "天津城建大学",
+   "province": "天津",
+   "college": "计算机与信息工程学院",
+   "program": "计算机科学与技术",
+   "subjects": "英一数一408",
+   "line": null,
+   "retestCnt": "0",
+   "adjCnt": "37",
+   "avgTotal": null,
+   "avg408": null,
+   "avgPol": null,
+   "avgEng": null,
+   "avgMath": null,
+   "admitCnt": "0",
+   "admitAvg": null,
+   "rate": null,
+   "ratioNN": null,
+   "note": "⚠️非22408(英一数一408)"
+  }
+ ],
+ "wangdaoLinks": {
+  "23考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666215580&idx=6&sn=89d7642fa28484182639fcfb9e72fed4&scene=21&poc_token=HEq6CmmjDv8uRcH0nPqBvrra5uWthphsRe-awpUn",
+  "24考情": "https://mp.weixin.qq.com/s?__biz=MzA4OTE4MjIwMA==&mid=2666235181&idx=8&sn=e0a0e9adbf1300639ac41b5739aee46d&scene=21&poc_token=HEi6CmmjAScl23emgDNqjxubOdK0Z0bC2IrRm1fR",
+  "25考情": "https://mp.weixin.qq.com/s/c1KuhU5q5dGmhGrBEumiYg",
+  "26考情": "https://mp.weixin.qq.com/s/74tqS5tIYZvdiY4S5riaeQ"
+ },
+ "conflicts": [],
+ "sources": [],
+ "generated": {
+  "by": "etl_build_db.py",
+  "date": "2026-09-03",
+  "src": [
+   "全国408_085410双非热度版_终极版_20260826.xlsx::N诺新增候选校",
+   "王道考情链接总表_20260825.xlsx"
+  ],
+  "caution": "候选校：仅有N诺2026单条专业数据或王道链接，未做终极版主体档位评估。"
+ }
+}
